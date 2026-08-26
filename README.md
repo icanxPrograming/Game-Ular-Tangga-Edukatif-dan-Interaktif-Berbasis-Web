@@ -222,7 +222,7 @@ snakes-and-ladders-V1/
 
 1. _Clone_ repository ini:
    ```bash
-   git clone https://github.com/icanxPrograming/snake-and-ladders-ATMVersion.git
+   git clone https://github.com/icanxPrograming/Game-Ular-Tangga-Edukatif-dan-Interaktif-Berbasis-Web.git
    ```
 2. Buka folder project.
 3. Jalankan file `index.html` menggunakan browser (Sangat disarankan menggunakan ekstensi **Live Server** di VS Code agar fitur _fetch JSON_ berjalan lancar tanpa kendala _CORS/security_ browser).
