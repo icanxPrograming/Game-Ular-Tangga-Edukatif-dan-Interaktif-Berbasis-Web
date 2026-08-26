@@ -3,34 +3,202 @@
   "multiple_choice": [
     {
       "id": "S-MC-01",
-      "question": "Turunan pertama dari f(x) = x^2 adalah...",
+      "question": "Fungsi Komposisi (STANDARD 1): Jika f(x) = 2x + 1 dan g(x) = x - 3, maka (f o g)(x) adalah...",
       "options": [
-        "2x",
-        "x",
-        "2"
+        "2x - 5",
+        "2x - 6",
+        "2x + 4"
       ],
       "answer": 0,
       "time_limit": 30,
-      "explanation": "f'(x) = 2x"
+      "explanation": "f(g(x)) = 2(x - 3) + 1 = 2x - 6 + 1 = 2x - 5."
+    },
+    {
+      "id": "S-MC-02",
+      "question": "Matriks XI (STANDARD 2): Ordo dari matriks dengan 2 baris dan 3 kolom adalah...",
+      "options": [
+        "2 x 3",
+        "3 x 2",
+        "6"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Ordo ditulis m x n (Baris x Kolom)."
+    },
+    {
+      "id": "S-MC-03",
+      "question": "Lingkaran XI (STANDARD 3): Persamaan lingkaran berpusat di O(0,0) dengan jari-jari r adalah...",
+      "options": [
+        "x^2 + y^2 = r^2",
+        "x + y = r",
+        "x^2 - y^2 = r^2"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Persamaan standar lingkaran pusat (0,0)."
+    },
+    {
+      "id": "S-MC-04",
+      "question": "Fungsi Komposisi (STANDARD 4): Jika f(x) = 2x + 1 dan g(x) = x - 3, maka (f o g)(x) adalah...",
+      "options": [
+        "2x - 5",
+        "2x - 6",
+        "2x + 4"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "f(g(x)) = 2(x - 3) + 1 = 2x - 6 + 1 = 2x - 5."
+    },
+    {
+      "id": "S-MC-05",
+      "question": "Matriks XI (STANDARD 5): Ordo dari matriks dengan 2 baris dan 3 kolom adalah...",
+      "options": [
+        "2 x 3",
+        "3 x 2",
+        "6"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Ordo ditulis m x n (Baris x Kolom)."
+    },
+    {
+      "id": "S-MC-06",
+      "question": "Lingkaran XI (STANDARD 6): Persamaan lingkaran berpusat di O(0,0) dengan jari-jari r adalah...",
+      "options": [
+        "x^2 + y^2 = r^2",
+        "x + y = r",
+        "x^2 - y^2 = r^2"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Persamaan standar lingkaran pusat (0,0)."
+    },
+    {
+      "id": "S-MC-07",
+      "question": "Fungsi Komposisi (STANDARD 7): Jika f(x) = 2x + 1 dan g(x) = x - 3, maka (f o g)(x) adalah...",
+      "options": [
+        "2x - 5",
+        "2x - 6",
+        "2x + 4"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "f(g(x)) = 2(x - 3) + 1 = 2x - 6 + 1 = 2x - 5."
+    },
+    {
+      "id": "S-MC-08",
+      "question": "Matriks XI (STANDARD 8): Ordo dari matriks dengan 2 baris dan 3 kolom adalah...",
+      "options": [
+        "2 x 3",
+        "3 x 2",
+        "6"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Ordo ditulis m x n (Baris x Kolom)."
+    },
+    {
+      "id": "S-MC-09",
+      "question": "Lingkaran XI (STANDARD 9): Persamaan lingkaran berpusat di O(0,0) dengan jari-jari r adalah...",
+      "options": [
+        "x^2 + y^2 = r^2",
+        "x + y = r",
+        "x^2 - y^2 = r^2"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Persamaan standar lingkaran pusat (0,0)."
+    },
+    {
+      "id": "S-MC-10",
+      "question": "Fungsi Komposisi (STANDARD 10): Jika f(x) = 2x + 1 dan g(x) = x - 3, maka (f o g)(x) adalah...",
+      "options": [
+        "2x - 5",
+        "2x - 6",
+        "2x + 4"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "f(g(x)) = 2(x - 3) + 1 = 2x - 6 + 1 = 2x - 5."
     }
   ],
   "true_false": [
     {
       "id": "S-TF-01",
-      "question": "Integral dari 2x dx adalah x^2 + C.",
+      "question": "Fungsi Komposisi: Fungsi invers f^-1(x) membalikkan pemetaan asal.",
       "answer": true,
       "time_limit": 20,
-      "explanation": "∫2x dx = x^2 + C"
+      "explanation": "Invers memetakan balik x ke y."
+    },
+    {
+      "id": "S-TF-02",
+      "question": "Matriks XI: Dua matriks dapat dijumlahkan jika memiliki ordo sama.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Penjumlahan matriks mensyaratkan kesamaan ordo."
+    },
+    {
+      "id": "S-TF-03",
+      "question": "Lingkaran XI: Garis singgung lingkaran selalu tegak lurus jari-jari di titik singgung.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Sudut antara garis singgung dan jari-jari adalah 90 derajat."
+    },
+    {
+      "id": "S-TF-04",
+      "question": "Fungsi Komposisi: Fungsi invers f^-1(x) membalikkan pemetaan asal.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Invers memetakan balik x ke y."
+    },
+    {
+      "id": "S-TF-05",
+      "question": "Matriks XI: Dua matriks dapat dijumlahkan jika memiliki ordo sama.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Penjumlahan matriks mensyaratkan kesamaan ordo."
     }
   ],
   "essay": [
     {
       "id": "S-ES-01",
-      "question": "Hitunglah nilai dari lim x->2 (x + 3)!",
+      "question": "Fungsi Komposisi: Jika f(x) = x + 5, tuliskan rumus fungsi invers f^-1(x)!",
+      "answer": "x - 5",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "y = x + 5 -> x = y - 5."
+    },
+    {
+      "id": "S-ES-02",
+      "question": "Matriks XI: Hitung determinan matriks [[2, 1], [3, 4]]!",
       "answer": "5",
-      "input_type": "math",
-      "time_limit": 30,
-      "explanation": "2 + 3 = 5"
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "det = (2*4) - (1*3) = 8 - 3 = 5."
+    },
+    {
+      "id": "S-ES-03",
+      "question": "Lingkaran XI: Tuliskan nilai jari-jari r dari lingkaran x^2 + y^2 = 25!",
+      "answer": "5",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "r^2 = 25 -> r = 5."
+    },
+    {
+      "id": "S-ES-04",
+      "question": "Fungsi Komposisi: Jika f(x) = x + 5, tuliskan rumus fungsi invers f^-1(x)!",
+      "answer": "x - 5",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "y = x + 5 -> x = y - 5."
+    },
+    {
+      "id": "S-ES-05",
+      "question": "Matriks XI: Hitung determinan matriks [[2, 1], [3, 4]]!",
+      "answer": "5",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "det = (2*4) - (1*3) = 8 - 3 = 5."
     }
   ]
 }

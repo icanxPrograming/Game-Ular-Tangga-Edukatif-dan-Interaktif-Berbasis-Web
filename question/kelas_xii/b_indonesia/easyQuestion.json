@@ -3,45 +3,202 @@
   "multiple_choice": [
     {
       "id": "E-MC-01",
-      "question": "Teks yang berisi uraian tentang hasil pengamatan atau observasi disebut …",
+      "question": "Surat Lamaran Kerja (EASY 1): Bagian surat lamaran kerja yang memuat data diri pelamar dinamakan...",
       "options": [
-        "Teks Eksposisi",
-        "Teks Laporan Hasil Observasi",
-        "Teks Narasi"
+        "Identitas Pelamar / Kualifikasi",
+        "Salam Pembuka",
+        "Penutup"
       ],
-      "answer": 1,
-      "explanation": "LHO menyajikan fakta hasil pengamatan secara sistematis.",
-      "time_limit": 30
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Identitas mencantumkan nama, TTL, pendidikan."
     },
     {
       "id": "E-MC-02",
-      "question": "Kata yang bermakna sebenarnya atau tidak bermakna kiasan disebut makna …",
+      "question": "Teks Editorial (EASY 2): Teks editorial merupakan pandangan resmi redaksi media massa terhadap...",
       "options": [
-        "Denotatif",
-        "Konotatif",
-        "Kiasan"
+        "Isu hangat / berita aktual",
+        "Cerita rekaan",
+        "Resep makanan"
       ],
       "answer": 0,
-      "explanation": "Makna denotatif adalah makna lugas/sebenarnya.",
-      "time_limit": 30
+      "time_limit": 30,
+      "explanation": "Editorial/Tajuk rencana merespons isu terkini."
+    },
+    {
+      "id": "E-MC-03",
+      "question": "Surat Lamaran Kerja (EASY 3): Bagian surat lamaran kerja yang memuat data diri pelamar dinamakan...",
+      "options": [
+        "Identitas Pelamar / Kualifikasi",
+        "Salam Pembuka",
+        "Penutup"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Identitas mencantumkan nama, TTL, pendidikan."
+    },
+    {
+      "id": "E-MC-04",
+      "question": "Teks Editorial (EASY 4): Teks editorial merupakan pandangan resmi redaksi media massa terhadap...",
+      "options": [
+        "Isu hangat / berita aktual",
+        "Cerita rekaan",
+        "Resep makanan"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Editorial/Tajuk rencana merespons isu terkini."
+    },
+    {
+      "id": "E-MC-05",
+      "question": "Surat Lamaran Kerja (EASY 5): Bagian surat lamaran kerja yang memuat data diri pelamar dinamakan...",
+      "options": [
+        "Identitas Pelamar / Kualifikasi",
+        "Salam Pembuka",
+        "Penutup"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Identitas mencantumkan nama, TTL, pendidikan."
+    },
+    {
+      "id": "E-MC-06",
+      "question": "Teks Editorial (EASY 6): Teks editorial merupakan pandangan resmi redaksi media massa terhadap...",
+      "options": [
+        "Isu hangat / berita aktual",
+        "Cerita rekaan",
+        "Resep makanan"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Editorial/Tajuk rencana merespons isu terkini."
+    },
+    {
+      "id": "E-MC-07",
+      "question": "Surat Lamaran Kerja (EASY 7): Bagian surat lamaran kerja yang memuat data diri pelamar dinamakan...",
+      "options": [
+        "Identitas Pelamar / Kualifikasi",
+        "Salam Pembuka",
+        "Penutup"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Identitas mencantumkan nama, TTL, pendidikan."
+    },
+    {
+      "id": "E-MC-08",
+      "question": "Teks Editorial (EASY 8): Teks editorial merupakan pandangan resmi redaksi media massa terhadap...",
+      "options": [
+        "Isu hangat / berita aktual",
+        "Cerita rekaan",
+        "Resep makanan"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Editorial/Tajuk rencana merespons isu terkini."
+    },
+    {
+      "id": "E-MC-09",
+      "question": "Surat Lamaran Kerja (EASY 9): Bagian surat lamaran kerja yang memuat data diri pelamar dinamakan...",
+      "options": [
+        "Identitas Pelamar / Kualifikasi",
+        "Salam Pembuka",
+        "Penutup"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Identitas mencantumkan nama, TTL, pendidikan."
+    },
+    {
+      "id": "E-MC-10",
+      "question": "Teks Editorial (EASY 10): Teks editorial merupakan pandangan resmi redaksi media massa terhadap...",
+      "options": [
+        "Isu hangat / berita aktual",
+        "Cerita rekaan",
+        "Resep makanan"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Editorial/Tajuk rencana merespons isu terkini."
     }
   ],
   "true_false": [
     {
       "id": "E-TF-01",
-      "question": "Kalimat fakta dapat dibuktikan kebenarannya secara objektif.",
+      "question": "Surat Lamaran Kerja: Penulisan tempat dan tanggal surat diawali huruf kapital.",
       "answer": true,
-      "explanation": "Fakta didasarkan pada data/kenyataan aktual.",
-      "time_limit": 20
+      "time_limit": 20,
+      "explanation": "Contoh: Jakarta, 12 Agustus 2026."
+    },
+    {
+      "id": "E-TF-02",
+      "question": "Teks Editorial: Tajuk rencana ditulis oleh pembaca berita.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "Tajuk rencana ditulis oleh dewan redaksi media."
+    },
+    {
+      "id": "E-TF-03",
+      "question": "Surat Lamaran Kerja: Penulisan tempat dan tanggal surat diawali huruf kapital.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Contoh: Jakarta, 12 Agustus 2026."
+    },
+    {
+      "id": "E-TF-04",
+      "question": "Teks Editorial: Tajuk rencana ditulis oleh pembaca berita.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "Tajuk rencana ditulis oleh dewan redaksi media."
+    },
+    {
+      "id": "E-TF-05",
+      "question": "Surat Lamaran Kerja: Penulisan tempat dan tanggal surat diawali huruf kapital.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Contoh: Jakarta, 12 Agustus 2026."
     }
   ],
   "essay": [
     {
       "id": "E-ES-01",
-      "question": "Jelaskan perbedaan antara fakta dan opini secara singkat!",
-      "answer": "Fakta dapat dibuktikan kebenarannya secara objektif, sedangkan opini merupakan pendapat pribadi.",
+      "question": "Surat Lamaran Kerja: Tuliskan istilah data riwayat hidup lampiran lamaran kerja!",
+      "answer": "Curriculum Vitae",
       "input_type": "text",
-      "time_limit": 45
+      "time_limit": 45,
+      "explanation": "Daftar riwayat hidup disebut CV."
+    },
+    {
+      "id": "E-ES-02",
+      "question": "Teks Editorial: Tuliskan istilah lain dari teks editorial koran!",
+      "answer": "Tajuk Rencana",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Tajuk rencana adalah opini resmi redaksi."
+    },
+    {
+      "id": "E-ES-03",
+      "question": "Surat Lamaran Kerja: Tuliskan istilah data riwayat hidup lampiran lamaran kerja!",
+      "answer": "Curriculum Vitae",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Daftar riwayat hidup disebut CV."
+    },
+    {
+      "id": "E-ES-04",
+      "question": "Teks Editorial: Tuliskan istilah lain dari teks editorial koran!",
+      "answer": "Tajuk Rencana",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Tajuk rencana adalah opini resmi redaksi."
+    },
+    {
+      "id": "E-ES-05",
+      "question": "Surat Lamaran Kerja: Tuliskan istilah data riwayat hidup lampiran lamaran kerja!",
+      "answer": "Curriculum Vitae",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Daftar riwayat hidup disebut CV."
     }
   ]
 }

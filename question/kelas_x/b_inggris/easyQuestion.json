@@ -3,45 +3,202 @@
   "multiple_choice": [
     {
       "id": "E-MC-01",
-      "question": "Which tense is used to express general truths or daily habits?",
+      "question": "What is the past tense of the verb 'go'?",
       "options": [
-        "Simple Present Tense",
-        "Simple Past Tense",
-        "Future Tense"
+        "went",
+        "gone",
+        "goes"
       ],
       "answer": 0,
-      "explanation": "Simple Present Tense describes habits and facts.",
-      "time_limit": 30
+      "time_limit": 30,
+      "explanation": "Go -> Went -> Gone."
     },
     {
       "id": "E-MC-02",
-      "question": "What is the past form (V2) of the verb 'go'?",
+      "question": "Choose the correct pronoun: '___ am studying English now.'",
       "options": [
-        "Gone",
-        "Went",
-        "Going"
+        "I",
+        "Me",
+        "My"
       ],
-      "answer": 1,
-      "explanation": "Go - Went - Gone.",
-      "time_limit": 30
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Subject pronoun for first person is 'I'."
+    },
+    {
+      "id": "E-MC-03",
+      "question": "Which of the following is a greeting?",
+      "options": [
+        "Hello",
+        "Goodbye",
+        "Sorry"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Hello is used as a greeting."
+    },
+    {
+      "id": "E-MC-04",
+      "question": "What is the opposite of 'hot'?",
+      "options": [
+        "cold",
+        "warm",
+        "spicy"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Cold is the antonym of hot."
+    },
+    {
+      "id": "E-MC-05",
+      "question": "Identify the noun in this sentence: 'The cat sleeps on the bed.'",
+      "options": [
+        "cat",
+        "sleeps",
+        "on"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Cat and bed are nouns."
+    },
+    {
+      "id": "E-MC-06",
+      "question": "Complete the sentence: 'She ___ a student.'",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Singular third-person takes 'is'."
+    },
+    {
+      "id": "E-MC-07",
+      "question": "What does 'congratulations' mean?",
+      "options": [
+        "Ucapan selamat",
+        "Permintaan maaf",
+        "Ucapan duka"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Congratulations is used to express joy for someone's achievement."
+    },
+    {
+      "id": "E-MC-08",
+      "question": "What is the plural form of 'child'?",
+      "options": [
+        "children",
+        "childs",
+        "childes"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Irregular plural of child is children."
+    },
+    {
+      "id": "E-MC-09",
+      "question": "Which word is an adjective?",
+      "options": [
+        "beautiful",
+        "quickly",
+        "run"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Beautiful describes a noun."
+    },
+    {
+      "id": "E-MC-10",
+      "question": "What time is 'quarter past eight'?",
+      "options": [
+        "08:15",
+        "08:30",
+        "07:45"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Quarter past eight is 8:15."
     }
   ],
   "true_false": [
     {
       "id": "E-TF-01",
-      "question": "'She write a letter every day' is a grammatically correct sentence.",
+      "question": "'He don't like coffee' is a grammatically correct sentence.",
       "answer": false,
-      "explanation": "Subject 'She' requires 'writes' in Simple Present Tense.",
-      "time_limit": 20
+      "time_limit": 20,
+      "explanation": "The correct form is 'He doesn't like coffee'."
+    },
+    {
+      "id": "E-TF-02",
+      "question": "'Beautiful' is an adjective.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Beautiful is used to describe nouns."
+    },
+    {
+      "id": "E-TF-03",
+      "question": "The simple past tense of 'eat' is 'eaten'.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "Simple past of eat is 'ate'."
+    },
+    {
+      "id": "E-TF-04",
+      "question": "A descriptive text describes a particular person, place, or thing.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Descriptive text focuses on describing specific features."
+    },
+    {
+      "id": "E-TF-05",
+      "question": "Pronouns replace nouns in sentences.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Pronouns avoid repetitive noun mentions."
     }
   ],
   "essay": [
     {
       "id": "E-ES-01",
-      "question": "Write the plural form of the noun 'child'!",
-      "answer": "children",
+      "question": "Write the simple past form of the verb 'eat'!",
+      "answer": "ate",
       "input_type": "text",
-      "time_limit": 30
+      "time_limit": 45,
+      "explanation": "Eat -> Ate -> Eaten."
+    },
+    {
+      "id": "E-ES-02",
+      "question": "Write the antonym of the adjective 'big'!",
+      "answer": "small",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Small is the opposite of big."
+    },
+    {
+      "id": "E-ES-03",
+      "question": "What is the plural form of 'man'?",
+      "answer": "men",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Irregular plural of man is men."
+    },
+    {
+      "id": "E-ES-04",
+      "question": "Write the English word for 'selamat pagi'!",
+      "answer": "good morning",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Good morning means selamat pagi."
+    },
+    {
+      "id": "E-ES-05",
+      "question": "Write the subject pronoun for the second person singular/plural!",
+      "answer": "you",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "The second person pronoun is 'you'."
     }
   ]
 }

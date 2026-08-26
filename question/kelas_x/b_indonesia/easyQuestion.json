@@ -3,45 +3,202 @@
   "multiple_choice": [
     {
       "id": "E-MC-01",
-      "question": "Teks yang berisi uraian tentang hasil pengamatan atau observasi disebut …",
+      "question": "Teks yang berisi laporan hasil pengamatan terhadap objek disebut...",
       "options": [
+        "Teks LHO",
         "Teks Eksposisi",
-        "Teks Laporan Hasil Observasi",
         "Teks Narasi"
       ],
-      "answer": 1,
-      "explanation": "LHO menyajikan fakta hasil pengamatan secara sistematis.",
-      "time_limit": 30
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Teks LHO menyajikan hasil observasi ilmiah."
     },
     {
       "id": "E-MC-02",
-      "question": "Kata yang bermakna sebenarnya atau tidak bermakna kiasan disebut makna …",
+      "question": "Struktur awal pada Teks Laporan Hasil Observasi adalah...",
       "options": [
-        "Denotatif",
-        "Konotatif",
-        "Kiasan"
+        "Pernyataan Umum",
+        "Deskripsi Bagian",
+        "Penutup"
       ],
       "answer": 0,
-      "explanation": "Makna denotatif adalah makna lugas/sebenarnya.",
-      "time_limit": 30
+      "time_limit": 30,
+      "explanation": "Pernyataan umum berisi definisi awal objek."
+    },
+    {
+      "id": "E-MC-03",
+      "question": "Kata kerja yang menghubungkan subjek dan pelengkap dalam definisi dinamakan...",
+      "options": [
+        "Verba Kopula",
+        "Verba Transitif",
+        "Verba Pasif"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Contoh verba kopula: adalah, merupakan, yaitu."
+    },
+    {
+      "id": "E-MC-04",
+      "question": "Bagian yang menjelaskan manfaat objek dalam teks LHO adalah...",
+      "options": [
+        "Deskripsi Manfaat",
+        "Pernyataan Umum",
+        "Tesis"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Deskripsi manfaat menguraikan keuntungannya."
+    },
+    {
+      "id": "E-MC-05",
+      "question": "Kata sifat dalam kalimat 'Bunga itu sangat indah' adalah...",
+      "options": [
+        "Indah",
+        "Bunga",
+        "Sangat"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Indah adalah kata sifat (adjektiva)."
+    },
+    {
+      "id": "E-MC-06",
+      "question": "Kalimat yang menggunakan satu klausa utama dinamakan kalimat...",
+      "options": [
+        "Simpleks",
+        "Kompleks",
+        "Majemuk Campuran"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Kalimat simpleks hanya berstruktur tunggal."
+    },
+    {
+      "id": "E-MC-07",
+      "question": "Imbuhan di- yang berfungsi sebagai awalan ditulis...",
+      "options": [
+        "Serangkai dengan kata dasar",
+        "Dipisah dengan spasi",
+        "Dengan tanda hubung"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Awalan di- ditulis serangkai (misal: ditulis)."
+    },
+    {
+      "id": "E-MC-08",
+      "question": "Kata hubung yang menyatakan hubungan penambahan adalah...",
+      "options": [
+        "Dan",
+        "Tetapi",
+        "Karena"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Dan adalah konjungsi aditif/penambahan."
+    },
+    {
+      "id": "E-MC-09",
+      "question": "Tujuan utama penulisan teks LHO adalah memberikan...",
+      "options": [
+        "Informasi objektif",
+        "Hiburan",
+        "Opini pribadi"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Teks LHO bersifat faktual dan objektif."
+    },
+    {
+      "id": "E-MC-10",
+      "question": "Kata baku dari kata 'ijazah' adalah...",
+      "options": [
+        "Ijazah",
+        "Ijasah",
+        "Ijash"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Kata baku yang tepat sesuai PUEBI adalah ijazah."
     }
   ],
   "true_false": [
     {
       "id": "E-TF-01",
-      "question": "Kalimat fakta dapat dibuktikan kebenarannya secara objektif.",
+      "question": "Teks LHO bertumpu pada opini subjektif penulis.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "Teks LHO harus berdasarkan fakta objektif."
+    },
+    {
+      "id": "E-TF-02",
+      "question": "Verba merupakan kata yang menyatakan perbuatan atau tindakan.",
       "answer": true,
-      "explanation": "Fakta didasarkan pada data/kenyataan aktual.",
-      "time_limit": 20
+      "time_limit": 20,
+      "explanation": "Verba adalah kata kerja."
+    },
+    {
+      "id": "E-TF-03",
+      "question": "Kalimat kompleks memiliki lebih dari satu predikat.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Kalimat kompleks terdiri atas beberapa klausa."
+    },
+    {
+      "id": "E-TF-04",
+      "question": "Kata 'di rumah' diimbuhkan dengan awalan di-.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "'di' pada 'di rumah' adalah kata depan (preposisi)."
+    },
+    {
+      "id": "E-TF-05",
+      "question": "Ringkasan memuat pokok-pokok pikiran teks asli.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Ringkasan menyajikan inti teks secara singkat."
     }
   ],
   "essay": [
     {
       "id": "E-ES-01",
-      "question": "Jelaskan perbedaan antara fakta dan opini secara singkat!",
-      "answer": "Fakta dapat dibuktikan kebenarannya secara objektif, sedangkan opini merupakan pendapat pribadi.",
+      "question": "Tuliskan struktur pertama teks Laporan Hasil Observasi!",
+      "answer": "Pernyataan Umum",
       "input_type": "text",
-      "time_limit": 45
+      "time_limit": 45,
+      "explanation": "Struktur awal LHO adalah Pernyataan Umum."
+    },
+    {
+      "id": "E-ES-02",
+      "question": "Tuliskan jenis kalimat yang hanya memiliki satu klausa!",
+      "answer": "Kalimat Simpleks",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Kalimat tunggal dinamakan kalimat simpleks."
+    },
+    {
+      "id": "E-ES-03",
+      "question": "Sebutkan istilah untuk kata kerja dalam tata bahasa!",
+      "answer": "Verba",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Kata kerja dinamakan verba."
+    },
+    {
+      "id": "E-ES-04",
+      "question": "Tuliskan bentuk baku dari kata 'ijasah'!",
+      "answer": "ijazah",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Bentuk baku yang benar adalah ijazah."
+    },
+    {
+      "id": "E-ES-05",
+      "question": "Tuliskan istilah untuk sifat informasi berdasarkan kenyataan nyata!",
+      "answer": "Faktual",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Informasi nyata bersifat faktual/objektif."
     }
   ]
 }

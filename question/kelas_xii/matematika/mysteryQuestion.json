@@ -3,34 +3,202 @@
   "multiple_choice": [
     {
       "id": "M-MC-01",
-      "question": "Matriks A=[1 2; 3 4]. Determinant det(A) adalah...",
+      "question": "Geometri Ruang (Dimensi Tiga) (MYSTERY 1): Panjang diagonal ruang kubus bertulang rusuk s adalah...",
       "options": [
-        "-2",
-        "2",
-        "0"
+        "s * sqrt(3)",
+        "s * sqrt(2)",
+        "3 * s"
       ],
       "answer": 0,
-      "time_limit": 45,
-      "explanation": "1*4 - 2*3 = 4 - 6 = -2"
+      "time_limit": 30,
+      "explanation": "Diagonal ruang kubus = s*akar(3)."
+    },
+    {
+      "id": "M-MC-02",
+      "question": "Statistika XII (MYSTERY 2): Nilai tengah dari sekumpulan data yang telah diurutkan dinamakan...",
+      "options": [
+        "Median",
+        "Mean",
+        "Modus"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Median pembagi dua data terurut."
+    },
+    {
+      "id": "M-MC-03",
+      "question": "Peluang Majemuk XII (MYSTERY 3): Peluang dua kejadian A dan B yang saling bebas dirumuskan...",
+      "options": [
+        "P(A dan B) = P(A) * P(B)",
+        "P(A) + P(B)",
+        "P(A) / P(B)"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Kejadian saling bebas dikalikan."
+    },
+    {
+      "id": "M-MC-04",
+      "question": "Geometri Ruang (Dimensi Tiga) (MYSTERY 4): Panjang diagonal ruang kubus bertulang rusuk s adalah...",
+      "options": [
+        "s * sqrt(3)",
+        "s * sqrt(2)",
+        "3 * s"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Diagonal ruang kubus = s*akar(3)."
+    },
+    {
+      "id": "M-MC-05",
+      "question": "Statistika XII (MYSTERY 5): Nilai tengah dari sekumpulan data yang telah diurutkan dinamakan...",
+      "options": [
+        "Median",
+        "Mean",
+        "Modus"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Median pembagi dua data terurut."
+    },
+    {
+      "id": "M-MC-06",
+      "question": "Peluang Majemuk XII (MYSTERY 6): Peluang dua kejadian A dan B yang saling bebas dirumuskan...",
+      "options": [
+        "P(A dan B) = P(A) * P(B)",
+        "P(A) + P(B)",
+        "P(A) / P(B)"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Kejadian saling bebas dikalikan."
+    },
+    {
+      "id": "M-MC-07",
+      "question": "Geometri Ruang (Dimensi Tiga) (MYSTERY 7): Panjang diagonal ruang kubus bertulang rusuk s adalah...",
+      "options": [
+        "s * sqrt(3)",
+        "s * sqrt(2)",
+        "3 * s"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Diagonal ruang kubus = s*akar(3)."
+    },
+    {
+      "id": "M-MC-08",
+      "question": "Statistika XII (MYSTERY 8): Nilai tengah dari sekumpulan data yang telah diurutkan dinamakan...",
+      "options": [
+        "Median",
+        "Mean",
+        "Modus"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Median pembagi dua data terurut."
+    },
+    {
+      "id": "M-MC-09",
+      "question": "Peluang Majemuk XII (MYSTERY 9): Peluang dua kejadian A dan B yang saling bebas dirumuskan...",
+      "options": [
+        "P(A dan B) = P(A) * P(B)",
+        "P(A) + P(B)",
+        "P(A) / P(B)"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Kejadian saling bebas dikalikan."
+    },
+    {
+      "id": "M-MC-10",
+      "question": "Geometri Ruang (Dimensi Tiga) (MYSTERY 10): Panjang diagonal ruang kubus bertulang rusuk s adalah...",
+      "options": [
+        "s * sqrt(3)",
+        "s * sqrt(2)",
+        "3 * s"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Diagonal ruang kubus = s*akar(3)."
     }
   ],
   "true_false": [
     {
       "id": "M-TF-01",
-      "question": "Jika det(A) = 0 maka matriks A tidak memiliki invers.",
+      "question": "Geometri Ruang (Dimensi Tiga): Jarak titik ke garis adalah panjang garis tegak lurus dari titik ke garis tersebut.",
       "answer": true,
-      "time_limit": 30,
-      "explanation": "Matriks singular tidak ber-invers"
+      "time_limit": 20,
+      "explanation": "Jarak terpendek tegak lurus."
+    },
+    {
+      "id": "M-TF-02",
+      "question": "Statistika XII: Modus adalah nilai yang paling sering muncul dalam data.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Modus berfrekuensi tertinggi."
+    },
+    {
+      "id": "M-TF-03",
+      "question": "Peluang Majemuk XII: Peluang suatu kejadian pasti bernilai antara 0 sampai 1.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "0 <= P(A) <= 1."
+    },
+    {
+      "id": "M-TF-04",
+      "question": "Geometri Ruang (Dimensi Tiga): Jarak titik ke garis adalah panjang garis tegak lurus dari titik ke garis tersebut.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Jarak terpendek tegak lurus."
+    },
+    {
+      "id": "M-TF-05",
+      "question": "Statistika XII: Modus adalah nilai yang paling sering muncul dalam data.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Modus berfrekuensi tertinggi."
     }
   ],
   "essay": [
     {
       "id": "M-ES-01",
-      "question": "Tentukan nilai determinan dari matriks 2x2 identitas!",
-      "answer": "1",
-      "input_type": "math",
+      "question": "Geometri Ruang (Dimensi Tiga): Jika rusuk kubus 6 cm, tuliskan panjang diagonal ruangnya!",
+      "answer": "6\\sqrt{3}",
+      "input_type": "text",
       "time_limit": 45,
-      "explanation": "det(I) = 1"
+      "explanation": "Diagonal ruang = s*sqrt(3)."
+    },
+    {
+      "id": "M-ES-02",
+      "question": "Statistika XII: Hitung nilai rata-rata (mean) dari data: 4, 6, 8, 10!",
+      "answer": "7",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "(4+6+8+10)/4 = 28/4 = 7."
+    },
+    {
+      "id": "M-ES-03",
+      "question": "Peluang Majemuk XII: Tuliskan nilai peluang kejadian yang pasti terjadi!",
+      "answer": "1",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Peluang kepastian = 1."
+    },
+    {
+      "id": "M-ES-04",
+      "question": "Geometri Ruang (Dimensi Tiga): Jika rusuk kubus 6 cm, tuliskan panjang diagonal ruangnya!",
+      "answer": "6\\sqrt{3}",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Diagonal ruang = s*sqrt(3)."
+    },
+    {
+      "id": "M-ES-05",
+      "question": "Statistika XII: Hitung nilai rata-rata (mean) dari data: 4, 6, 8, 10!",
+      "answer": "7",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "(4+6+8+10)/4 = 28/4 = 7."
     }
   ]
 }

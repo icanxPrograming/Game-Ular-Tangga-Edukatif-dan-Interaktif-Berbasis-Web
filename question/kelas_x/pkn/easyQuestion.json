@@ -3,45 +3,202 @@
   "multiple_choice": [
     {
       "id": "E-MC-01",
-      "question": "Dasar negara Indonesia yang dirumuskan oleh para pendiri bangsa adalah …",
+      "question": "Pancasila Sebagai Ideologi (EASY 1): Kedudukan Pancasila bagi bangsa Indonesia adalah sebagai...",
       "options": [
-        "UUD 1945",
-        "Pancasila",
-        "Ketetapan MPR"
+        "Dasar Negara dan Pandangan Hidup",
+        "Buku Pegangan Hukum Saja",
+        "Lambang Bendera"
       ],
-      "answer": 1,
-      "explanation": "Pancasila adalah dasar negara dan pandangan hidup bangsa.",
-      "time_limit": 30
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Pancasila fondasi filosofis NKRI."
     },
     {
       "id": "E-MC-02",
-      "question": "Semboyan bangsa Indonesia 'Bhinneka Tunggal Ika' bermakna …",
+      "question": "UUD 1945 & Konstitusi (EASY 2): Hukum dasar tertulis tertinggi di Negara Kesetiaan Republik Indonesia adalah...",
       "options": [
-        "Berbeda-beda tetapi tetap satu",
-        "Bersatu kita teguh",
-        "Pantang menyerah"
+        "UUD 1945",
+        "Ketetapan MPR",
+        "Peraturan Presiden"
       ],
       "answer": 0,
-      "explanation": "Bhinneka Tunggal Ika berarti berbeda-beda tetapi tetap satu jua.",
-      "time_limit": 30
+      "time_limit": 30,
+      "explanation": "UUD 1945 puncak hierarki peraturan perundang-undangan."
+    },
+    {
+      "id": "E-MC-03",
+      "question": "Bhinneka Tunggal Ika (EASY 3): Semboyan Bhinneka Tunggal Ika dipetik dari kitab kuno karya Mpu Tantular yaitu kitab...",
+      "options": [
+        "Sutasoma",
+        "Negarakertagama",
+        "Arjunawijaya"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Kitab Sutasoma memuat frasa Bhinneka Tunggal Ika."
+    },
+    {
+      "id": "E-MC-04",
+      "question": "Pancasila Sebagai Ideologi (EASY 4): Kedudukan Pancasila bagi bangsa Indonesia adalah sebagai...",
+      "options": [
+        "Dasar Negara dan Pandangan Hidup",
+        "Buku Pegangan Hukum Saja",
+        "Lambang Bendera"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Pancasila fondasi filosofis NKRI."
+    },
+    {
+      "id": "E-MC-05",
+      "question": "UUD 1945 & Konstitusi (EASY 5): Hukum dasar tertulis tertinggi di Negara Kesetiaan Republik Indonesia adalah...",
+      "options": [
+        "UUD 1945",
+        "Ketetapan MPR",
+        "Peraturan Presiden"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "UUD 1945 puncak hierarki peraturan perundang-undangan."
+    },
+    {
+      "id": "E-MC-06",
+      "question": "Bhinneka Tunggal Ika (EASY 6): Semboyan Bhinneka Tunggal Ika dipetik dari kitab kuno karya Mpu Tantular yaitu kitab...",
+      "options": [
+        "Sutasoma",
+        "Negarakertagama",
+        "Arjunawijaya"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Kitab Sutasoma memuat frasa Bhinneka Tunggal Ika."
+    },
+    {
+      "id": "E-MC-07",
+      "question": "Pancasila Sebagai Ideologi (EASY 7): Kedudukan Pancasila bagi bangsa Indonesia adalah sebagai...",
+      "options": [
+        "Dasar Negara dan Pandangan Hidup",
+        "Buku Pegangan Hukum Saja",
+        "Lambang Bendera"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Pancasila fondasi filosofis NKRI."
+    },
+    {
+      "id": "E-MC-08",
+      "question": "UUD 1945 & Konstitusi (EASY 8): Hukum dasar tertulis tertinggi di Negara Kesetiaan Republik Indonesia adalah...",
+      "options": [
+        "UUD 1945",
+        "Ketetapan MPR",
+        "Peraturan Presiden"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "UUD 1945 puncak hierarki peraturan perundang-undangan."
+    },
+    {
+      "id": "E-MC-09",
+      "question": "Bhinneka Tunggal Ika (EASY 9): Semboyan Bhinneka Tunggal Ika dipetik dari kitab kuno karya Mpu Tantular yaitu kitab...",
+      "options": [
+        "Sutasoma",
+        "Negarakertagama",
+        "Arjunawijaya"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Kitab Sutasoma memuat frasa Bhinneka Tunggal Ika."
+    },
+    {
+      "id": "E-MC-10",
+      "question": "Pancasila Sebagai Ideologi (EASY 10): Kedudukan Pancasila bagi bangsa Indonesia adalah sebagai...",
+      "options": [
+        "Dasar Negara dan Pandangan Hidup",
+        "Buku Pegangan Hukum Saja",
+        "Lambang Bendera"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Pancasila fondasi filosofis NKRI."
     }
   ],
   "true_false": [
     {
       "id": "E-TF-01",
-      "question": "UUD 1945 merupakan hukum dasar tertulis tertinggi di Indonesia.",
+      "question": "Pancasila Sebagai Ideologi: Sila pertama Pancasila menegaskan Ketuhanan Yang Maha Esa.",
       "answer": true,
-      "explanation": "UUD 1945 berkedudukan sebagai konstitusi tertulis tertinggi.",
-      "time_limit": 20
+      "time_limit": 20,
+      "explanation": "Sila 1 landasan religiusitas."
+    },
+    {
+      "id": "E-TF-02",
+      "question": "UUD 1945 & Konstitusi: Pasal 27 ayat 1 UUD 1945 mengatur kesamaan kedudukan dalam hukum.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Semua warga negara setara di mata hukum."
+    },
+    {
+      "id": "E-TF-03",
+      "question": "Bhinneka Tunggal Ika: Integrasi nasional berarti pemaksaan kebudayaan tunggal.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "Integrasi menjalin persatuan dalam keberagaman."
+    },
+    {
+      "id": "E-TF-04",
+      "question": "Pancasila Sebagai Ideologi: Sila pertama Pancasila menegaskan Ketuhanan Yang Maha Esa.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Sila 1 landasan religiusitas."
+    },
+    {
+      "id": "E-TF-05",
+      "question": "UUD 1945 & Konstitusi: Pasal 27 ayat 1 UUD 1945 mengatur kesamaan kedudukan dalam hukum.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Semua warga negara setara di mata hukum."
     }
   ],
   "essay": [
     {
       "id": "E-ES-01",
-      "question": "Tuliskan sila ketiga dari Pancasila!",
-      "answer": "Persatuan Indonesia",
+      "question": "Pancasila Sebagai Ideologi: Tuliskan lambang Sila Pertama Pancasila!",
+      "answer": "Bintang",
       "input_type": "text",
-      "time_limit": 40
+      "time_limit": 45,
+      "explanation": "Bintang emas melambangkan Sila 1."
+    },
+    {
+      "id": "E-ES-02",
+      "question": "UUD 1945 & Konstitusi: Tuliskan lembaga yang berwenang mengamendemen UUD 1945!",
+      "answer": "MPR",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Majelis Permusyawaratan Rakyat mengamendemen UUD."
+    },
+    {
+      "id": "E-ES-03",
+      "question": "Bhinneka Tunggal Ika: Tuliskan arti frasa 'Bhinneka Tunggal Ika'!",
+      "answer": "Berbeda-beda tetap satu jua",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Maknanya persatuan dalam perbedaan."
+    },
+    {
+      "id": "E-ES-04",
+      "question": "Pancasila Sebagai Ideologi: Tuliskan lambang Sila Pertama Pancasila!",
+      "answer": "Bintang",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Bintang emas melambangkan Sila 1."
+    },
+    {
+      "id": "E-ES-05",
+      "question": "UUD 1945 & Konstitusi: Tuliskan lembaga yang berwenang mengamendemen UUD 1945!",
+      "answer": "MPR",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Majelis Permusyawaratan Rakyat mengamendemen UUD."
     }
   ]
 }

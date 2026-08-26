@@ -3,33 +3,202 @@
   "multiple_choice": [
     {
       "id": "S-MC-01",
-      "question": "Struktur data linier yang menerapkan prinsip LIFO (Last In First Out) adalah …",
+      "question": "Berpikir Komputasional (STANDARD 1): Empat pilar berpikir komputasional mencakup dekomposisi, pengenalan pola, abstraksi, dan...",
       "options": [
-        "Queue",
-        "Stack",
-        "Array"
+        "Perancangan Algoritma",
+        "Pemrograman Java",
+        "Desain Grafis"
       ],
-      "answer": 1,
-      "explanation": "Stack menggunakan prinsip LIFO.",
-      "time_limit": 40
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Algoritma menyusun langkah penyelesaian masalah."
+    },
+    {
+      "id": "S-MC-02",
+      "question": "Jaringan Komputer & Internet (STANDARD 2): Protokol standar utama yang menghubungkan komputer di seluruh dunia dalam jaringan internet adalah...",
+      "options": [
+        "TCP/IP",
+        "HTTP saja",
+        "FTP"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "TCP/IP mengatur komunikasi data global internet."
+    },
+    {
+      "id": "S-MC-03",
+      "question": "Sistem Komputer (STANDARD 3): Perangkat keras yang berfungsi sebagai otak utama pengolah data komputer dinamakan...",
+      "options": [
+        "CPU / Processor",
+        "RAM",
+        "Harddisk"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "CPU eksekusi instruksi program."
+    },
+    {
+      "id": "S-MC-04",
+      "question": "Berpikir Komputasional (STANDARD 4): Empat pilar berpikir komputasional mencakup dekomposisi, pengenalan pola, abstraksi, dan...",
+      "options": [
+        "Perancangan Algoritma",
+        "Pemrograman Java",
+        "Desain Grafis"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Algoritma menyusun langkah penyelesaian masalah."
+    },
+    {
+      "id": "S-MC-05",
+      "question": "Jaringan Komputer & Internet (STANDARD 5): Protokol standar utama yang menghubungkan komputer di seluruh dunia dalam jaringan internet adalah...",
+      "options": [
+        "TCP/IP",
+        "HTTP saja",
+        "FTP"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "TCP/IP mengatur komunikasi data global internet."
+    },
+    {
+      "id": "S-MC-06",
+      "question": "Sistem Komputer (STANDARD 6): Perangkat keras yang berfungsi sebagai otak utama pengolah data komputer dinamakan...",
+      "options": [
+        "CPU / Processor",
+        "RAM",
+        "Harddisk"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "CPU eksekusi instruksi program."
+    },
+    {
+      "id": "S-MC-07",
+      "question": "Berpikir Komputasional (STANDARD 7): Empat pilar berpikir komputasional mencakup dekomposisi, pengenalan pola, abstraksi, dan...",
+      "options": [
+        "Perancangan Algoritma",
+        "Pemrograman Java",
+        "Desain Grafis"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Algoritma menyusun langkah penyelesaian masalah."
+    },
+    {
+      "id": "S-MC-08",
+      "question": "Jaringan Komputer & Internet (STANDARD 8): Protokol standar utama yang menghubungkan komputer di seluruh dunia dalam jaringan internet adalah...",
+      "options": [
+        "TCP/IP",
+        "HTTP saja",
+        "FTP"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "TCP/IP mengatur komunikasi data global internet."
+    },
+    {
+      "id": "S-MC-09",
+      "question": "Sistem Komputer (STANDARD 9): Perangkat keras yang berfungsi sebagai otak utama pengolah data komputer dinamakan...",
+      "options": [
+        "CPU / Processor",
+        "RAM",
+        "Harddisk"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "CPU eksekusi instruksi program."
+    },
+    {
+      "id": "S-MC-10",
+      "question": "Berpikir Komputasional (STANDARD 10): Empat pilar berpikir komputasional mencakup dekomposisi, pengenalan pola, abstraksi, dan...",
+      "options": [
+        "Perancangan Algoritma",
+        "Pemrograman Java",
+        "Desain Grafis"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Algoritma menyusun langkah penyelesaian masalah."
     }
   ],
   "true_false": [
     {
       "id": "S-TF-01",
-      "question": "Algoritma pencarian Binary Search memerlukan data yang sudah terurut.",
+      "question": "Berpikir Komputasional: Dekomposisi adalah memecah masalah besar menjadi bagian kecil.",
       "answer": true,
-      "explanation": "Binary search memerlukan array yang sudah tersortir.",
-      "time_limit": 25
+      "time_limit": 20,
+      "explanation": "Dekomposisi mempermudah analisis masalah."
+    },
+    {
+      "id": "S-TF-02",
+      "question": "Jaringan Komputer & Internet: IP Address berfungsi sebagai alamat identitas perangkat di jaringan.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "IP address mengidentifikasi node jaringan."
+    },
+    {
+      "id": "S-TF-03",
+      "question": "Sistem Komputer: RAM bersifat non-volatile (data tetap ada saat listrik mati).",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "RAM bersifat volatile (data hilang saat mati listrik)."
+    },
+    {
+      "id": "S-TF-04",
+      "question": "Berpikir Komputasional: Dekomposisi adalah memecah masalah besar menjadi bagian kecil.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Dekomposisi mempermudah analisis masalah."
+    },
+    {
+      "id": "S-TF-05",
+      "question": "Jaringan Komputer & Internet: IP Address berfungsi sebagai alamat identitas perangkat di jaringan.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "IP address mengidentifikasi node jaringan."
     }
   ],
   "essay": [
     {
       "id": "S-ES-01",
-      "question": "Apakah kepanjangan dari istilah HTTP dalam protokol jaringan?",
-      "answer": "Hypertext Transfer Protocol",
+      "question": "Berpikir Komputasional: Tuliskan istilah menyembunyikan detail tidak penting untuk fokus pada inti!",
+      "answer": "Abstraksi",
       "input_type": "text",
-      "time_limit": 45
+      "time_limit": 45,
+      "explanation": "Abstraksi menyaring aspek relevan."
+    },
+    {
+      "id": "S-ES-02",
+      "question": "Jaringan Komputer & Internet: Tuliskan kepanjangan dari URL!",
+      "answer": "Uniform Resource Locator",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "URL menunjukkan alamat web."
+    },
+    {
+      "id": "S-ES-03",
+      "question": "Sistem Komputer: Tuliskan perangkat penyimpanan tetap non-volatile komputer!",
+      "answer": "Harddisk",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Harddisk/SSD menyimpan data permanen."
+    },
+    {
+      "id": "S-ES-04",
+      "question": "Berpikir Komputasional: Tuliskan istilah menyembunyikan detail tidak penting untuk fokus pada inti!",
+      "answer": "Abstraksi",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Abstraksi menyaring aspek relevan."
+    },
+    {
+      "id": "S-ES-05",
+      "question": "Jaringan Komputer & Internet: Tuliskan kepanjangan dari URL!",
+      "answer": "Uniform Resource Locator",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "URL menunjukkan alamat web."
     }
   ]
 }

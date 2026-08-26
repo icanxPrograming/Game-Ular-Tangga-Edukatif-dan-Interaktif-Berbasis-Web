@@ -3,33 +3,202 @@
   "multiple_choice": [
     {
       "id": "E-MC-01",
-      "question": "Organel sel yang berfungsi sebagai tempat terjadinya respirasi sel adalah …",
+      "question": "Unit terkecil penyusun makhluk hidup dinamakan...",
       "options": [
-        "Kloroplas",
+        "Sel",
+        "Jaringan",
+        "Organ"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Sel merupakan unit fungsional terkecil organisme."
+    },
+    {
+      "id": "E-MC-02",
+      "question": "Organel sel yang berfungsi sebagai tempat respirasi sel pembentuk energi adalah...",
+      "options": [
         "Mitokondria",
+        "Ribosom",
+        "Lisosom"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Mitokondria menghasilkan ATP lewat respirasi sel."
+    },
+    {
+      "id": "E-MC-03",
+      "question": "Pigmen hijau pada tumbuhan yang berperan dalam fotosintesis dinamakan...",
+      "options": [
+        "Klorofil",
+        "Karoten",
+        "Xantofil"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Klorofil menyerap cahaya matahari untuk fotosintesis."
+    },
+    {
+      "id": "E-MC-04",
+      "question": "Virus tersusun atas asam nukleat yang terbungkus oleh protein yang disebut...",
+      "options": [
+        "Kapsid",
+        "Membran",
+        "Dinding Sel"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Selubung protein virus dinamakan kapsid."
+    },
+    {
+      "id": "E-MC-05",
+      "question": "Organisme prokarion ditandai oleh ketidakberadaan...",
+      "options": [
+        "Membran Inti Sel",
+        "DNA",
         "Ribosom"
       ],
-      "answer": 1,
-      "explanation": "Mitokondria pembentuk energi ATP.",
-      "time_limit": 30
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Prokariotik tidak memiliki membran inti (nukleus terselubung)."
+    },
+    {
+      "id": "E-MC-06",
+      "question": "Proses pembuatan makanan sendiri oleh tumbuhan dinamakan...",
+      "options": [
+        "Fotosintesis",
+        "Respirasi",
+        "Transpirasi"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Fotosintesis menghasilkan glukosa dan O2."
+    },
+    {
+      "id": "E-MC-07",
+      "question": "Ilmu yang mempelajari tentang hubungan timbal balik antara makhluk hidup dan lingkungan dinamakan...",
+      "options": [
+        "Ekologi",
+        "Taksonomi",
+        "Genetika"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Ekologi mengkaji ekosistem dan interaksinya."
+    },
+    {
+      "id": "E-MC-08",
+      "question": "Urutan tingkatan takson tumbuhan dari yang tertinggi adalah...",
+      "options": [
+        "Kingdom - Divisi - Kelas",
+        "Kingdom - Filum - Kelas",
+        "Spesies - Genus - Famili"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Tumbuhan menggunakan tingkat takson Divisi."
+    },
+    {
+      "id": "E-MC-09",
+      "question": "Bakteri berkembang biak secara vegetatif utama melalui...",
+      "options": [
+        "Pembelahan Biner",
+        "Spora",
+        "Tunas"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Bakteri membelah diri menjadi dua sel anak."
+    },
+    {
+      "id": "E-MC-10",
+      "question": "Keanekaragaman hayati tingkat gen ditunjukkan oleh variasi pada...",
+      "options": [
+        "Warna bunga mawar",
+        "Kucing dan harimau",
+        "Padi dan jagung"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Variasi dalam satu spesies (mawar merah/putih) adalah tingkat gen."
     }
   ],
   "true_false": [
     {
       "id": "E-TF-01",
-      "question": "Sel tumbuhan memiliki dinding sel sedangkan sel hewan tidak.",
+      "question": "Mitokondria berfungsi tempat sintesis protein.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "Sintesis protein dilakukan oleh ribosom."
+    },
+    {
+      "id": "E-TF-02",
+      "question": "Virus tergolong makhluk hidup aseluler (bukan sel).",
       "answer": true,
-      "explanation": "Dinding sel memberikan bentuk kaku pada sel tumbuhan.",
-      "time_limit": 20
+      "time_limit": 20,
+      "explanation": "Virus tidak memiliki struktur seluler lengkap."
+    },
+    {
+      "id": "E-TF-03",
+      "question": "Tumbuhan hijau bersifat autotrof.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Autotrof mampu memproduksi makanan sendiri."
+    },
+    {
+      "id": "E-TF-04",
+      "question": "Bakteri merupakan organisme eukariotik.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "Bakteri tergolong prokarion."
+    },
+    {
+      "id": "E-TF-05",
+      "question": "Fotosintesis menghasilkan gas oksigen (O2).",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Fotosintesis mengubah CO2 + H2O menjadi Glukosa + O2."
     }
   ],
   "essay": [
     {
       "id": "E-ES-01",
-      "question": "Sebutkan nama pigmen hijau pada daun!",
-      "answer": "Klorofil",
+      "question": "Tuliskan unit struktur terkecil penyusun makhluk hidup!",
+      "answer": "Sel",
       "input_type": "text",
-      "time_limit": 30
+      "time_limit": 45,
+      "explanation": "Sel adalah unit dasar kehidupan."
+    },
+    {
+      "id": "E-ES-02",
+      "question": "Tuliskan nama selubung protein yang membungkus virus!",
+      "answer": "Kapsid",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Kapsid membungkus asam nukleat virus."
+    },
+    {
+      "id": "E-ES-03",
+      "question": "Tuliskan nama organel pembuat protein dalam sel!",
+      "answer": "Ribosom",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Ribosom menyintesis protein."
+    },
+    {
+      "id": "E-ES-04",
+      "question": "Tuliskan istilah ilmu cabang biologi yang mempelajari ekosistem!",
+      "answer": "Ekologi",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Ekologi mempelajari lingkungan dan organisme."
+    },
+    {
+      "id": "E-ES-05",
+      "question": "Tuliskan gas yang dihasilkan dari proses fotosintesis!",
+      "answer": "Oksigen",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Fotosintesis melepaskan gas oksigen."
     }
   ]
 }

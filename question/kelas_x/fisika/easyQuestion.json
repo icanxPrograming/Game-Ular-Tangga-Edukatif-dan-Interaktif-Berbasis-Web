@@ -3,33 +3,202 @@
   "multiple_choice": [
     {
       "id": "E-MC-01",
-      "question": "Satuan Internasional (SI) untuk mengukur gaya adalah …",
+      "question": "Besaran & Satuan (EASY 1): Manakah yang termasuk besaran pokok dalam Sistem Internasional (SI)?",
       "options": [
-        "Joule",
-        "Newton",
-        "Pascal"
+        "Massa, Panjang, Waktu",
+        "Gaya, Kecepatan, Luas",
+        "Energi, Usaha, Daya"
       ],
-      "answer": 1,
-      "explanation": "Gaya diukur dalam Newton (N).",
-      "time_limit": 30
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Tujuh besaran pokok mencakup massa (kg), panjang (m), waktu (s)."
+    },
+    {
+      "id": "E-MC-02",
+      "question": "Gerak Lurus (GLB & GLBB) (EASY 2): Ciri utama Gerak Lurus Beraturan (GLB) adalah memiliki...",
+      "options": [
+        "Kecepatan Tetap",
+        "Percepatan Tetap",
+        "Kecepatan Berubah"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "GLB memiliki v konstan dan percepatan a = 0."
+    },
+    {
+      "id": "E-MC-03",
+      "question": "Hukum Newton (EASY 3): Hukum I Newton menyatakan bahwa benda akan tetap diam atau bergerak lurus beraturan jika...",
+      "options": [
+        "Resultan gaya sama dengan nol",
+        "Gaya gesek maksimum",
+        "Massa benda nol"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Sigma F = 0 menandakan kelembaman (inersia)."
+    },
+    {
+      "id": "E-MC-04",
+      "question": "Energi & Usaha (EASY 4): Energi yang dimiliki benda karena kedudukannya/ketinggiannya dinamakan energi...",
+      "options": [
+        "Potensial",
+        "Kinetik",
+        "Mekanik"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Ep = m * g * h."
+    },
+    {
+      "id": "E-MC-05",
+      "question": "Besaran & Satuan (EASY 5): Manakah yang termasuk besaran pokok dalam Sistem Internasional (SI)?",
+      "options": [
+        "Massa, Panjang, Waktu",
+        "Gaya, Kecepatan, Luas",
+        "Energi, Usaha, Daya"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Tujuh besaran pokok mencakup massa (kg), panjang (m), waktu (s)."
+    },
+    {
+      "id": "E-MC-06",
+      "question": "Gerak Lurus (GLB & GLBB) (EASY 6): Ciri utama Gerak Lurus Beraturan (GLB) adalah memiliki...",
+      "options": [
+        "Kecepatan Tetap",
+        "Percepatan Tetap",
+        "Kecepatan Berubah"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "GLB memiliki v konstan dan percepatan a = 0."
+    },
+    {
+      "id": "E-MC-07",
+      "question": "Hukum Newton (EASY 7): Hukum I Newton menyatakan bahwa benda akan tetap diam atau bergerak lurus beraturan jika...",
+      "options": [
+        "Resultan gaya sama dengan nol",
+        "Gaya gesek maksimum",
+        "Massa benda nol"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Sigma F = 0 menandakan kelembaman (inersia)."
+    },
+    {
+      "id": "E-MC-08",
+      "question": "Energi & Usaha (EASY 8): Energi yang dimiliki benda karena kedudukannya/ketinggiannya dinamakan energi...",
+      "options": [
+        "Potensial",
+        "Kinetik",
+        "Mekanik"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Ep = m * g * h."
+    },
+    {
+      "id": "E-MC-09",
+      "question": "Besaran & Satuan (EASY 9): Manakah yang termasuk besaran pokok dalam Sistem Internasional (SI)?",
+      "options": [
+        "Massa, Panjang, Waktu",
+        "Gaya, Kecepatan, Luas",
+        "Energi, Usaha, Daya"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Tujuh besaran pokok mencakup massa (kg), panjang (m), waktu (s)."
+    },
+    {
+      "id": "E-MC-10",
+      "question": "Gerak Lurus (GLB & GLBB) (EASY 10): Ciri utama Gerak Lurus Beraturan (GLB) adalah memiliki...",
+      "options": [
+        "Kecepatan Tetap",
+        "Percepatan Tetap",
+        "Kecepatan Berubah"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "GLB memiliki v konstan dan percepatan a = 0."
     }
   ],
   "true_false": [
     {
       "id": "E-TF-01",
-      "question": "Kecepatan merupakan besaran skalar.",
+      "question": "Besaran & Satuan: Kecepatan merupakan contoh besaran pokok.",
       "answer": false,
-      "explanation": "Kecepatan adalah besaran vektor (memiliki arah).",
-      "time_limit": 20
+      "time_limit": 20,
+      "explanation": "Kecepatan adalah besaran turunan."
+    },
+    {
+      "id": "E-TF-02",
+      "question": "Gerak Lurus (GLB & GLBB): Pada GLBB percepatan benda bernilai nol.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "GLBB memiliki percepatan konstan tidak nol."
+    },
+    {
+      "id": "E-TF-03",
+      "question": "Hukum Newton: Hukum II Newton merumuskan F = m * a.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Gaya F sebanding massa m dan percepatan a."
+    },
+    {
+      "id": "E-TF-04",
+      "question": "Energi & Usaha: Energi kinetik tergantung pada massa dan kecepatan benda.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Ek = 1/2 * m * v^2."
+    },
+    {
+      "id": "E-TF-05",
+      "question": "Besaran & Satuan: Kecepatan merupakan contoh besaran pokok.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "Kecepatan adalah besaran turunan."
     }
   ],
   "essay": [
     {
       "id": "E-ES-01",
-      "question": "Tuliskan rumus Hukum II Newton!",
-      "answer": "F = m \\times a",
-      "input_type": "math",
-      "time_limit": 35
+      "question": "Besaran & Satuan: Tuliskan satuan SI untuk besaran suhu!",
+      "answer": "Kelvin",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Satuan SI suhu adalah Kelvin (K)."
+    },
+    {
+      "id": "E-ES-02",
+      "question": "Gerak Lurus (GLB & GLBB): Tuliskan rumus jarak pada GLB (s = ... )!",
+      "answer": "v * t",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Jarak s = kecepatan v dikali waktu t."
+    },
+    {
+      "id": "E-ES-03",
+      "question": "Hukum Newton: Tuliskan istilah sifat kelembaman benda Hukum I Newton!",
+      "answer": "Inersia",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Kecenderungan mempertahankan keadaan disebut inersia."
+    },
+    {
+      "id": "E-ES-04",
+      "question": "Energi & Usaha: Tuliskan satuan SI untuk Energi dan Usaha!",
+      "answer": "Joule",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Satuan energi dan usaha dalam SI adalah Joule."
+    },
+    {
+      "id": "E-ES-05",
+      "question": "Besaran & Satuan: Tuliskan satuan SI untuk besaran suhu!",
+      "answer": "Kelvin",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Satuan SI suhu adalah Kelvin (K)."
     }
   ]
 }

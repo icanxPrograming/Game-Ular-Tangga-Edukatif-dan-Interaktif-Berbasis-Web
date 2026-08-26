@@ -3,33 +3,202 @@
   "multiple_choice": [
     {
       "id": "H-MC-01",
-      "question": "Ciri kebahasaan teks prosedur yang memuat kata kerja perintah disebut verba …",
+      "question": "Teks Prosedur (HARD 1): Teks yang berisi langkah-langkah sistematis untuk mencapai tujuan dinamakan...",
       "options": [
-        "Material",
-        "Imperatif",
-        "Relasional"
+        "Teks Prosedur",
+        "Teks Eksplanasi",
+        "Teks Ceramah"
       ],
-      "answer": 1,
-      "explanation": "Verba imperatif adalah kata kerja yang memberikan perintah.",
-      "time_limit": 45
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Teks prosedur memuat instruksi tahapan."
+    },
+    {
+      "id": "H-MC-02",
+      "question": "Teks Eksplanasi (HARD 2): Teks eksplanasi bertujuan menjelaskan proses terjadinya...",
+      "options": [
+        "Fenomena alam atau sosial",
+        "Tokoh fiktif",
+        "Iklan produk"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Eksplanasi menyajikan hubungan sebab-akibat fenomena."
+    },
+    {
+      "id": "H-MC-03",
+      "question": "Teks Ceramah (HARD 3): Unsur ceramah yang memuat sapaan kehormatan dan puji syukur dinamakan...",
+      "options": [
+        "Pembuka / Pendahuluan",
+        "Isi Ceramah",
+        "Penutup"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Pendahuluan berisi salam dan ucapan syukur."
+    },
+    {
+      "id": "H-MC-04",
+      "question": "Cerpen XI (HARD 4): Latar tempat, waktu, dan suasana dalam cerita pendek dinamakan...",
+      "options": [
+        "Setting / Latar",
+        "Alur",
+        "Penokohan"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Latar membangun gambaran fisik dan situasi."
+    },
+    {
+      "id": "H-MC-05",
+      "question": "Teks Prosedur (HARD 5): Teks yang berisi langkah-langkah sistematis untuk mencapai tujuan dinamakan...",
+      "options": [
+        "Teks Prosedur",
+        "Teks Eksplanasi",
+        "Teks Ceramah"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Teks prosedur memuat instruksi tahapan."
+    },
+    {
+      "id": "H-MC-06",
+      "question": "Teks Eksplanasi (HARD 6): Teks eksplanasi bertujuan menjelaskan proses terjadinya...",
+      "options": [
+        "Fenomena alam atau sosial",
+        "Tokoh fiktif",
+        "Iklan produk"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Eksplanasi menyajikan hubungan sebab-akibat fenomena."
+    },
+    {
+      "id": "H-MC-07",
+      "question": "Teks Ceramah (HARD 7): Unsur ceramah yang memuat sapaan kehormatan dan puji syukur dinamakan...",
+      "options": [
+        "Pembuka / Pendahuluan",
+        "Isi Ceramah",
+        "Penutup"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Pendahuluan berisi salam dan ucapan syukur."
+    },
+    {
+      "id": "H-MC-08",
+      "question": "Cerpen XI (HARD 8): Latar tempat, waktu, dan suasana dalam cerita pendek dinamakan...",
+      "options": [
+        "Setting / Latar",
+        "Alur",
+        "Penokohan"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Latar membangun gambaran fisik dan situasi."
+    },
+    {
+      "id": "H-MC-09",
+      "question": "Teks Prosedur (HARD 9): Teks yang berisi langkah-langkah sistematis untuk mencapai tujuan dinamakan...",
+      "options": [
+        "Teks Prosedur",
+        "Teks Eksplanasi",
+        "Teks Ceramah"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Teks prosedur memuat instruksi tahapan."
+    },
+    {
+      "id": "H-MC-10",
+      "question": "Teks Eksplanasi (HARD 10): Teks eksplanasi bertujuan menjelaskan proses terjadinya...",
+      "options": [
+        "Fenomena alam atau sosial",
+        "Tokoh fiktif",
+        "Iklan produk"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Eksplanasi menyajikan hubungan sebab-akibat fenomena."
     }
   ],
   "true_false": [
     {
       "id": "H-TF-01",
-      "question": "Penggunaan konjungsi temporal berfungsi menunjukkan urutan waktu dalam teks.",
+      "question": "Teks Prosedur: Kalimat imperatif banyak digunakan dalam teks prosedur.",
       "answer": true,
-      "explanation": "Konjungsi temporal seperti 'kemudian', 'setelah itu' menandai urutan waktu.",
-      "time_limit": 30
+      "time_limit": 20,
+      "explanation": "Kalimat imperatif memberikan instruksi langkah."
+    },
+    {
+      "id": "H-TF-02",
+      "question": "Teks Eksplanasi: Konjungsi kausalitas menyatakan hubungan sebab-akibat.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Contoh kausalitas: karena, sebab, sehingga."
+    },
+    {
+      "id": "H-TF-03",
+      "question": "Teks Ceramah: Ceramah bersifat mengajak dan memberi petunjuk positif.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Ceramah menyampaikan nasihat kepada audiens."
+    },
+    {
+      "id": "H-TF-04",
+      "question": "Cerpen XI: Sudut pandang orang pertama menggunakan kata ganti 'Aku'.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Aku/Saya menunjukkan sudut pandang orang pertama."
+    },
+    {
+      "id": "H-TF-05",
+      "question": "Teks Prosedur: Kalimat imperatif banyak digunakan dalam teks prosedur.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Kalimat imperatif memberikan instruksi langkah."
     }
   ],
   "essay": [
     {
       "id": "H-ES-01",
-      "question": "Jelaskan fungsi majas personifikasi dalam teks puisi!",
-      "answer": "Memberikan sifat-sifat manusia pada benda mati agar lebih hidup.",
+      "question": "Teks Prosedur: Tuliskan istilah struktur awal teks prosedur!",
+      "answer": "Tujuan",
       "input_type": "text",
-      "time_limit": 60
+      "time_limit": 45,
+      "explanation": "Tujuan merupakan bagian pembuka teks prosedur."
+    },
+    {
+      "id": "H-ES-02",
+      "question": "Teks Eksplanasi: Tuliskan contoh konjungsi kausalitas!",
+      "answer": "Karena",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Karena menyatakan alasan/sebab."
+    },
+    {
+      "id": "H-ES-03",
+      "question": "Teks Ceramah: Tuliskan istilah bagian inti dalam teks ceramah!",
+      "answer": "Isi ceramah",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Bagian isi memuat pokok bahasan utama."
+    },
+    {
+      "id": "H-ES-04",
+      "question": "Cerpen XI: Tuliskan istilah struktur puncak konflik cerita!",
+      "answer": "Klimaks",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Klimaks adalah puncak masalah cerita."
+    },
+    {
+      "id": "H-ES-05",
+      "question": "Teks Prosedur: Tuliskan istilah struktur awal teks prosedur!",
+      "answer": "Tujuan",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Tujuan merupakan bagian pembuka teks prosedur."
     }
   ]
 }

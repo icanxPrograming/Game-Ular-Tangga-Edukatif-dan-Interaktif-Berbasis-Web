@@ -3,33 +3,202 @@
   "multiple_choice": [
     {
       "id": "H-MC-01",
-      "question": "If I ___ higher marks, I would have studied at Harvard University.",
+      "question": "Identify the conditional type: 'If I had studied harder, I would have passed the exam.'",
       "options": [
-        "got",
-        "had gotten",
-        "have gotten"
+        "Third Conditional",
+        "Second Conditional",
+        "First Conditional"
       ],
-      "answer": 1,
-      "explanation": "Third Conditional requires 'had + V3' in the if-clause.",
-      "time_limit": 45
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "If + Had + V3, Would Have + V3 is Third Conditional."
+    },
+    {
+      "id": "H-MC-02",
+      "question": "What is the synonym of 'meticulous'?",
+      "options": [
+        "careful/thorough",
+        "careless",
+        "hasty"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Meticulous means showing great attention to detail."
+    },
+    {
+      "id": "H-MC-03",
+      "question": "Choose the correct sentence in Subjunctive mood:",
+      "options": [
+        "If I were you, I would accept the job",
+        "If I am you, I will accept",
+        "If I was you, I accept"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Hypothetical condition uses 'were' for all subjects."
+    },
+    {
+      "id": "H-MC-04",
+      "question": "What does the idiom 'break a leg' mean?",
+      "options": [
+        "Good luck",
+        "Get injured",
+        "Stop working"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "'Break a leg' is an idiom wishing theatrical good luck."
+    },
+    {
+      "id": "H-MC-05",
+      "question": "Which connector shows contrast?",
+      "options": [
+        "However",
+        "Furthermore",
+        "Therefore"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "However introduces a contrasting clause."
+    },
+    {
+      "id": "H-MC-06",
+      "question": "Identify the direct object: 'The teacher gave the students a pop quiz.'",
+      "options": [
+        "a pop quiz",
+        "the students",
+        "the teacher"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Pop quiz is the direct object (thing given)."
+    },
+    {
+      "id": "H-MC-07",
+      "question": "What is the passive form of 'They are building a new hospital'?",
+      "options": [
+        "A new hospital is being built",
+        "A new hospital was built",
+        "A new hospital is built"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Present continuous passive: is/are being + V3."
+    },
+    {
+      "id": "H-MC-08",
+      "question": "Which word means 'existing everywhere simultaneously'?",
+      "options": [
+        "ubiquitous",
+        "rare",
+        "transient"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Ubiquitous means found everywhere."
+    },
+    {
+      "id": "H-MC-09",
+      "question": "What is the tone of a satire essay?",
+      "options": [
+        "Humorous/Critical",
+        "Objective/Scientific",
+        "Neutral/Instructional"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Satire uses irony and humor to criticize."
+    },
+    {
+      "id": "H-MC-10",
+      "question": "Choose the correct inversion: 'Seldom ___ such a beautiful sight.'",
+      "options": [
+        "have I seen",
+        "I have seen",
+        "I saw"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Negative adverbials at the beginning trigger auxiliary-subject inversion."
     }
   ],
   "true_false": [
     {
       "id": "H-TF-01",
-      "question": "Conditional type 2 expresses unreal or hypothetical situations in the present.",
+      "question": "Third conditional refers to an impossible past condition.",
       "answer": true,
-      "explanation": "Type 2 represents imaginary present conditions.",
-      "time_limit": 30
+      "time_limit": 20,
+      "explanation": "Third conditional expresses regret or hypothetical past events."
+    },
+    {
+      "id": "H-TF-02",
+      "question": "The idiom 'piece of cake' means something very difficult.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "It means something very easy."
+    },
+    {
+      "id": "H-TF-03",
+      "question": "'In spite of' must be followed by a noun phrase or gerund.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "'In spite of' is a prepositional phrase requiring a noun/gerund."
+    },
+    {
+      "id": "H-TF-04",
+      "question": "Gerund is the -ing form of a verb functioning as a noun.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Gerund acts as a noun (e.g., Swimming is fun)."
+    },
+    {
+      "id": "H-TF-05",
+      "question": "Auxiliary verbs are also known as main action verbs.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "Auxiliary verbs are helping verbs (be, do, have)."
     }
   ],
   "essay": [
     {
       "id": "H-ES-01",
-      "question": "Complete the sentence: 'Hardly had he arrived ___ it started to rain.'",
-      "answer": "when",
+      "question": "Write the English idiom that means 'very easy'!",
+      "answer": "piece of cake",
       "input_type": "text",
-      "time_limit": 50
+      "time_limit": 45,
+      "explanation": "A piece of cake means extremely easy."
+    },
+    {
+      "id": "H-ES-02",
+      "question": "Write the third form (V3) of the verb 'swim'!",
+      "answer": "swum",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Swim -> Swam -> Swum."
+    },
+    {
+      "id": "H-ES-03",
+      "question": "Write the noun form of the verb 'decide'!",
+      "answer": "decision",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Decide becomes decision."
+    },
+    {
+      "id": "H-ES-04",
+      "question": "Write the superlative degree of the adjective 'bad'!",
+      "answer": "worst",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Bad -> Worse -> Worst."
+    },
+    {
+      "id": "H-ES-05",
+      "question": "Write the conjunction that means 'selain itu' in formal English!",
+      "answer": "furthermore",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Furthermore means besides that."
     }
   ]
 }

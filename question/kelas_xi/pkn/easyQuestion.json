@@ -3,45 +3,202 @@
   "multiple_choice": [
     {
       "id": "E-MC-01",
-      "question": "Dasar negara Indonesia yang dirumuskan oleh para pendiri bangsa adalah …",
+      "question": "HAM di Indonesia (EASY 1): Hak asasi manusia bersifat universal yang berarti...",
       "options": [
-        "UUD 1945",
-        "Pancasila",
-        "Ketetapan MPR"
+        "Berlaku bagi siapa saja tanpa membedakan suku/bangsa",
+        "Hanya untuk warga negara tertentu",
+        "Bisa dicabut kapan saja"
       ],
-      "answer": 1,
-      "explanation": "Pancasila adalah dasar negara dan pandangan hidup bangsa.",
-      "time_limit": 30
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "HAM melekat pada diri setiap manusia."
     },
     {
       "id": "E-MC-02",
-      "question": "Semboyan bangsa Indonesia 'Bhinneka Tunggal Ika' bermakna …",
+      "question": "Demokrasi Pancasila (EASY 2): Prinsip utama Demokrasi Pancasila mengutamakan penyelesaian masalah melalui...",
       "options": [
-        "Berbeda-beda tetapi tetap satu",
-        "Bersatu kita teguh",
-        "Pantang menyerah"
+        "Musyawarah mufakat",
+        "Suara terbanyak mutlak",
+        "Unjuk rasa kekerasan"
       ],
       "answer": 0,
-      "explanation": "Bhinneka Tunggal Ika berarti berbeda-beda tetapi tetap satu jua.",
-      "time_limit": 30
+      "time_limit": 30,
+      "explanation": "Musyawarah mufakat dicantumkan dalam Sila IV."
+    },
+    {
+      "id": "E-MC-03",
+      "question": "HAM di Indonesia (EASY 3): Hak asasi manusia bersifat universal yang berarti...",
+      "options": [
+        "Berlaku bagi siapa saja tanpa membedakan suku/bangsa",
+        "Hanya untuk warga negara tertentu",
+        "Bisa dicabut kapan saja"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "HAM melekat pada diri setiap manusia."
+    },
+    {
+      "id": "E-MC-04",
+      "question": "Demokrasi Pancasila (EASY 4): Prinsip utama Demokrasi Pancasila mengutamakan penyelesaian masalah melalui...",
+      "options": [
+        "Musyawarah mufakat",
+        "Suara terbanyak mutlak",
+        "Unjuk rasa kekerasan"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Musyawarah mufakat dicantumkan dalam Sila IV."
+    },
+    {
+      "id": "E-MC-05",
+      "question": "HAM di Indonesia (EASY 5): Hak asasi manusia bersifat universal yang berarti...",
+      "options": [
+        "Berlaku bagi siapa saja tanpa membedakan suku/bangsa",
+        "Hanya untuk warga negara tertentu",
+        "Bisa dicabut kapan saja"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "HAM melekat pada diri setiap manusia."
+    },
+    {
+      "id": "E-MC-06",
+      "question": "Demokrasi Pancasila (EASY 6): Prinsip utama Demokrasi Pancasila mengutamakan penyelesaian masalah melalui...",
+      "options": [
+        "Musyawarah mufakat",
+        "Suara terbanyak mutlak",
+        "Unjuk rasa kekerasan"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Musyawarah mufakat dicantumkan dalam Sila IV."
+    },
+    {
+      "id": "E-MC-07",
+      "question": "HAM di Indonesia (EASY 7): Hak asasi manusia bersifat universal yang berarti...",
+      "options": [
+        "Berlaku bagi siapa saja tanpa membedakan suku/bangsa",
+        "Hanya untuk warga negara tertentu",
+        "Bisa dicabut kapan saja"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "HAM melekat pada diri setiap manusia."
+    },
+    {
+      "id": "E-MC-08",
+      "question": "Demokrasi Pancasila (EASY 8): Prinsip utama Demokrasi Pancasila mengutamakan penyelesaian masalah melalui...",
+      "options": [
+        "Musyawarah mufakat",
+        "Suara terbanyak mutlak",
+        "Unjuk rasa kekerasan"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Musyawarah mufakat dicantumkan dalam Sila IV."
+    },
+    {
+      "id": "E-MC-09",
+      "question": "HAM di Indonesia (EASY 9): Hak asasi manusia bersifat universal yang berarti...",
+      "options": [
+        "Berlaku bagi siapa saja tanpa membedakan suku/bangsa",
+        "Hanya untuk warga negara tertentu",
+        "Bisa dicabut kapan saja"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "HAM melekat pada diri setiap manusia."
+    },
+    {
+      "id": "E-MC-10",
+      "question": "Demokrasi Pancasila (EASY 10): Prinsip utama Demokrasi Pancasila mengutamakan penyelesaian masalah melalui...",
+      "options": [
+        "Musyawarah mufakat",
+        "Suara terbanyak mutlak",
+        "Unjuk rasa kekerasan"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Musyawarah mufakat dicantumkan dalam Sila IV."
     }
   ],
   "true_false": [
     {
       "id": "E-TF-01",
-      "question": "UUD 1945 merupakan hukum dasar tertulis tertinggi di Indonesia.",
+      "question": "HAM di Indonesia: Komnas HAM merupakan lembaga independen penegakan HAM di Indonesia.",
       "answer": true,
-      "explanation": "UUD 1945 berkedudukan sebagai konstitusi tertulis tertinggi.",
-      "time_limit": 20
+      "time_limit": 20,
+      "explanation": "Komnas HAM dibentuk untuk perlindungan hak asasi."
+    },
+    {
+      "id": "E-TF-02",
+      "question": "Demokrasi Pancasila: Pemilu secara Luber dan Jurdil diadakan tiap 5 tahun sekali.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Asas Pemilu Indonesia Luber Jurdil."
+    },
+    {
+      "id": "E-TF-03",
+      "question": "HAM di Indonesia: Komnas HAM merupakan lembaga independen penegakan HAM di Indonesia.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Komnas HAM dibentuk untuk perlindungan hak asasi."
+    },
+    {
+      "id": "E-TF-04",
+      "question": "Demokrasi Pancasila: Pemilu secara Luber dan Jurdil diadakan tiap 5 tahun sekali.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Asas Pemilu Indonesia Luber Jurdil."
+    },
+    {
+      "id": "E-TF-05",
+      "question": "HAM di Indonesia: Komnas HAM merupakan lembaga independen penegakan HAM di Indonesia.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Komnas HAM dibentuk untuk perlindungan hak asasi."
     }
   ],
   "essay": [
     {
       "id": "E-ES-01",
-      "question": "Tuliskan sila ketiga dari Pancasila!",
-      "answer": "Persatuan Indonesia",
+      "question": "HAM di Indonesia: Tuliskan nama lembaga independen perlindungan hak asasi manusia!",
+      "answer": "Komnas HAM",
       "input_type": "text",
-      "time_limit": 40
+      "time_limit": 45,
+      "explanation": "Komisi Nasional Hak Asasi Manusia."
+    },
+    {
+      "id": "E-ES-02",
+      "question": "Demokrasi Pancasila: Tuliskan istilah pengambilan keputusan bersama secara kebulatan suara!",
+      "answer": "Musyawarah mufakat",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Musyawarah untuk mufakat."
+    },
+    {
+      "id": "E-ES-03",
+      "question": "HAM di Indonesia: Tuliskan nama lembaga independen perlindungan hak asasi manusia!",
+      "answer": "Komnas HAM",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Komisi Nasional Hak Asasi Manusia."
+    },
+    {
+      "id": "E-ES-04",
+      "question": "Demokrasi Pancasila: Tuliskan istilah pengambilan keputusan bersama secara kebulatan suara!",
+      "answer": "Musyawarah mufakat",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Musyawarah untuk mufakat."
+    },
+    {
+      "id": "E-ES-05",
+      "question": "HAM di Indonesia: Tuliskan nama lembaga independen perlindungan hak asasi manusia!",
+      "answer": "Komnas HAM",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Komisi Nasional Hak Asasi Manusia."
     }
   ]
 }

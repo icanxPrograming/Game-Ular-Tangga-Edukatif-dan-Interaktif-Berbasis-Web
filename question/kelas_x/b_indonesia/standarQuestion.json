@@ -3,33 +3,202 @@
   "multiple_choice": [
     {
       "id": "S-MC-01",
-      "question": "Struktur teks Laporan Hasil Observasi yang berisi kalimat definisi umum terletak di bagian …",
+      "question": "Teks yang bertujuan meyakinkan pembaca melalui argumen logis dinamakan...",
       "options": [
-        "Deskripsi Bagian",
-        "Pernyataan Umum / Definisi",
-        "Deskripsi Manfaat"
+        "Teks Eksposisi",
+        "Teks Deskripsi",
+        "Teks LHO"
       ],
-      "answer": 1,
-      "explanation": "Pernyataan umum berisi pengertian dasar objek.",
-      "time_limit": 40
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Teks eksposisi menyajikan gagasan dan argumen pendukung."
+    },
+    {
+      "id": "S-MC-02",
+      "question": "Bagian tesis dalam teks eksposisi berisi...",
+      "options": [
+        "Pandangan/pendapat penulis",
+        "Argumentasi detail",
+        "Penegasan ulang"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Tesis mengenalkan isu dan posisi penulis."
+    },
+    {
+      "id": "S-MC-03",
+      "question": "Gagasan utama yang mendasari sebuah paragraf dinamakan...",
+      "options": [
+        "Ide Pokok",
+        "Kalimat Penjelas",
+        "Judul"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Ide pokok merupakan gagasan inti paragraf."
+    },
+    {
+      "id": "S-MC-04",
+      "question": "Paragraf yang kalimat utamanya terletak di awal dinamakan paragraf...",
+      "options": [
+        "Deduktif",
+        "Induktif",
+        "Campuran"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Deduktif bermula dari pernyataan umum di awal."
+    },
+    {
+      "id": "S-MC-05",
+      "question": "Prasangka atau asumsi yang belum terbukti kebenarannya dinamakan...",
+      "options": [
+        "Opini",
+        "Fakta",
+        "Data"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Opini belum terverifikasi secara ilmiah."
+    },
+    {
+      "id": "S-MC-06",
+      "question": "Kata populer yang bermakna ilmiah dalam teks eksposisi disebut...",
+      "options": [
+        "Istilah Teknis",
+        "Jargon",
+        "Slang"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Istilah teknis disesuaikan dengan bidang ilmu."
+    },
+    {
+      "id": "S-MC-07",
+      "question": "Teks anekdot berfungsi untuk menyampaikan kritik melalui...",
+      "options": [
+        "Humor/Sindiran",
+        "Kekerasan",
+        "Puisi"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Anekdot mengemas kritik sosial lewat humor."
+    },
+    {
+      "id": "S-MC-08",
+      "question": "Struktur awal teks anekdot yang mengenalkan latar cerita dinamakan...",
+      "options": [
+        "Abstraksi/Orientasi",
+        "Krisis",
+        "Reaksi"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Orientasi memberi gambaran awal cerita."
+    },
+    {
+      "id": "S-MC-09",
+      "question": "Puncak permasalahan humor dalam anekdot berada pada bagian...",
+      "options": [
+        "Krisis",
+        "Orientasi",
+        "Koda"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Krisis berisi inti humor dan sindiran."
+    },
+    {
+      "id": "S-MC-10",
+      "question": "Majas yang menggunakan kata-kata berlawanan makna secara sindiran halus dinamakan...",
+      "options": [
+        "Ironi",
+        "Hyperbola",
+        "Metaphora"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Ironi menyatakan sindiran secara halus."
     }
   ],
   "true_false": [
     {
       "id": "S-TF-01",
-      "question": "Teks eksposisi bertujuan untuk membujuk pembaca membeli suatu produk.",
+      "question": "Teks eksposisi menggunakan argumen pendukung fakta.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Argumen eksposisi didukung fakta objektif."
+    },
+    {
+      "id": "S-TF-02",
+      "question": "Paragraf induktif meletakkan gagasan utama di awal paragraf.",
       "answer": false,
-      "explanation": "Teks eksposisi bertujuan memberikan informasi/pengetahuan.",
-      "time_limit": 25
+      "time_limit": 20,
+      "explanation": "Paragraf induktif meletakkan ide pokok di akhir."
+    },
+    {
+      "id": "S-TF-03",
+      "question": "Anekdot hanya berisi cerita lucu tanpa makna kritik.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "Anekdot mengandung pesan kritik sosial."
+    },
+    {
+      "id": "S-TF-04",
+      "question": "Bagian koda merupakan penutup dalam teks anekdot.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Koda menutup cerita anekdot."
+    },
+    {
+      "id": "S-TF-05",
+      "question": "Kalimat imperatif berisi perintah atau ajakan.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Imperatif berfungsi memberi instruksi/perintah."
     }
   ],
   "essay": [
     {
       "id": "S-ES-01",
-      "question": "Tuliskan 3 struktur utama dalam teks laporan hasil observasi!",
-      "answer": "Pernyataan umum, deskripsi bagian, deskripsi manfaat.",
+      "question": "Tuliskan jenis paragraf yang ide pokoknya ada di awal!",
+      "answer": "Deduktif",
       "input_type": "text",
-      "time_limit": 60
+      "time_limit": 45,
+      "explanation": "Paragraf deduktif diawali kalimat utama."
+    },
+    {
+      "id": "S-ES-02",
+      "question": "Tuliskan istilah penutup dalam struktur teks anekdot!",
+      "answer": "Koda",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Koda adalah bagian penutup anekdot."
+    },
+    {
+      "id": "S-ES-03",
+      "question": "Tuliskan jenis teks yang menyajikan kritik lewat humor!",
+      "answer": "Teks Anekdot",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Teks anekdot memuat sindiran jenaka."
+    },
+    {
+      "id": "S-ES-04",
+      "question": "Tuliskan nama majas sindiran halus dalam bahasa Indonesia!",
+      "answer": "Ironi",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Ironi adalah majas sindiran halus."
+    },
+    {
+      "id": "S-ES-05",
+      "question": "Tuliskan istilah untuk bagian pandangan penulis pada teks eksposisi!",
+      "answer": "Tesis",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Tesis adalah pandangan awal tesis."
     }
   ]
 }

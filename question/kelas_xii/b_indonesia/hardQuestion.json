@@ -3,33 +3,202 @@
   "multiple_choice": [
     {
       "id": "H-MC-01",
-      "question": "Ciri kebahasaan teks prosedur yang memuat kata kerja perintah disebut verba …",
+      "question": "Surat Lamaran Kerja (HARD 1): Bagian surat lamaran kerja yang memuat data diri pelamar dinamakan...",
       "options": [
-        "Material",
-        "Imperatif",
-        "Relasional"
+        "Identitas Pelamar / Kualifikasi",
+        "Salam Pembuka",
+        "Penutup"
       ],
-      "answer": 1,
-      "explanation": "Verba imperatif adalah kata kerja yang memberikan perintah.",
-      "time_limit": 45
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Identitas mencantumkan nama, TTL, pendidikan."
+    },
+    {
+      "id": "H-MC-02",
+      "question": "Teks Editorial (HARD 2): Teks editorial merupakan pandangan resmi redaksi media massa terhadap...",
+      "options": [
+        "Isu hangat / berita aktual",
+        "Cerita rekaan",
+        "Resep makanan"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Editorial/Tajuk rencana merespons isu terkini."
+    },
+    {
+      "id": "H-MC-03",
+      "question": "Surat Lamaran Kerja (HARD 3): Bagian surat lamaran kerja yang memuat data diri pelamar dinamakan...",
+      "options": [
+        "Identitas Pelamar / Kualifikasi",
+        "Salam Pembuka",
+        "Penutup"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Identitas mencantumkan nama, TTL, pendidikan."
+    },
+    {
+      "id": "H-MC-04",
+      "question": "Teks Editorial (HARD 4): Teks editorial merupakan pandangan resmi redaksi media massa terhadap...",
+      "options": [
+        "Isu hangat / berita aktual",
+        "Cerita rekaan",
+        "Resep makanan"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Editorial/Tajuk rencana merespons isu terkini."
+    },
+    {
+      "id": "H-MC-05",
+      "question": "Surat Lamaran Kerja (HARD 5): Bagian surat lamaran kerja yang memuat data diri pelamar dinamakan...",
+      "options": [
+        "Identitas Pelamar / Kualifikasi",
+        "Salam Pembuka",
+        "Penutup"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Identitas mencantumkan nama, TTL, pendidikan."
+    },
+    {
+      "id": "H-MC-06",
+      "question": "Teks Editorial (HARD 6): Teks editorial merupakan pandangan resmi redaksi media massa terhadap...",
+      "options": [
+        "Isu hangat / berita aktual",
+        "Cerita rekaan",
+        "Resep makanan"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Editorial/Tajuk rencana merespons isu terkini."
+    },
+    {
+      "id": "H-MC-07",
+      "question": "Surat Lamaran Kerja (HARD 7): Bagian surat lamaran kerja yang memuat data diri pelamar dinamakan...",
+      "options": [
+        "Identitas Pelamar / Kualifikasi",
+        "Salam Pembuka",
+        "Penutup"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Identitas mencantumkan nama, TTL, pendidikan."
+    },
+    {
+      "id": "H-MC-08",
+      "question": "Teks Editorial (HARD 8): Teks editorial merupakan pandangan resmi redaksi media massa terhadap...",
+      "options": [
+        "Isu hangat / berita aktual",
+        "Cerita rekaan",
+        "Resep makanan"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Editorial/Tajuk rencana merespons isu terkini."
+    },
+    {
+      "id": "H-MC-09",
+      "question": "Surat Lamaran Kerja (HARD 9): Bagian surat lamaran kerja yang memuat data diri pelamar dinamakan...",
+      "options": [
+        "Identitas Pelamar / Kualifikasi",
+        "Salam Pembuka",
+        "Penutup"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Identitas mencantumkan nama, TTL, pendidikan."
+    },
+    {
+      "id": "H-MC-10",
+      "question": "Teks Editorial (HARD 10): Teks editorial merupakan pandangan resmi redaksi media massa terhadap...",
+      "options": [
+        "Isu hangat / berita aktual",
+        "Cerita rekaan",
+        "Resep makanan"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Editorial/Tajuk rencana merespons isu terkini."
     }
   ],
   "true_false": [
     {
       "id": "H-TF-01",
-      "question": "Penggunaan konjungsi temporal berfungsi menunjukkan urutan waktu dalam teks.",
+      "question": "Surat Lamaran Kerja: Penulisan tempat dan tanggal surat diawali huruf kapital.",
       "answer": true,
-      "explanation": "Konjungsi temporal seperti 'kemudian', 'setelah itu' menandai urutan waktu.",
-      "time_limit": 30
+      "time_limit": 20,
+      "explanation": "Contoh: Jakarta, 12 Agustus 2026."
+    },
+    {
+      "id": "H-TF-02",
+      "question": "Teks Editorial: Tajuk rencana ditulis oleh pembaca berita.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "Tajuk rencana ditulis oleh dewan redaksi media."
+    },
+    {
+      "id": "H-TF-03",
+      "question": "Surat Lamaran Kerja: Penulisan tempat dan tanggal surat diawali huruf kapital.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Contoh: Jakarta, 12 Agustus 2026."
+    },
+    {
+      "id": "H-TF-04",
+      "question": "Teks Editorial: Tajuk rencana ditulis oleh pembaca berita.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "Tajuk rencana ditulis oleh dewan redaksi media."
+    },
+    {
+      "id": "H-TF-05",
+      "question": "Surat Lamaran Kerja: Penulisan tempat dan tanggal surat diawali huruf kapital.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Contoh: Jakarta, 12 Agustus 2026."
     }
   ],
   "essay": [
     {
       "id": "H-ES-01",
-      "question": "Jelaskan fungsi majas personifikasi dalam teks puisi!",
-      "answer": "Memberikan sifat-sifat manusia pada benda mati agar lebih hidup.",
+      "question": "Surat Lamaran Kerja: Tuliskan istilah data riwayat hidup lampiran lamaran kerja!",
+      "answer": "Curriculum Vitae",
       "input_type": "text",
-      "time_limit": 60
+      "time_limit": 45,
+      "explanation": "Daftar riwayat hidup disebut CV."
+    },
+    {
+      "id": "H-ES-02",
+      "question": "Teks Editorial: Tuliskan istilah lain dari teks editorial koran!",
+      "answer": "Tajuk Rencana",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Tajuk rencana adalah opini resmi redaksi."
+    },
+    {
+      "id": "H-ES-03",
+      "question": "Surat Lamaran Kerja: Tuliskan istilah data riwayat hidup lampiran lamaran kerja!",
+      "answer": "Curriculum Vitae",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Daftar riwayat hidup disebut CV."
+    },
+    {
+      "id": "H-ES-04",
+      "question": "Teks Editorial: Tuliskan istilah lain dari teks editorial koran!",
+      "answer": "Tajuk Rencana",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Tajuk rencana adalah opini resmi redaksi."
+    },
+    {
+      "id": "H-ES-05",
+      "question": "Surat Lamaran Kerja: Tuliskan istilah data riwayat hidup lampiran lamaran kerja!",
+      "answer": "Curriculum Vitae",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Daftar riwayat hidup disebut CV."
     }
   ]
 }

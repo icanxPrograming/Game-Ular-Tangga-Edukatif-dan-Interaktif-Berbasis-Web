@@ -3,33 +3,202 @@
   "multiple_choice": [
     {
       "id": "M-MC-01",
-      "question": "Asas kewarganegaraan berdasarkan keturunan dinamakan …",
+      "question": "HAM di Indonesia (MYSTERY 1): Hak asasi manusia bersifat universal yang berarti...",
       "options": [
-        "Ius Soli",
-        "Ius Sanguinis",
-        "Apatride"
+        "Berlaku bagi siapa saja tanpa membedakan suku/bangsa",
+        "Hanya untuk warga negara tertentu",
+        "Bisa dicabut kapan saja"
       ],
-      "answer": 1,
-      "explanation": "Ius Sanguinis berdasarkan pertalian darah/keturunan.",
-      "time_limit": 30
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "HAM melekat pada diri setiap manusia."
+    },
+    {
+      "id": "M-MC-02",
+      "question": "Demokrasi Pancasila (MYSTERY 2): Prinsip utama Demokrasi Pancasila mengutamakan penyelesaian masalah melalui...",
+      "options": [
+        "Musyawarah mufakat",
+        "Suara terbanyak mutlak",
+        "Unjuk rasa kekerasan"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Musyawarah mufakat dicantumkan dalam Sila IV."
+    },
+    {
+      "id": "M-MC-03",
+      "question": "HAM di Indonesia (MYSTERY 3): Hak asasi manusia bersifat universal yang berarti...",
+      "options": [
+        "Berlaku bagi siapa saja tanpa membedakan suku/bangsa",
+        "Hanya untuk warga negara tertentu",
+        "Bisa dicabut kapan saja"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "HAM melekat pada diri setiap manusia."
+    },
+    {
+      "id": "M-MC-04",
+      "question": "Demokrasi Pancasila (MYSTERY 4): Prinsip utama Demokrasi Pancasila mengutamakan penyelesaian masalah melalui...",
+      "options": [
+        "Musyawarah mufakat",
+        "Suara terbanyak mutlak",
+        "Unjuk rasa kekerasan"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Musyawarah mufakat dicantumkan dalam Sila IV."
+    },
+    {
+      "id": "M-MC-05",
+      "question": "HAM di Indonesia (MYSTERY 5): Hak asasi manusia bersifat universal yang berarti...",
+      "options": [
+        "Berlaku bagi siapa saja tanpa membedakan suku/bangsa",
+        "Hanya untuk warga negara tertentu",
+        "Bisa dicabut kapan saja"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "HAM melekat pada diri setiap manusia."
+    },
+    {
+      "id": "M-MC-06",
+      "question": "Demokrasi Pancasila (MYSTERY 6): Prinsip utama Demokrasi Pancasila mengutamakan penyelesaian masalah melalui...",
+      "options": [
+        "Musyawarah mufakat",
+        "Suara terbanyak mutlak",
+        "Unjuk rasa kekerasan"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Musyawarah mufakat dicantumkan dalam Sila IV."
+    },
+    {
+      "id": "M-MC-07",
+      "question": "HAM di Indonesia (MYSTERY 7): Hak asasi manusia bersifat universal yang berarti...",
+      "options": [
+        "Berlaku bagi siapa saja tanpa membedakan suku/bangsa",
+        "Hanya untuk warga negara tertentu",
+        "Bisa dicabut kapan saja"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "HAM melekat pada diri setiap manusia."
+    },
+    {
+      "id": "M-MC-08",
+      "question": "Demokrasi Pancasila (MYSTERY 8): Prinsip utama Demokrasi Pancasila mengutamakan penyelesaian masalah melalui...",
+      "options": [
+        "Musyawarah mufakat",
+        "Suara terbanyak mutlak",
+        "Unjuk rasa kekerasan"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Musyawarah mufakat dicantumkan dalam Sila IV."
+    },
+    {
+      "id": "M-MC-09",
+      "question": "HAM di Indonesia (MYSTERY 9): Hak asasi manusia bersifat universal yang berarti...",
+      "options": [
+        "Berlaku bagi siapa saja tanpa membedakan suku/bangsa",
+        "Hanya untuk warga negara tertentu",
+        "Bisa dicabut kapan saja"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "HAM melekat pada diri setiap manusia."
+    },
+    {
+      "id": "M-MC-10",
+      "question": "Demokrasi Pancasila (MYSTERY 10): Prinsip utama Demokrasi Pancasila mengutamakan penyelesaian masalah melalui...",
+      "options": [
+        "Musyawarah mufakat",
+        "Suara terbanyak mutlak",
+        "Unjuk rasa kekerasan"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Musyawarah mufakat dicantumkan dalam Sila IV."
     }
   ],
   "true_false": [
     {
       "id": "M-TF-01",
-      "question": "Indonesia menganut prinsip kedaulatan rakyat dan kedaulatan hukum.",
+      "question": "HAM di Indonesia: Komnas HAM merupakan lembaga independen penegakan HAM di Indonesia.",
       "answer": true,
-      "explanation": "Sesuai Pasal 1 Ayat 2 dan 3 UUD 1945.",
-      "time_limit": 25
+      "time_limit": 20,
+      "explanation": "Komnas HAM dibentuk untuk perlindungan hak asasi."
+    },
+    {
+      "id": "M-TF-02",
+      "question": "Demokrasi Pancasila: Pemilu secara Luber dan Jurdil diadakan tiap 5 tahun sekali.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Asas Pemilu Indonesia Luber Jurdil."
+    },
+    {
+      "id": "M-TF-03",
+      "question": "HAM di Indonesia: Komnas HAM merupakan lembaga independen penegakan HAM di Indonesia.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Komnas HAM dibentuk untuk perlindungan hak asasi."
+    },
+    {
+      "id": "M-TF-04",
+      "question": "Demokrasi Pancasila: Pemilu secara Luber dan Jurdil diadakan tiap 5 tahun sekali.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Asas Pemilu Indonesia Luber Jurdil."
+    },
+    {
+      "id": "M-TF-05",
+      "question": "HAM di Indonesia: Komnas HAM merupakan lembaga independen penegakan HAM di Indonesia.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Komnas HAM dibentuk untuk perlindungan hak asasi."
     }
   ],
   "essay": [
     {
       "id": "M-ES-01",
-      "question": "Apa sebutan untuk kondisi seseorang yang tidak memiliki kewarganegaraan?",
-      "answer": "Apatride",
+      "question": "HAM di Indonesia: Tuliskan nama lembaga independen perlindungan hak asasi manusia!",
+      "answer": "Komnas HAM",
       "input_type": "text",
-      "time_limit": 30
+      "time_limit": 45,
+      "explanation": "Komisi Nasional Hak Asasi Manusia."
+    },
+    {
+      "id": "M-ES-02",
+      "question": "Demokrasi Pancasila: Tuliskan istilah pengambilan keputusan bersama secara kebulatan suara!",
+      "answer": "Musyawarah mufakat",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Musyawarah untuk mufakat."
+    },
+    {
+      "id": "M-ES-03",
+      "question": "HAM di Indonesia: Tuliskan nama lembaga independen perlindungan hak asasi manusia!",
+      "answer": "Komnas HAM",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Komisi Nasional Hak Asasi Manusia."
+    },
+    {
+      "id": "M-ES-04",
+      "question": "Demokrasi Pancasila: Tuliskan istilah pengambilan keputusan bersama secara kebulatan suara!",
+      "answer": "Musyawarah mufakat",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Musyawarah untuk mufakat."
+    },
+    {
+      "id": "M-ES-05",
+      "question": "HAM di Indonesia: Tuliskan nama lembaga independen perlindungan hak asasi manusia!",
+      "answer": "Komnas HAM",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Komisi Nasional Hak Asasi Manusia."
     }
   ]
 }

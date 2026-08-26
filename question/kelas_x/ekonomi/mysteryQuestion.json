@@ -3,33 +3,202 @@
   "multiple_choice": [
     {
       "id": "M-MC-01",
-      "question": "Bapak ilmu ekonomi dunia adalah …",
+      "question": "Kebutuhan & Kelangkaan (MYSTERY 1): Inti masalah ekonomi adalah adanya keterbatasan sumber daya berhadapan dengan...",
       "options": [
-        "Adam Smith",
-        "David Ricardo",
-        "J.M. Keynes"
+        "Kebutuhan manusia yang tidak terbatas",
+        "Uang yang banyak",
+        "Jumlah barang berlimpah"
       ],
       "answer": 0,
-      "explanation": "Adam Smith menulis The Wealth of Nations (1776).",
-      "time_limit": 30
+      "time_limit": 30,
+      "explanation": "Kelangkaan timbul karena alat pemuas terbatas sedang kebutuhan tak terbatas."
+    },
+    {
+      "id": "M-MC-02",
+      "question": "Skala Prioritas (MYSTERY 2): Dalam menyusun skala prioritas, kebutuhan yang harus didahulukan adalah kebutuhan...",
+      "options": [
+        "Primer dan Mendesak",
+        "Sekunder",
+        "Tersier"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Primer mendasari kelangsungan hidup utama."
+    },
+    {
+      "id": "M-MC-03",
+      "question": "Permintaan & Penawaran (MYSTERY 3): Bunyi Hukum Permintaan menyatakan jika harga naik, maka jumlah barang yang diminta akan...",
+      "options": [
+        "Turun",
+        "Naik",
+        "Tetap"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Harga dan jumlah permintaan berbanding terbalik."
+    },
+    {
+      "id": "M-MC-04",
+      "question": "Sistem Ekonomi (MYSTERY 4): Sistem ekonomi yang menyerahkan seluruh kegiatan ekonomi kepada mekanisme pasar bebas dinamakan...",
+      "options": [
+        "Pasar / Liberal",
+        "Komando / Terpusat",
+        "Campuran"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Sistem pasar bebas membebaskan persaingan individu."
+    },
+    {
+      "id": "M-MC-05",
+      "question": "Kebutuhan & Kelangkaan (MYSTERY 5): Inti masalah ekonomi adalah adanya keterbatasan sumber daya berhadapan dengan...",
+      "options": [
+        "Kebutuhan manusia yang tidak terbatas",
+        "Uang yang banyak",
+        "Jumlah barang berlimpah"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Kelangkaan timbul karena alat pemuas terbatas sedang kebutuhan tak terbatas."
+    },
+    {
+      "id": "M-MC-06",
+      "question": "Skala Prioritas (MYSTERY 6): Dalam menyusun skala prioritas, kebutuhan yang harus didahulukan adalah kebutuhan...",
+      "options": [
+        "Primer dan Mendesak",
+        "Sekunder",
+        "Tersier"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Primer mendasari kelangsungan hidup utama."
+    },
+    {
+      "id": "M-MC-07",
+      "question": "Permintaan & Penawaran (MYSTERY 7): Bunyi Hukum Permintaan menyatakan jika harga naik, maka jumlah barang yang diminta akan...",
+      "options": [
+        "Turun",
+        "Naik",
+        "Tetap"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Harga dan jumlah permintaan berbanding terbalik."
+    },
+    {
+      "id": "M-MC-08",
+      "question": "Sistem Ekonomi (MYSTERY 8): Sistem ekonomi yang menyerahkan seluruh kegiatan ekonomi kepada mekanisme pasar bebas dinamakan...",
+      "options": [
+        "Pasar / Liberal",
+        "Komando / Terpusat",
+        "Campuran"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Sistem pasar bebas membebaskan persaingan individu."
+    },
+    {
+      "id": "M-MC-09",
+      "question": "Kebutuhan & Kelangkaan (MYSTERY 9): Inti masalah ekonomi adalah adanya keterbatasan sumber daya berhadapan dengan...",
+      "options": [
+        "Kebutuhan manusia yang tidak terbatas",
+        "Uang yang banyak",
+        "Jumlah barang berlimpah"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Kelangkaan timbul karena alat pemuas terbatas sedang kebutuhan tak terbatas."
+    },
+    {
+      "id": "M-MC-10",
+      "question": "Skala Prioritas (MYSTERY 10): Dalam menyusun skala prioritas, kebutuhan yang harus didahulukan adalah kebutuhan...",
+      "options": [
+        "Primer dan Mendesak",
+        "Sekunder",
+        "Tersier"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Primer mendasari kelangsungan hidup utama."
     }
   ],
   "true_false": [
     {
       "id": "M-TF-01",
-      "question": "Barang inferior adalah barang yang permintaannya naik saat pendapatan konsumen naik.",
+      "question": "Kebutuhan & Kelangkaan: Kelangkaan terjadi saat kebutuhan seimbang dengan pemuas.",
       "answer": false,
-      "explanation": "Permintaan barang inferior justru turun saat pendapatan naik.",
-      "time_limit": 25
+      "time_limit": 20,
+      "explanation": "Kelangkaan terjadi saat kebutuhan melebihi alat pemuas."
+    },
+    {
+      "id": "M-TF-02",
+      "question": "Skala Prioritas: Kebutuhan tersier harus dipenuhi sebelum primer.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "Kebutuhan primer dipenuhi paling awal."
+    },
+    {
+      "id": "M-TF-03",
+      "question": "Permintaan & Penawaran: Kurva permintaan berlereng positif dari kiri bawah ke kanan atas.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "Kurva permintaan berlereng negatif dari kiri atas ke kanan bawah."
+    },
+    {
+      "id": "M-TF-04",
+      "question": "Sistem Ekonomi: Sistem ekonomi komando diatur sepenuhnya oleh pemerintah.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Pemerintah mengendalikan seluruh faktor produksi pada sistem komando."
+    },
+    {
+      "id": "M-TF-05",
+      "question": "Kebutuhan & Kelangkaan: Kelangkaan terjadi saat kebutuhan seimbang dengan pemuas.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "Kelangkaan terjadi saat kebutuhan melebihi alat pemuas."
     }
   ],
   "essay": [
     {
       "id": "M-ES-01",
-      "question": "Sebutkan nama Bank Sentral Negara Republik Indonesia!",
-      "answer": "Bank Indonesia",
+      "question": "Kebutuhan & Kelangkaan: Tuliskan istilah keterbatasan alat pemuas kebutuhan dibanding kebutuhan!",
+      "answer": "Kelangkaan",
       "input_type": "text",
-      "time_limit": 30
+      "time_limit": 45,
+      "explanation": "Keterbatasan alat pemuas dinamakan kelangkaan."
+    },
+    {
+      "id": "M-ES-02",
+      "question": "Skala Prioritas: Tuliskan jenis kebutuhan pokok utama manusia!",
+      "answer": "Kebutuhan Primer",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Makanan, pakaian, dan tempat tinggal adalah kebutuhan primer."
+    },
+    {
+      "id": "M-ES-03",
+      "question": "Permintaan & Penawaran: Tuliskan nama titik temu antara kurva permintaan dan penawaran!",
+      "answer": "Keseimbangan",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Titik ekulilibrium dinamakan keseimbangan pasar."
+    },
+    {
+      "id": "M-ES-04",
+      "question": "Sistem Ekonomi: Tuliskan istilah pasar dengan satu penjual tunggal!",
+      "answer": "Monopoli",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Pasar dengan satu penjual disebut monopoli."
+    },
+    {
+      "id": "M-ES-05",
+      "question": "Kebutuhan & Kelangkaan: Tuliskan istilah keterbatasan alat pemuas kebutuhan dibanding kebutuhan!",
+      "answer": "Kelangkaan",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Keterbatasan alat pemuas dinamakan kelangkaan."
     }
   ]
 }

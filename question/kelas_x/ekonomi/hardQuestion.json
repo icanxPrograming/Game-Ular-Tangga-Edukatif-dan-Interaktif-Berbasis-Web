@@ -3,33 +3,202 @@
   "multiple_choice": [
     {
       "id": "H-MC-01",
-      "question": "Pasar dengan sedikit penjual yang menguasai pasar dinamakan pasar …",
+      "question": "Kebutuhan & Kelangkaan (HARD 1): Inti masalah ekonomi adalah adanya keterbatasan sumber daya berhadapan dengan...",
       "options": [
-        "Monopoli",
-        "Oligopoli",
-        "Monopsoni"
+        "Kebutuhan manusia yang tidak terbatas",
+        "Uang yang banyak",
+        "Jumlah barang berlimpah"
       ],
-      "answer": 1,
-      "explanation": "Oligopoli dikuasai oleh beberapa produsen besar.",
-      "time_limit": 40
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Kelangkaan timbul karena alat pemuas terbatas sedang kebutuhan tak terbatas."
+    },
+    {
+      "id": "H-MC-02",
+      "question": "Skala Prioritas (HARD 2): Dalam menyusun skala prioritas, kebutuhan yang harus didahulukan adalah kebutuhan...",
+      "options": [
+        "Primer dan Mendesak",
+        "Sekunder",
+        "Tersier"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Primer mendasari kelangsungan hidup utama."
+    },
+    {
+      "id": "H-MC-03",
+      "question": "Permintaan & Penawaran (HARD 3): Bunyi Hukum Permintaan menyatakan jika harga naik, maka jumlah barang yang diminta akan...",
+      "options": [
+        "Turun",
+        "Naik",
+        "Tetap"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Harga dan jumlah permintaan berbanding terbalik."
+    },
+    {
+      "id": "H-MC-04",
+      "question": "Sistem Ekonomi (HARD 4): Sistem ekonomi yang menyerahkan seluruh kegiatan ekonomi kepada mekanisme pasar bebas dinamakan...",
+      "options": [
+        "Pasar / Liberal",
+        "Komando / Terpusat",
+        "Campuran"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Sistem pasar bebas membebaskan persaingan individu."
+    },
+    {
+      "id": "H-MC-05",
+      "question": "Kebutuhan & Kelangkaan (HARD 5): Inti masalah ekonomi adalah adanya keterbatasan sumber daya berhadapan dengan...",
+      "options": [
+        "Kebutuhan manusia yang tidak terbatas",
+        "Uang yang banyak",
+        "Jumlah barang berlimpah"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Kelangkaan timbul karena alat pemuas terbatas sedang kebutuhan tak terbatas."
+    },
+    {
+      "id": "H-MC-06",
+      "question": "Skala Prioritas (HARD 6): Dalam menyusun skala prioritas, kebutuhan yang harus didahulukan adalah kebutuhan...",
+      "options": [
+        "Primer dan Mendesak",
+        "Sekunder",
+        "Tersier"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Primer mendasari kelangsungan hidup utama."
+    },
+    {
+      "id": "H-MC-07",
+      "question": "Permintaan & Penawaran (HARD 7): Bunyi Hukum Permintaan menyatakan jika harga naik, maka jumlah barang yang diminta akan...",
+      "options": [
+        "Turun",
+        "Naik",
+        "Tetap"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Harga dan jumlah permintaan berbanding terbalik."
+    },
+    {
+      "id": "H-MC-08",
+      "question": "Sistem Ekonomi (HARD 8): Sistem ekonomi yang menyerahkan seluruh kegiatan ekonomi kepada mekanisme pasar bebas dinamakan...",
+      "options": [
+        "Pasar / Liberal",
+        "Komando / Terpusat",
+        "Campuran"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Sistem pasar bebas membebaskan persaingan individu."
+    },
+    {
+      "id": "H-MC-09",
+      "question": "Kebutuhan & Kelangkaan (HARD 9): Inti masalah ekonomi adalah adanya keterbatasan sumber daya berhadapan dengan...",
+      "options": [
+        "Kebutuhan manusia yang tidak terbatas",
+        "Uang yang banyak",
+        "Jumlah barang berlimpah"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Kelangkaan timbul karena alat pemuas terbatas sedang kebutuhan tak terbatas."
+    },
+    {
+      "id": "H-MC-10",
+      "question": "Skala Prioritas (HARD 10): Dalam menyusun skala prioritas, kebutuhan yang harus didahulukan adalah kebutuhan...",
+      "options": [
+        "Primer dan Mendesak",
+        "Sekunder",
+        "Tersier"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Primer mendasari kelangsungan hidup utama."
     }
   ],
   "true_false": [
     {
       "id": "H-TF-01",
-      "question": "Kurva Indiferens menggambarkan kombinasi konsumsi dua barang yang memberikan kepuasan sama.",
+      "question": "Kebutuhan & Kelangkaan: Kelangkaan terjadi saat kebutuhan seimbang dengan pemuas.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "Kelangkaan terjadi saat kebutuhan melebihi alat pemuas."
+    },
+    {
+      "id": "H-TF-02",
+      "question": "Skala Prioritas: Kebutuhan tersier harus dipenuhi sebelum primer.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "Kebutuhan primer dipenuhi paling awal."
+    },
+    {
+      "id": "H-TF-03",
+      "question": "Permintaan & Penawaran: Kurva permintaan berlereng positif dari kiri bawah ke kanan atas.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "Kurva permintaan berlereng negatif dari kiri atas ke kanan bawah."
+    },
+    {
+      "id": "H-TF-04",
+      "question": "Sistem Ekonomi: Sistem ekonomi komando diatur sepenuhnya oleh pemerintah.",
       "answer": true,
-      "explanation": "Indifference curve menunjukkan tingkat kepuasan konstan.",
-      "time_limit": 30
+      "time_limit": 20,
+      "explanation": "Pemerintah mengendalikan seluruh faktor produksi pada sistem komando."
+    },
+    {
+      "id": "H-TF-05",
+      "question": "Kebutuhan & Kelangkaan: Kelangkaan terjadi saat kebutuhan seimbang dengan pemuas.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "Kelangkaan terjadi saat kebutuhan melebihi alat pemuas."
     }
   ],
   "essay": [
     {
       "id": "H-ES-01",
-      "question": "Jelaskan perbedaan inflasi demand-pull dan cost-push!",
-      "answer": "Demand-pull dipicu kenaikan permintaan, cost-push dipicu kenaikan biaya produksi.",
+      "question": "Kebutuhan & Kelangkaan: Tuliskan istilah keterbatasan alat pemuas kebutuhan dibanding kebutuhan!",
+      "answer": "Kelangkaan",
       "input_type": "text",
-      "time_limit": 60
+      "time_limit": 45,
+      "explanation": "Keterbatasan alat pemuas dinamakan kelangkaan."
+    },
+    {
+      "id": "H-ES-02",
+      "question": "Skala Prioritas: Tuliskan jenis kebutuhan pokok utama manusia!",
+      "answer": "Kebutuhan Primer",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Makanan, pakaian, dan tempat tinggal adalah kebutuhan primer."
+    },
+    {
+      "id": "H-ES-03",
+      "question": "Permintaan & Penawaran: Tuliskan nama titik temu antara kurva permintaan dan penawaran!",
+      "answer": "Keseimbangan",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Titik ekulilibrium dinamakan keseimbangan pasar."
+    },
+    {
+      "id": "H-ES-04",
+      "question": "Sistem Ekonomi: Tuliskan istilah pasar dengan satu penjual tunggal!",
+      "answer": "Monopoli",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Pasar dengan satu penjual disebut monopoli."
+    },
+    {
+      "id": "H-ES-05",
+      "question": "Kebutuhan & Kelangkaan: Tuliskan istilah keterbatasan alat pemuas kebutuhan dibanding kebutuhan!",
+      "answer": "Kelangkaan",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Keterbatasan alat pemuas dinamakan kelangkaan."
     }
   ]
 }

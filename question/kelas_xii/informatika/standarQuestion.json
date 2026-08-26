@@ -3,33 +3,202 @@
   "multiple_choice": [
     {
       "id": "S-MC-01",
-      "question": "Struktur data linier yang menerapkan prinsip LIFO (Last In First Out) adalah …",
+      "question": "Keamanan Siber XII (STANDARD 1): Teknik manipulasi psikologis untuk menipu korban agar memberikan informasi rahasia dinamakan...",
       "options": [
-        "Queue",
-        "Stack",
-        "Array"
+        "Phishing / Social Engineering",
+        "Firewall",
+        "Antivirus"
       ],
-      "answer": 1,
-      "explanation": "Stack menggunakan prinsip LIFO.",
-      "time_limit": 40
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Phishing mengelabuhi korban via pesan/web palsu."
+    },
+    {
+      "id": "S-MC-02",
+      "question": "Basis Data XII (STANDARD 2): Perintah SQL untuk mengambil data dari tabel adalah...",
+      "options": [
+        "SELECT",
+        "INSERT",
+        "DELETE"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "SELECT memfilter dan menampilkan record."
+    },
+    {
+      "id": "S-MC-03",
+      "question": "Keamanan Siber XII (STANDARD 3): Teknik manipulasi psikologis untuk menipu korban agar memberikan informasi rahasia dinamakan...",
+      "options": [
+        "Phishing / Social Engineering",
+        "Firewall",
+        "Antivirus"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Phishing mengelabuhi korban via pesan/web palsu."
+    },
+    {
+      "id": "S-MC-04",
+      "question": "Basis Data XII (STANDARD 4): Perintah SQL untuk mengambil data dari tabel adalah...",
+      "options": [
+        "SELECT",
+        "INSERT",
+        "DELETE"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "SELECT memfilter dan menampilkan record."
+    },
+    {
+      "id": "S-MC-05",
+      "question": "Keamanan Siber XII (STANDARD 5): Teknik manipulasi psikologis untuk menipu korban agar memberikan informasi rahasia dinamakan...",
+      "options": [
+        "Phishing / Social Engineering",
+        "Firewall",
+        "Antivirus"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Phishing mengelabuhi korban via pesan/web palsu."
+    },
+    {
+      "id": "S-MC-06",
+      "question": "Basis Data XII (STANDARD 6): Perintah SQL untuk mengambil data dari tabel adalah...",
+      "options": [
+        "SELECT",
+        "INSERT",
+        "DELETE"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "SELECT memfilter dan menampilkan record."
+    },
+    {
+      "id": "S-MC-07",
+      "question": "Keamanan Siber XII (STANDARD 7): Teknik manipulasi psikologis untuk menipu korban agar memberikan informasi rahasia dinamakan...",
+      "options": [
+        "Phishing / Social Engineering",
+        "Firewall",
+        "Antivirus"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Phishing mengelabuhi korban via pesan/web palsu."
+    },
+    {
+      "id": "S-MC-08",
+      "question": "Basis Data XII (STANDARD 8): Perintah SQL untuk mengambil data dari tabel adalah...",
+      "options": [
+        "SELECT",
+        "INSERT",
+        "DELETE"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "SELECT memfilter dan menampilkan record."
+    },
+    {
+      "id": "S-MC-09",
+      "question": "Keamanan Siber XII (STANDARD 9): Teknik manipulasi psikologis untuk menipu korban agar memberikan informasi rahasia dinamakan...",
+      "options": [
+        "Phishing / Social Engineering",
+        "Firewall",
+        "Antivirus"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Phishing mengelabuhi korban via pesan/web palsu."
+    },
+    {
+      "id": "S-MC-10",
+      "question": "Basis Data XII (STANDARD 10): Perintah SQL untuk mengambil data dari tabel adalah...",
+      "options": [
+        "SELECT",
+        "INSERT",
+        "DELETE"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "SELECT memfilter dan menampilkan record."
     }
   ],
   "true_false": [
     {
       "id": "S-TF-01",
-      "question": "Algoritma pencarian Binary Search memerlukan data yang sudah terurut.",
+      "question": "Keamanan Siber XII: Enkripsi mengamankan pesan dengan mengubahnya menjadi teks teracak (ciphertext).",
       "answer": true,
-      "explanation": "Binary search memerlukan array yang sudah tersortir.",
-      "time_limit": 25
+      "time_limit": 20,
+      "explanation": "Enkripsi melindungi kerahasiaan data."
+    },
+    {
+      "id": "S-TF-02",
+      "question": "Basis Data XII: Primary Key dalam basis data harus bernilai unik dan tidak boleh kosong (NOT NULL).",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Primary key mengidentifikasi unik tiap baris."
+    },
+    {
+      "id": "S-TF-03",
+      "question": "Keamanan Siber XII: Enkripsi mengamankan pesan dengan mengubahnya menjadi teks teracak (ciphertext).",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Enkripsi melindungi kerahasiaan data."
+    },
+    {
+      "id": "S-TF-04",
+      "question": "Basis Data XII: Primary Key dalam basis data harus bernilai unik dan tidak boleh kosong (NOT NULL).",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Primary key mengidentifikasi unik tiap baris."
+    },
+    {
+      "id": "S-TF-05",
+      "question": "Keamanan Siber XII: Enkripsi mengamankan pesan dengan mengubahnya menjadi teks teracak (ciphertext).",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Enkripsi melindungi kerahasiaan data."
     }
   ],
   "essay": [
     {
       "id": "S-ES-01",
-      "question": "Apakah kepanjangan dari istilah HTTP dalam protokol jaringan?",
-      "answer": "Hypertext Transfer Protocol",
+      "question": "Keamanan Siber XII: Tuliskan nama proses penyandian teks asli menjadi teks rahasia!",
+      "answer": "Enkripsi",
       "input_type": "text",
-      "time_limit": 45
+      "time_limit": 45,
+      "explanation": "Enkripsi mengacak data."
+    },
+    {
+      "id": "S-ES-02",
+      "question": "Basis Data XII: Tuliskan perintah SQL untuk mengambil data!",
+      "answer": "SELECT",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Kueri SELECT mengambil baris data."
+    },
+    {
+      "id": "S-ES-03",
+      "question": "Keamanan Siber XII: Tuliskan nama proses penyandian teks asli menjadi teks rahasia!",
+      "answer": "Enkripsi",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Enkripsi mengacak data."
+    },
+    {
+      "id": "S-ES-04",
+      "question": "Basis Data XII: Tuliskan perintah SQL untuk mengambil data!",
+      "answer": "SELECT",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Kueri SELECT mengambil baris data."
+    },
+    {
+      "id": "S-ES-05",
+      "question": "Keamanan Siber XII: Tuliskan nama proses penyandian teks asli menjadi teks rahasia!",
+      "answer": "Enkripsi",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Enkripsi mengacak data."
     }
   ]
 }

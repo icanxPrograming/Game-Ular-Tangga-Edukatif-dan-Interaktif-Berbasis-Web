@@ -3,33 +3,202 @@
   "multiple_choice": [
     {
       "id": "S-MC-01",
-      "question": "Proses pembelahan sel yang menghasilkan 4 sel anakan haploid adalah …",
+      "question": "Bakteri Gram-positif memiliki dinding sel yang kaya akan...",
       "options": [
-        "Mitosis",
-        "Meiosis",
-        "Amitosis"
+        "Peptidoglikan",
+        "Kitin",
+        "Selulosa"
       ],
-      "answer": 1,
-      "explanation": "Meiosis menghasilkan sel gamet haploid.",
-      "time_limit": 35
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Dinding sel gram positif tebal peptidoglikan."
+    },
+    {
+      "id": "S-MC-02",
+      "question": "Interaksi antara dua organisme yang saling menguntungkan dinamakan simbiose...",
+      "options": [
+        "Mutualisme",
+        "Komensalisme",
+        "Parasitisme"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Mutualisme memberi manfaat bagi kedua pihak."
+    },
+    {
+      "id": "S-MC-03",
+      "question": "Siklus litik pada reproduksi virus diakhiri dengan fase...",
+      "options": [
+        "Lisis / Pecahnya sel inang",
+        "Penetrasi",
+        "Adsorpsi"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Fase lisis merusak sel inang melepaskan virion."
+    },
+    {
+      "id": "S-MC-04",
+      "question": "Komponen abiotik dalam ekosistem ditunjukkan oleh...",
+      "options": [
+        "Air, Tanah, Cahaya",
+        "Tumbuhan dan Hewan",
+        "Bakteri dan Jamur"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Komponen abiotik adalah benda tak hidup."
+    },
+    {
+      "id": "S-MC-05",
+      "question": "Pengelompokan jamur berdasarkan reproduksi generatifnya membaginya menjadi Zygomycota dan Ascomycota. Jamur tempe tergolong...",
+      "options": [
+        "Zygomycota",
+        "Basidiomycota",
+        "Deuteromycota"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Rhizopus oryzae (jamur tempe) tergolong Zygomycota."
+    },
+    {
+      "id": "S-MC-06",
+      "question": "Proses perubahan ekosistem secara perlahan menuju kondisi klimaks dinamakan...",
+      "options": [
+        "Suksesi",
+        "Evolusi",
+        "Adaptasi"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Suksesi lingkungan bergerak menuju komunitas klimaks."
+    },
+    {
+      "id": "S-MC-07",
+      "question": "Keanekaragaman ekosistem di Indonesia yang kaya spesies endemik dipengaruhi posisi geografis kawasan...",
+      "options": [
+        "Wallacea & Oriental",
+        "Neartik",
+        "Paleartik"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Garis Wallace membagi keanekaragaman khas Nusantara."
+    },
+    {
+      "id": "S-MC-08",
+      "question": "Fase interfase dalam pembelahan sel terdiri dari tahap...",
+      "options": [
+        "G1 - S - G2",
+        "Profase - Anafase",
+        "Sitokinesis"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Interfase mencakup persiapan G1, replikasi DNA S, dan G2."
+    },
+    {
+      "id": "S-MC-09",
+      "question": "Fungsi utama enzim pembatas endonuklease dalam bioteknologi adalah...",
+      "options": [
+        "Memotong untai DNA",
+        "Menggabungkan DNA",
+        "Memperbanyak RNA"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Endonuklease restriksi memotong pita DNA pada situs spesifik."
+    },
+    {
+      "id": "S-MC-10",
+      "question": "Dua spesies berada dalam famili yang sama. Berdasarkan taksonomi, pasti berada dalam...",
+      "options": [
+        "Ordo dan Kelas yang sama",
+        "Spesies yang sama",
+        "Varietas sama"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Tingkatan takson di atas famili (Ordo, Kelas, Filum) otomatis sama."
     }
   ],
   "true_false": [
     {
       "id": "S-TF-01",
-      "question": "Fotosintesis menghasilkan glukosa dan gas oksigen.",
+      "question": "Siklus lisogenik virus langsung mengancam lisis sel inang.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "Siklus lisogenik menyisipkan profag tanpa lisis cepat."
+    },
+    {
+      "id": "S-TF-02",
+      "question": "Simbiosis komensalisme menguntungkan satu pihak tanpa merugikan pihak lain.",
       "answer": true,
-      "explanation": "6CO2 + 6H2O -> C6H12O6 + 6O2.",
-      "time_limit": 20
+      "time_limit": 20,
+      "explanation": "Pihak lain tidak dirugikan atau diuntungkan."
+    },
+    {
+      "id": "S-TF-03",
+      "question": "Jamur tidak dapat berfotosintesis karena tidak memiliki klorofil.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Jamur bersifat heterotrof penyerap nutrien."
+    },
+    {
+      "id": "S-TF-04",
+      "question": "Suksesi primer terjadi pada lahan yang kehilangan komunitas total akibat erupsi.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Suksesi primer bermula pada substrat batu/lahan kosong baru."
+    },
+    {
+      "id": "S-TF-05",
+      "question": "Peptidoglikan merupakan penyusun dinding sel jamur.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "Penyusun dinding sel jamur adalah kitin."
     }
   ],
   "essay": [
     {
       "id": "S-ES-01",
-      "question": "Tuliskan organ tubuh utama pencernaan protein pada manusia!",
-      "answer": "Lambung",
+      "question": "Tuliskan nama zat penyusun dinding sel jamur!",
+      "answer": "Kitin",
       "input_type": "text",
-      "time_limit": 30
+      "time_limit": 45,
+      "explanation": "Dinding sel jamur tersusun atas kitin."
+    },
+    {
+      "id": "S-ES-02",
+      "question": "Tuliskan istilah simbiosis yang menguntungkan kedua pihak!",
+      "answer": "Mutualisme",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Simbiosis mutualisme menguntungkan dua pihak."
+    },
+    {
+      "id": "S-ES-03",
+      "question": "Tuliskan nama proses reproduksi pembelahan bakteri!",
+      "answer": "Pembelahan biner",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Bakteri membelah biner."
+    },
+    {
+      "id": "S-ES-04",
+      "question": "Tuliskan istilah untuk tahapan penggandaan DNA pada interfase!",
+      "answer": "Fase S",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Fase S (Sintesis) merupaan replikasi DNA."
+    },
+    {
+      "id": "S-ES-05",
+      "question": "Tuliskan nama spesies jamur pembuatan tempe!",
+      "answer": "Rhizopus oryzae",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Jamur tempe adalah Rhizopus oryzae."
     }
   ]
 }

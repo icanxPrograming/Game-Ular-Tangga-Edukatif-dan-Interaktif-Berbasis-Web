@@ -3,33 +3,202 @@
   "multiple_choice": [
     {
       "id": "M-MC-01",
-      "question": "Hormon tumbuhan yang merangsang pematangan buah adalah …",
+      "question": "Penggunaan pestisida organoklorin secara berlebihan memicu akumulasi racun di puncak rantai makanan yang disebut...",
       "options": [
-        "Auksin",
-        "Gas Etilen",
-        "Giberelin"
+        "Biomagnifikasi",
+        "Eutrofikasi",
+        "Bioakumulasi"
       ],
-      "answer": 1,
-      "explanation": "Gas etilen memicu pematangan buah.",
-      "time_limit": 30
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Biomagnifikasi melipatgandakan kadar racun pada trofik puncak."
+    },
+    {
+      "id": "M-MC-02",
+      "question": "Mengapa introduksi spesies asing sering mengancam keanekaragaman lokal?",
+      "options": [
+        "Spesies asing dapat menjadi invasif tanpa predaktor alami",
+        "Spesies asing selalu mati",
+        "Spesies asing tidak makan"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Spesies invasif mendominasi dan menggeser spesies asli."
+    },
+    {
+      "id": "M-MC-03",
+      "question": "Fenomena eutrofikasi di perairan dicirikan oleh alga blooming akibat berlebihnya unsur...",
+      "options": [
+        "Nitrat dan Fosfat",
+        "Oksigen Terlarut",
+        "Logam Berat"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Pupuk fosfat/nitrat memicu ledakan alga."
+    },
+    {
+      "id": "M-MC-04",
+      "question": "Teknologi CRISPR-Cas9 dimanfaatkan ilmuwan untuk...",
+      "options": [
+        "Edit Genom / Rekayasa Gen Presisi",
+        "Membuat Vaksin Bakteri",
+        "Kloning Sel Darah"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "CRISPR-Cas9 memotong dan mengedit urutan spesifik DNA."
+    },
+    {
+      "id": "M-MC-05",
+      "question": "Analisis sidik jari DNA (DNA Fingerprinting) memanfaatkan variasi urutan...",
+      "options": [
+        "STR (Short Tandem Repeats)",
+        "Protein Hemoglobin",
+        "Lipid Membran"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "STR unik pada tiap individu kecuali kembar identik."
+    },
+    {
+      "id": "M-MC-06",
+      "question": "Penyakit autoimun terjadi karena sistem imun tubuh...",
+      "options": [
+        "Menyerang sel dan jaringan tubuh sendiri",
+        "Kurang antibodi",
+        "Kelebihan sel darah merah"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Sistem imun gagal mengenali antigen sendiri."
+    },
+    {
+      "id": "M-MC-07",
+      "question": "Respirasi anaerob pada otot manusia saat kekurangan oksigen menghasilkan produk samping berupa...",
+      "options": [
+        "Asam Laktat",
+        "Etanol",
+        "Asam Sitrat"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Fermentasi asam laktat menyebabkan pegal otot."
+    },
+    {
+      "id": "M-MC-08",
+      "question": "Konsep siklus karbon global menunjukkan laut berperan penting sebagai...",
+      "options": [
+        "Carbon Sink / Penyerap Karbon Utama",
+        "Penyebab Gas Rumah Kaca",
+        "Sumber CFC"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Fitoplankton dan lautan menyerap porsi besar CO2 atmosfer."
+    },
+    {
+      "id": "M-MC-09",
+      "question": "Restorasi ekosistem hutan bakau (mangrove) sangat efektif untuk mencegah...",
+      "options": [
+        "Abrasi Pantai dan Emisi Karbon Biru",
+        "Hujan Asam",
+        "Eutrofikasi"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Mangrove menahan gelombang abrasi dan menyimpan karbon biru."
+    },
+    {
+      "id": "M-MC-10",
+      "question": "Vaksin mRNA berupaya memicu kekebalan tubuh dengan memerintahkan sel membentuk...",
+      "options": [
+        "Protein Spike Antigen",
+        "Antibodi Langsung",
+        "Sel Darah Merah"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "mRNA memberi instruksi sel membentuk protein spike tidak berbahaya."
     }
   ],
   "true_false": [
     {
       "id": "M-TF-01",
-      "question": "Virus tergolong makhluk hidup seluler sempurna.",
+      "question": "Biomagnifikasi menyebabkan konsumen puncak memiliki kadar racun tertinggi.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Konsentrasi racun meningkat di tingkatan trofik lebih tinggi."
+    },
+    {
+      "id": "M-TF-02",
+      "question": "Eutrofikasi meningkatkan kadar oksigen terlarut dalam danau.",
       "answer": false,
-      "explanation": "Virus adalah aseluler (bukan sel).",
-      "time_limit": 20
+      "time_limit": 20,
+      "explanation": "Pembusukan alga menghabiskan oksigen terlarut (anoksia)."
+    },
+    {
+      "id": "M-TF-03",
+      "question": "CRISPR-Cas9 adalah alat gunting molekuler untuk pengeditan gen.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "CRISPR mengedit asam nukleat spesifik."
+    },
+    {
+      "id": "M-TF-04",
+      "question": "Fermentasi alkohol pada ragi menghasilkan gas CO2 dan Etanol.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Glukosa -> 2 Etanol + 2 CO2 + ATP."
+    },
+    {
+      "id": "M-TF-05",
+      "question": "Vaksin mRNA mengubah struktur DNA asli manusia.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "mRNA bekerja di sitoplasma tanpa masuk nukleus/DNA."
     }
   ],
   "essay": [
     {
       "id": "M-ES-01",
-      "question": "Sebutkan nama latin spesies manusia modern!",
-      "answer": "Homo sapiens",
+      "question": "Tuliskan istilah penumpukan zat racun pada puncak rantai makanan!",
+      "answer": "Biomagnifikasi",
       "input_type": "text",
-      "time_limit": 30
+      "time_limit": 45,
+      "explanation": "Biomagnifikasi memperbesar racun trofik atas."
+    },
+    {
+      "id": "M-ES-02",
+      "question": "Tuliskan nama proses pencemaran air akibat pupuk berlebih hingga alga blooming!",
+      "answer": "Eutrofikasi",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Eutrofikasi memicu pembungaan alga."
+    },
+    {
+      "id": "M-ES-03",
+      "question": "Tuliskan asam hasil respirasi anaerob pada otot pegal!",
+      "answer": "Asam laktat",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Asam laktat memicu nyeri otot."
+    },
+    {
+      "id": "M-ES-04",
+      "question": "Tuliskan alat pemotong gen spesifik teknologi CRISPR!",
+      "answer": "Cas9",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Enzim Cas9 berfungsi memotong pita DNA."
+    },
+    {
+      "id": "M-ES-05",
+      "question": "Tuliskan istilah penyerapan karbon atmosfer oleh ekosistem laut/mangrove!",
+      "answer": "Karbon biru",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Blue carbon diproduksi ekosistem pesisir."
     }
   ]
 }

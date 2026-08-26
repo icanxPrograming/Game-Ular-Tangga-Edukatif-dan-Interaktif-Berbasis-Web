@@ -3,33 +3,202 @@
   "multiple_choice": [
     {
       "id": "M-MC-01",
-      "question": "What does the idiom 'break a leg' mean?",
+      "question": "Job Application Letter (MYSTERY 1): What document summarizes your work history and education when applying for a job?",
       "options": [
-        "Get injured",
-        "Good luck",
-        "Stop working"
+        "Resume / CV",
+        "Cover Letter",
+        "Certificate"
       ],
-      "answer": 1,
-      "explanation": "'Break a leg' means good luck in theatrical context.",
-      "time_limit": 25
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "CV presents credentials."
+    },
+    {
+      "id": "M-MC-02",
+      "question": "News Item Text (MYSTERY 2): What is the main function of a News Item text?",
+      "options": [
+        "To inform readers about newsworthy events",
+        "To entertain kids",
+        "To describe a dream"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "News item delivers factual news events."
+    },
+    {
+      "id": "M-MC-03",
+      "question": "Job Application Letter (MYSTERY 3): What document summarizes your work history and education when applying for a job?",
+      "options": [
+        "Resume / CV",
+        "Cover Letter",
+        "Certificate"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "CV presents credentials."
+    },
+    {
+      "id": "M-MC-04",
+      "question": "News Item Text (MYSTERY 4): What is the main function of a News Item text?",
+      "options": [
+        "To inform readers about newsworthy events",
+        "To entertain kids",
+        "To describe a dream"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "News item delivers factual news events."
+    },
+    {
+      "id": "M-MC-05",
+      "question": "Job Application Letter (MYSTERY 5): What document summarizes your work history and education when applying for a job?",
+      "options": [
+        "Resume / CV",
+        "Cover Letter",
+        "Certificate"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "CV presents credentials."
+    },
+    {
+      "id": "M-MC-06",
+      "question": "News Item Text (MYSTERY 6): What is the main function of a News Item text?",
+      "options": [
+        "To inform readers about newsworthy events",
+        "To entertain kids",
+        "To describe a dream"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "News item delivers factual news events."
+    },
+    {
+      "id": "M-MC-07",
+      "question": "Job Application Letter (MYSTERY 7): What document summarizes your work history and education when applying for a job?",
+      "options": [
+        "Resume / CV",
+        "Cover Letter",
+        "Certificate"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "CV presents credentials."
+    },
+    {
+      "id": "M-MC-08",
+      "question": "News Item Text (MYSTERY 8): What is the main function of a News Item text?",
+      "options": [
+        "To inform readers about newsworthy events",
+        "To entertain kids",
+        "To describe a dream"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "News item delivers factual news events."
+    },
+    {
+      "id": "M-MC-09",
+      "question": "Job Application Letter (MYSTERY 9): What document summarizes your work history and education when applying for a job?",
+      "options": [
+        "Resume / CV",
+        "Cover Letter",
+        "Certificate"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "CV presents credentials."
+    },
+    {
+      "id": "M-MC-10",
+      "question": "News Item Text (MYSTERY 10): What is the main function of a News Item text?",
+      "options": [
+        "To inform readers about newsworthy events",
+        "To entertain kids",
+        "To describe a dream"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "News item delivers factual news events."
     }
   ],
   "true_false": [
     {
       "id": "M-TF-01",
-      "question": "The word 'metaphor' means comparing two things using 'like' or 'as'.",
-      "answer": false,
-      "explanation": "Comparing using 'like' or 'as' is a simile.",
-      "time_limit": 25
+      "question": "Job Application Letter: 'Sincerely yours' is a formal complimentary close.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Sincerely is standard formal close."
+    },
+    {
+      "id": "M-TF-02",
+      "question": "News Item Text: Headline is the title of a news article.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Headline summarizes the main news."
+    },
+    {
+      "id": "M-TF-03",
+      "question": "Job Application Letter: 'Sincerely yours' is a formal complimentary close.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Sincerely is standard formal close."
+    },
+    {
+      "id": "M-TF-04",
+      "question": "News Item Text: Headline is the title of a news article.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Headline summarizes the main news."
+    },
+    {
+      "id": "M-TF-05",
+      "question": "Job Application Letter: 'Sincerely yours' is a formal complimentary close.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Sincerely is standard formal close."
     }
   ],
   "essay": [
     {
       "id": "M-ES-01",
-      "question": "What is the synonym of the word 'abundant'?",
-      "answer": "plentiful",
+      "question": "Job Application Letter: Write the abbreviation for Curriculum Vitae!",
+      "answer": "CV",
       "input_type": "text",
-      "time_limit": 35
+      "time_limit": 45,
+      "explanation": "CV stands for Curriculum Vitae."
+    },
+    {
+      "id": "M-ES-02",
+      "question": "News Item Text: Write the term for the title of a news story!",
+      "answer": "Headline",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Headline is the title."
+    },
+    {
+      "id": "M-ES-03",
+      "question": "Job Application Letter: Write the abbreviation for Curriculum Vitae!",
+      "answer": "CV",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "CV stands for Curriculum Vitae."
+    },
+    {
+      "id": "M-ES-04",
+      "question": "News Item Text: Write the term for the title of a news story!",
+      "answer": "Headline",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Headline is the title."
+    },
+    {
+      "id": "M-ES-05",
+      "question": "Job Application Letter: Write the abbreviation for Curriculum Vitae!",
+      "answer": "CV",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "CV stands for Curriculum Vitae."
     }
   ]
 }

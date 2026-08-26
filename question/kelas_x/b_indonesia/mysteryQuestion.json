@@ -3,33 +3,202 @@
   "multiple_choice": [
     {
       "id": "M-MC-01",
-      "question": "Inti permasalahan yang dibahas dalam sebuah paragraf disebut …",
+      "question": "Dalam analisis kritis teks LHO, ketidaksesuaian antara data tabel dan uraian kalimat menunjukkan masalah...",
       "options": [
-        "Ide pokok",
-        "Kalimat penjelas",
-        "Kesimpulan"
+        "Validitas Data",
+        "Ejaan Kata",
+        "Panjang Kalimat"
       ],
       "answer": 0,
-      "explanation": "Gagasan utama/ide pokok menjadi fokus pembahasan.",
-      "time_limit": 30
+      "time_limit": 30,
+      "explanation": "Inkonsistensi data mengganggu validitas observasi."
+    },
+    {
+      "id": "M-MC-02",
+      "question": "Mengapa kalimat 'Banyak anak-anak bermain' dianggap tidak efektif?",
+      "options": [
+        "Pleonasme / Redundansi",
+        "Salah Ejaan",
+        "Tidak Ada Subjek"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Kata 'banyak' dan bentuk ulang 'anak-anak' keduanya bermakna jamak."
+    },
+    {
+      "id": "M-MC-03",
+      "question": "Manakah kalimat pasif yang tepat secara tata bahasa?",
+      "options": [
+        "Buku itu sudah dibaca oleh saya",
+        "Buku itu sudah saya baca",
+        "Buku membaca saya"
+      ],
+      "answer": 1,
+      "time_limit": 30,
+      "explanation": "Bentuk pasif persona untuk kata ganti 'saya' adalah 'saya baca'."
+    },
+    {
+      "id": "M-MC-04",
+      "question": "Prinsip utama rekonstruksi hikayat menjadi cerpen modern adalah...",
+      "options": [
+        "Mempertahankan nilai moral, mengubah bahasa",
+        "Menghapus pesan moral",
+        "Menyalin kata demi kata"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Nilai cerita dipertahankan dengan konteks bahasa baru."
+    },
+    {
+      "id": "M-MC-05",
+      "question": "Sikap kritis membaca berita hoax membutuhkan evaluasi terhadap...",
+      "options": [
+        "Kredibilitas Sumber & Verifikasi Fakta",
+        "Keindahan Judul",
+        "Banyaknya Foto"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Kredibilitas sumber menjamin kebenaran berita."
+    },
+    {
+      "id": "M-MC-06",
+      "question": "Penggunaan istilah 'virtual' dan 'daring' dalam teks merupakan contoh konjungsi atau...",
+      "options": [
+        "Kosakata Serapan Teknologi",
+        "Majas",
+        "Verba Pasif"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Istilah teknologi memperkaya ranah linguistik modern."
+    },
+    {
+      "id": "M-MC-07",
+      "question": "Sistem rujukan kutipan langsung yang benar menyantumkan...",
+      "options": [
+        "Nama, Tahun, Halaman",
+        "Nama Saja",
+        "Judul Buku Saja"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Format sitasi standar mencantumkan nama, tahun, dan halaman."
+    },
+    {
+      "id": "M-MC-08",
+      "question": "Perbedaan utama antara narasi dan deskripsi adalah...",
+      "options": [
+        "Narasi ada urutan waktu, deskripsi menggambarkan objek",
+        "Narasi tanpa tokoh",
+        "Deskripsi selalu opini"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Narasi berfokus pada kronologi kejadian."
+    },
+    {
+      "id": "M-MC-09",
+      "question": "Dalam negosiasi, kesepakatan terbaik tercapai jika memenuhi prinsip...",
+      "options": [
+        "Win-Win Solution / Saling Menguntungkan",
+        "Kemenangan Satu Pihak",
+        "Paksaan"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Negosiasi berorientasi pada kesepakatan bersama."
+    },
+    {
+      "id": "M-MC-10",
+      "question": "Penggunaan kata serapan yang baku dari kata 'effective' adalah...",
+      "options": [
+        "Efektif",
+        "Efektip",
+        "Efective"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Penyerapan baku indonesia adalah efektif."
     }
   ],
   "true_false": [
     {
       "id": "M-TF-01",
-      "question": "Penggunaan ejaan dan tanda baca baku tidak mempengaruhi kejelasan makna kalimat.",
+      "question": "Kalimat efektif harus terhindar dari pemborosan kata.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Pemborosan kata (pleonasme) merusak kefektifan kalimat."
+    },
+    {
+      "id": "M-TF-02",
+      "question": "Kritis terhadap berita berarti menelan bulat-bulat semua informasi di internet.",
       "answer": false,
-      "explanation": "Tanda baca mempengaruhi intonasi dan makna pesan.",
-      "time_limit": 25
+      "time_limit": 20,
+      "explanation": "Literasi kritis membutuhkan verifikasi fakta."
+    },
+    {
+      "id": "M-TF-03",
+      "question": "Penggunaan tanda baca koma setelah kata hubung antarkalimat adalah wajib.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Kata hubung antarkalimat (misal: Oleh karena itu,) diikuti koma."
+    },
+    {
+      "id": "M-TF-04",
+      "question": "Teks negosiasi tidak memerlukan proses penawaran.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "Inti negosiasi adalah pengajuan dan penawaran."
+    },
+    {
+      "id": "M-TF-05",
+      "question": "Kata 'download' memiliki padanan kata baku 'unduh'.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Padanan kata baku download adalah unduh."
     }
   ],
   "essay": [
     {
       "id": "M-ES-01",
-      "question": "Apa nama kalimat yang mengandung ide pokok dalam sebuah paragraf?",
-      "answer": "Kalimat utama",
+      "question": "Tuliskan padanan kata baku Bahasa Indonesia untuk 'download'!",
+      "answer": "Unduh",
       "input_type": "text",
-      "time_limit": 35
+      "time_limit": 45,
+      "explanation": "Padanan kata download adalah unduh."
+    },
+    {
+      "id": "M-ES-02",
+      "question": "Tuliskan pemborosan kata dalam kalimat yang berlebihan!",
+      "answer": "Pleonasme",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Pleonasme adalah gejala pemborosan kata."
+    },
+    {
+      "id": "M-ES-03",
+      "question": "Tuliskan istilah solusi saling menguntungkan dalam negosiasi!",
+      "answer": "Win-win solution",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Kesepakatan imbang disebut win-win solution."
+    },
+    {
+      "id": "M-ES-04",
+      "question": "Tuliskan padanan baku untuk kata 'upload'!",
+      "answer": "Unggah",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Padanan kata upload adalah unggah."
+    },
+    {
+      "id": "M-ES-05",
+      "question": "Tuliskan nama proses verifikasi kebenaran informasi berita!",
+      "answer": "Cek Fakta",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Pemeriksaan kebenaran berita adalah cek fakta."
     }
   ]
 }

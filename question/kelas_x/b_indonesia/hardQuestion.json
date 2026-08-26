@@ -3,33 +3,202 @@
   "multiple_choice": [
     {
       "id": "H-MC-01",
-      "question": "Ciri kebahasaan teks prosedur yang memuat kata kerja perintah disebut verba …",
+      "question": "Cerita rakyat Melayu klasik yang mengisahkan kehebatan dan kesaktian dinamakan...",
       "options": [
-        "Material",
-        "Imperatif",
-        "Relasional"
+        "Hikayat",
+        "Novel",
+        "Cerpen"
       ],
-      "answer": 1,
-      "explanation": "Verba imperatif adalah kata kerja yang memberikan perintah.",
-      "time_limit": 45
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Hikayat adalah prosa sastra Melayu klasik."
+    },
+    {
+      "id": "H-MC-02",
+      "question": "Unsur yang membedakan hikayat dari sastra modern adalah keberadaan sifat...",
+      "options": [
+        "Anonim dan Kemustahilan",
+        "Realistis dan Logis",
+        "Modern dan Ilmiah"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Hikayat sering anonim dan kaya kesaktian irasional."
+    },
+    {
+      "id": "H-MC-03",
+      "question": "Nilai dalam hikayat yang berkaitan dengan norma kepercayaan kepada Tuhan adalah nilai...",
+      "options": [
+        "Religius",
+        "Moral",
+        "Sosial"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Nilai religius mencakup keagamaan."
+    },
+    {
+      "id": "H-MC-04",
+      "question": "Penggunaan kata arkais seperti 'sebermula' dan 'syahdan' menandakan teks...",
+      "options": [
+        "Hikayat Classic",
+        "Artikel Berita",
+        "Jurnal Ilmiah"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Kata arkais merupakan ciri bahasa Melayu kuno."
+    },
+    {
+      "id": "H-MC-05",
+      "question": "Proses mengarang atau mengubah teks hikayat ke bentuk cerpen dinamakan...",
+      "options": [
+        "Alih Wahana / Sinopsis",
+        "Penerjemahan",
+        "Plagiarisme"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Mengubah bentuk prosa klasik ke modern adalah alih wahana."
+    },
+    {
+      "id": "H-MC-06",
+      "question": "Makna kata 'arkais' adalah kata yang...",
+      "options": [
+        "Kuno / Kuno tidak lazim",
+        "Sangat modern",
+        "Asal asing"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Arkais merujuk pada kosakata Melayu kuno."
+    },
+    {
+      "id": "H-MC-07",
+      "question": "Sudut pandang pengarang yang berada di luar cerita dinamakan sudut pandang...",
+      "options": [
+        "Orang Ketiga",
+        "Orang Pertama",
+        "Orang Kedua"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Pengarang sebagai pengamat menggunakan ia/mereka."
+    },
+    {
+      "id": "H-MC-08",
+      "question": "Pesan moral yang ingin disampaikan pengarang dalam sastra disebut...",
+      "options": [
+        "Amanat",
+        "Tema",
+        "Alur"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Amanat adalah nilai nasihat teks."
+    },
+    {
+      "id": "H-MC-09",
+      "question": "Alur cerita yang bergerak dari masa depan kembali ke masa lalu dinamakan...",
+      "options": [
+        "Mundur / Flashback",
+        "Maju",
+        "Campuran"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Alur regresi/mundur menceritakan kilas balik."
+    },
+    {
+      "id": "H-MC-10",
+      "question": "Watak tokoh yang antagonis dicirikan oleh sifat...",
+      "options": [
+        "Penentang / Jahat",
+        "Penyelamat / Baik",
+        "Netral"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Antagonis merupakan penentang tokoh utama."
     }
   ],
   "true_false": [
     {
       "id": "H-TF-01",
-      "question": "Penggunaan konjungsi temporal berfungsi menunjukkan urutan waktu dalam teks.",
+      "question": "Hikayat umumnya menyantumkan nama penulis secara jelas.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "Hikayat bersifat anonim (tanpa pengarang terdaftar)."
+    },
+    {
+      "id": "H-TF-02",
+      "question": "Kata 'syahdan' termasuk jenis kata arkais Melayu klasik.",
       "answer": true,
-      "explanation": "Konjungsi temporal seperti 'kemudian', 'setelah itu' menandai urutan waktu.",
-      "time_limit": 30
+      "time_limit": 20,
+      "explanation": "Syahdan berarti selanjutnya/kemudian dalam Melayu kuno."
+    },
+    {
+      "id": "H-TF-03",
+      "question": "Alur maju menceritakan peristiwa secara urut kronologis.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Alur maju bergerak runtut dari awal hingga akhir."
+    },
+    {
+      "id": "H-TF-04",
+      "question": "Nilai estetis berhubungan dengan keindahan bahasa karya.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Estetis merujuk pada nilai keindahan sastra."
+    },
+    {
+      "id": "H-TF-05",
+      "question": "Protagonis adalah tokoh penentang dalam cerita.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "Protagonis adalah tokoh utama / baik."
     }
   ],
   "essay": [
     {
       "id": "H-ES-01",
-      "question": "Jelaskan fungsi majas personifikasi dalam teks puisi!",
-      "answer": "Memberikan sifat-sifat manusia pada benda mati agar lebih hidup.",
+      "question": "Tuliskan istilah karya sastra Melayu klasik kuno!",
+      "answer": "Hikayat",
       "input_type": "text",
-      "time_limit": 60
+      "time_limit": 45,
+      "explanation": "Prosa Melayu klasik dinamakan hikayat."
+    },
+    {
+      "id": "H-ES-02",
+      "question": "Tuliskan pesan moral yang disampaikan pengarang sastra!",
+      "answer": "Amanat",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Pesan cerita dinamakan amanat."
+    },
+    {
+      "id": "H-ES-03",
+      "question": "Tuliskan istilah sifat teks sastra tanpa nama pengarang!",
+      "answer": "Anonim",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Karya tanpa nama pencipta bersifat anonim."
+    },
+    {
+      "id": "H-ES-04",
+      "question": "Tuliskan jenis kata kuno khas bahasa Melayu klasik!",
+      "answer": "Arkais",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Kosakata kuno disebut kata arkais."
+    },
+    {
+      "id": "H-ES-05",
+      "question": "Tuliskan nilai sastra yang berkaitan dengan kebiasaan masyarakat!",
+      "answer": "Nilai Budaya",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Adat kebiasaan tergolong nilai budaya."
     }
   ]
 }

@@ -3,45 +3,202 @@
   "multiple_choice": [
     {
       "id": "E-MC-01",
-      "question": "Perangkat keras komputer yang berfungsi sebagai otak pemroses data utama adalah …",
+      "question": "Algoritma & Struktur Data (EASY 1): Struktur data LIFO (Last In First Out) diterapkan pada...",
       "options": [
-        "RAM",
-        "CPU",
-        "Harddisk"
+        "Stack / Tumpukan",
+        "Queue / Antrean",
+        "Graph"
       ],
-      "answer": 1,
-      "explanation": "CPU (Central Processing Unit) adalah otak komputer.",
-      "time_limit": 30
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Stack berprinsip LIFO."
     },
     {
       "id": "E-MC-02",
-      "question": "Sistem bilangan berbasis 2 yang hanya terdiri dari angka 0 dan 1 disebut sistem …",
+      "question": "Pemrograman XI (EASY 2): Tipe data untuk menyimpan nilai kebenaran Benar (true) atau Salah (false) adalah...",
       "options": [
-        "Desimal",
-        "Biner",
-        "Heksadesimal"
+        "Boolean",
+        "Integer",
+        "String"
       ],
-      "answer": 1,
-      "explanation": "Biner berbasis 2 (0 dan 1).",
-      "time_limit": 30
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Boolean berisikan nilai true/false."
+    },
+    {
+      "id": "E-MC-03",
+      "question": "Jaringan Komputer XI (EASY 3): Perangkat keras yang menghubungkan beberapa jaringan komputer berbeda dinamakan...",
+      "options": [
+        "Router",
+        "Switch",
+        "Kabel LAN"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Router menghubungkan subnet berlainan."
+    },
+    {
+      "id": "E-MC-04",
+      "question": "Algoritma & Struktur Data (EASY 4): Struktur data LIFO (Last In First Out) diterapkan pada...",
+      "options": [
+        "Stack / Tumpukan",
+        "Queue / Antrean",
+        "Graph"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Stack berprinsip LIFO."
+    },
+    {
+      "id": "E-MC-05",
+      "question": "Pemrograman XI (EASY 5): Tipe data untuk menyimpan nilai kebenaran Benar (true) atau Salah (false) adalah...",
+      "options": [
+        "Boolean",
+        "Integer",
+        "String"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Boolean berisikan nilai true/false."
+    },
+    {
+      "id": "E-MC-06",
+      "question": "Jaringan Komputer XI (EASY 6): Perangkat keras yang menghubungkan beberapa jaringan komputer berbeda dinamakan...",
+      "options": [
+        "Router",
+        "Switch",
+        "Kabel LAN"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Router menghubungkan subnet berlainan."
+    },
+    {
+      "id": "E-MC-07",
+      "question": "Algoritma & Struktur Data (EASY 7): Struktur data LIFO (Last In First Out) diterapkan pada...",
+      "options": [
+        "Stack / Tumpukan",
+        "Queue / Antrean",
+        "Graph"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Stack berprinsip LIFO."
+    },
+    {
+      "id": "E-MC-08",
+      "question": "Pemrograman XI (EASY 8): Tipe data untuk menyimpan nilai kebenaran Benar (true) atau Salah (false) adalah...",
+      "options": [
+        "Boolean",
+        "Integer",
+        "String"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Boolean berisikan nilai true/false."
+    },
+    {
+      "id": "E-MC-09",
+      "question": "Jaringan Komputer XI (EASY 9): Perangkat keras yang menghubungkan beberapa jaringan komputer berbeda dinamakan...",
+      "options": [
+        "Router",
+        "Switch",
+        "Kabel LAN"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Router menghubungkan subnet berlainan."
+    },
+    {
+      "id": "E-MC-10",
+      "question": "Algoritma & Struktur Data (EASY 10): Struktur data LIFO (Last In First Out) diterapkan pada...",
+      "options": [
+        "Stack / Tumpukan",
+        "Queue / Antrean",
+        "Graph"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Stack berprinsip LIFO."
     }
   ],
   "true_false": [
     {
       "id": "E-TF-01",
-      "question": "RAM bersifat volatile, artinya data hilang saat daya listrik mati.",
+      "question": "Algoritma & Struktur Data: Queue menerapkan prinsip FIFO (First In First Out).",
       "answer": true,
-      "explanation": "RAM menyimpan data secara sementara.",
-      "time_limit": 20
+      "time_limit": 20,
+      "explanation": "Antrean melayani elemen paling awal masuk."
+    },
+    {
+      "id": "E-TF-02",
+      "question": "Pemrograman XI: Perulangan 'for' digunakan saat jumlah iterasi sudah pasti.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Looping 'for' terhitung terstruktur."
+    },
+    {
+      "id": "E-TF-03",
+      "question": "Jaringan Komputer XI: Alamat IPv4 terdiri dari 32-bit angka biner.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "IPv4 32-bit terbagi 4 oktet."
+    },
+    {
+      "id": "E-TF-04",
+      "question": "Algoritma & Struktur Data: Queue menerapkan prinsip FIFO (First In First Out).",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Antrean melayani elemen paling awal masuk."
+    },
+    {
+      "id": "E-TF-05",
+      "question": "Pemrograman XI: Perulangan 'for' digunakan saat jumlah iterasi sudah pasti.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Looping 'for' terhitung terstruktur."
     }
   ],
   "essay": [
     {
       "id": "E-ES-01",
-      "question": "Konversikan angka biner 1010 ke dalam bilangan desimal!",
-      "answer": "10",
-      "input_type": "math",
-      "time_limit": 45
+      "question": "Algoritma & Struktur Data: Tuliskan istilah struktur data antrean berprinsip FIFO!",
+      "answer": "Queue",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Queue berprinsip FIFO."
+    },
+    {
+      "id": "E-ES-02",
+      "question": "Pemrograman XI: Tuliskan tipe data angka bulat dalam pemrograman!",
+      "answer": "Integer",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Integer menyimpan bilangan bulat."
+    },
+    {
+      "id": "E-ES-03",
+      "question": "Jaringan Komputer XI: Tuliskan nama perangkat penghubung antarjaringan!",
+      "answer": "Router",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Router merutekan paket antarjaringan."
+    },
+    {
+      "id": "E-ES-04",
+      "question": "Algoritma & Struktur Data: Tuliskan istilah struktur data antrean berprinsip FIFO!",
+      "answer": "Queue",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Queue berprinsip FIFO."
+    },
+    {
+      "id": "E-ES-05",
+      "question": "Pemrograman XI: Tuliskan tipe data angka bulat dalam pemrograman!",
+      "answer": "Integer",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Integer menyimpan bilangan bulat."
     }
   ]
 }

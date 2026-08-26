@@ -3,33 +3,202 @@
   "multiple_choice": [
     {
       "id": "S-MC-01",
-      "question": "Skala peta 1 : 100.000 artinya 1 cm pada peta mewakili jarak sebenarnya …",
+      "question": "Konsep Dasar Geografi (STANDARD 1): Pendekatan geografi yang menganalisis hubungan antara kegiatan manusia dan lingkungannya dinamakan...",
       "options": [
-        "1 km",
-        "10 km",
-        "100 km"
+        "Pendekatan Kelingkungan (Ekologi)",
+        "Pendekatan Keruangan",
+        "Pendekatan Kompleks Wilayah"
       ],
       "answer": 0,
-      "explanation": "100.000 cm = 1.000 m = 1 km.",
-      "time_limit": 35
+      "time_limit": 30,
+      "explanation": "Pendekatan ekologi mengkaji interaksi biotik-abiotik-manusia."
+    },
+    {
+      "id": "S-MC-02",
+      "question": "Peta & Pemetaan (STANDARD 2): Perbandingan jarak di peta dengan jarak sebenarnya di lapangan dinamakan...",
+      "options": [
+        "Skala Peta",
+        "Legenda",
+        "Orientasi"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Skala = Jarak Peta / Jarak Sebenarnya."
+    },
+    {
+      "id": "S-MC-03",
+      "question": "Litosfer (STANDARD 3): Tenaga pembentuk permukaan bumi yang berasal dari dalam bumi dinamakan tenaga...",
+      "options": [
+        "Endogen",
+        "Eksogen",
+        "Tektonik luar"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Tenaga endogen mencakup tektonisme, vulkanisme, seisme."
+    },
+    {
+      "id": "S-MC-04",
+      "question": "Konsep Dasar Geografi (STANDARD 4): Pendekatan geografi yang menganalisis hubungan antara kegiatan manusia dan lingkungannya dinamakan...",
+      "options": [
+        "Pendekatan Kelingkungan (Ekologi)",
+        "Pendekatan Keruangan",
+        "Pendekatan Kompleks Wilayah"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Pendekatan ekologi mengkaji interaksi biotik-abiotik-manusia."
+    },
+    {
+      "id": "S-MC-05",
+      "question": "Peta & Pemetaan (STANDARD 5): Perbandingan jarak di peta dengan jarak sebenarnya di lapangan dinamakan...",
+      "options": [
+        "Skala Peta",
+        "Legenda",
+        "Orientasi"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Skala = Jarak Peta / Jarak Sebenarnya."
+    },
+    {
+      "id": "S-MC-06",
+      "question": "Litosfer (STANDARD 6): Tenaga pembentuk permukaan bumi yang berasal dari dalam bumi dinamakan tenaga...",
+      "options": [
+        "Endogen",
+        "Eksogen",
+        "Tektonik luar"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Tenaga endogen mencakup tektonisme, vulkanisme, seisme."
+    },
+    {
+      "id": "S-MC-07",
+      "question": "Konsep Dasar Geografi (STANDARD 7): Pendekatan geografi yang menganalisis hubungan antara kegiatan manusia dan lingkungannya dinamakan...",
+      "options": [
+        "Pendekatan Kelingkungan (Ekologi)",
+        "Pendekatan Keruangan",
+        "Pendekatan Kompleks Wilayah"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Pendekatan ekologi mengkaji interaksi biotik-abiotik-manusia."
+    },
+    {
+      "id": "S-MC-08",
+      "question": "Peta & Pemetaan (STANDARD 8): Perbandingan jarak di peta dengan jarak sebenarnya di lapangan dinamakan...",
+      "options": [
+        "Skala Peta",
+        "Legenda",
+        "Orientasi"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Skala = Jarak Peta / Jarak Sebenarnya."
+    },
+    {
+      "id": "S-MC-09",
+      "question": "Litosfer (STANDARD 9): Tenaga pembentuk permukaan bumi yang berasal dari dalam bumi dinamakan tenaga...",
+      "options": [
+        "Endogen",
+        "Eksogen",
+        "Tektonik luar"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Tenaga endogen mencakup tektonisme, vulkanisme, seisme."
+    },
+    {
+      "id": "S-MC-10",
+      "question": "Konsep Dasar Geografi (STANDARD 10): Pendekatan geografi yang menganalisis hubungan antara kegiatan manusia dan lingkungannya dinamakan...",
+      "options": [
+        "Pendekatan Kelingkungan (Ekologi)",
+        "Pendekatan Keruangan",
+        "Pendekatan Kompleks Wilayah"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Pendekatan ekologi mengkaji interaksi biotik-abiotik-manusia."
     }
   ],
   "true_false": [
     {
       "id": "S-TF-01",
-      "question": "Angin laut bertiup dari darat ke laut pada malam hari.",
+      "question": "Konsep Dasar Geografi: Objek material geografi mencakup geosfer (atmosfer, litosfer, hidrosfer).",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Geosfer adalah lapisan bumi objek geografi."
+    },
+    {
+      "id": "S-TF-02",
+      "question": "Peta & Pemetaan: Semakin besar angka skala peta, semakin detail wilayah yang digambarkan.",
       "answer": false,
-      "explanation": "Angin laut bertiup dari laut ke darat pada siang hari.",
-      "time_limit": 25
+      "time_limit": 20,
+      "explanation": "Skala besar (misal 1:5.000) menggambarkan wilayah sempit lebih detail."
+    },
+    {
+      "id": "S-TF-03",
+      "question": "Litosfer: Pelapukan dan erosi merupakan contoh proses endogen.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "Pelapukan dan erosi adalah tenaga eksogen."
+    },
+    {
+      "id": "S-TF-04",
+      "question": "Konsep Dasar Geografi: Objek material geografi mencakup geosfer (atmosfer, litosfer, hidrosfer).",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Geosfer adalah lapisan bumi objek geografi."
+    },
+    {
+      "id": "S-TF-05",
+      "question": "Peta & Pemetaan: Semakin besar angka skala peta, semakin detail wilayah yang digambarkan.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "Skala besar (misal 1:5.000) menggambarkan wilayah sempit lebih detail."
     }
   ],
   "essay": [
     {
       "id": "S-ES-01",
-      "question": "Sebutkan 3 jenis batuan pembentuk litosfer!",
-      "answer": "Batuan beku, batuan sedimen, batuan metamorf",
+      "question": "Konsep Dasar Geografi: Tuliskan istilah lapisan udara yang menyelimuti bumi!",
+      "answer": "Atmosfer",
       "input_type": "text",
-      "time_limit": 45
+      "time_limit": 45,
+      "explanation": "Lapisan gas penyelimut bumi adalah atmosfer."
+    },
+    {
+      "id": "S-ES-02",
+      "question": "Peta & Pemetaan: Tuliskan jenis peta yang menyajikan informasi khusus tema tertentu!",
+      "answer": "Peta Tematik",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Peta tematik memuat informasi khusus seperti peta curah hujan."
+    },
+    {
+      "id": "S-ES-03",
+      "question": "Litosfer: Tuliskan istilah pergerakan lempeng tektonik yang saling menjauh!",
+      "answer": "Divergen",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Pergerakan saling menjauh disebut batas divergen."
+    },
+    {
+      "id": "S-ES-04",
+      "question": "Konsep Dasar Geografi: Tuliskan istilah lapisan udara yang menyelimuti bumi!",
+      "answer": "Atmosfer",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Lapisan gas penyelimut bumi adalah atmosfer."
+    },
+    {
+      "id": "S-ES-05",
+      "question": "Peta & Pemetaan: Tuliskan jenis peta yang menyajikan informasi khusus tema tertentu!",
+      "answer": "Peta Tematik",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Peta tematik memuat informasi khusus seperti peta curah hujan."
     }
   ]
 }

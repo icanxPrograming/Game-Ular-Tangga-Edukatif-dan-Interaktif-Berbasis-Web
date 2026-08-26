@@ -3,33 +3,202 @@
   "multiple_choice": [
     {
       "id": "S-MC-01",
-      "question": "Choose the correct relative pronoun: 'The book ___ I bought yesterday is very interesting.'",
+      "question": "Which text structure presents events in chronological order?",
       "options": [
-        "who",
-        "which",
-        "where"
+        "Recount Text",
+        "Descriptive Text",
+        "Procedure Text"
       ],
-      "answer": 1,
-      "explanation": "'Which' is used for non-human objects like books.",
-      "time_limit": 40
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Recount text narrates past experiences chronologically."
+    },
+    {
+      "id": "S-MC-02",
+      "question": "Complete the sentence: 'If I have free time, I ___ visit the library.'",
+      "options": [
+        "will",
+        "would",
+        "had"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "First conditional uses Present Simple + Will."
+    },
+    {
+      "id": "S-MC-03",
+      "question": "What is the main purpose of a Descriptive Text?",
+      "options": [
+        "To describe a specific object/person",
+        "To argue a thesis",
+        "To explain a process"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Descriptive text details characteristics."
+    },
+    {
+      "id": "S-MC-04",
+      "question": "Choose the correct preposition: 'She was born ___ July 15th.'",
+      "options": [
+        "on",
+        "in",
+        "at"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Dates take the preposition 'on'."
+    },
+    {
+      "id": "S-MC-05",
+      "question": "What is the passive form of 'John wrote a story'?",
+      "options": [
+        "A story was written by John",
+        "A story is written by John",
+        "John was written a story"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Past simple passive: Object + was/were + V3."
+    },
+    {
+      "id": "S-MC-06",
+      "question": "Which word means 'producing a desired result'?",
+      "options": [
+        "effective",
+        "efficient",
+        "effort"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Effective means producing intended results."
+    },
+    {
+      "id": "S-MC-07",
+      "question": "Complete: 'Neither Sarah ___ Tom came to the party.'",
+      "options": [
+        "nor",
+        "or",
+        "and"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Neither pairs with nor."
+    },
+    {
+      "id": "S-MC-08",
+      "question": "What type of text tells a fictional story like a fairy tale?",
+      "options": [
+        "Narrative Text",
+        "Report Text",
+        "Exposition Text"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Narrative text tells stories with complication and resolution."
+    },
+    {
+      "id": "S-MC-09",
+      "question": "Identify the adverb: 'She sang beautifully.'",
+      "options": [
+        "beautifully",
+        "sang",
+        "she"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Beautifully describes how she sang."
+    },
+    {
+      "id": "S-MC-10",
+      "question": "Which phrase expresses complement?",
+      "options": [
+        "You look fantastic today!",
+        "I am so sorry for your loss",
+        "Pardon me?"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Complementing appreciates someone's appearance or achievement."
     }
   ],
   "true_false": [
     {
       "id": "S-TF-01",
+      "question": "Recount text tells about past experiences.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Recount text retells past events."
+    },
+    {
+      "id": "S-TF-02",
+      "question": "Dates use the preposition 'in' (e.g., in 5th May).",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "Dates use 'on' (e.g., on 5th May)."
+    },
+    {
+      "id": "S-TF-03",
+      "question": "Narrative text includes complication and resolution.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Narrative structure has orientation, complication, resolution."
+    },
+    {
+      "id": "S-TF-04",
       "question": "Passive voice focuses on the action or receiver rather than the doer.",
       "answer": true,
-      "explanation": "Passive voice emphasizes the object/action.",
-      "time_limit": 25
+      "time_limit": 20,
+      "explanation": "Passive voice emphasizes the patient/object."
+    },
+    {
+      "id": "S-TF-05",
+      "question": "'She don't know' is grammatically correct in formal English.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "Formal English uses 'She doesn't know'."
     }
   ],
   "essay": [
     {
       "id": "S-ES-01",
-      "question": "Change this sentence to passive voice: 'They clean the room.'",
-      "answer": "The room is cleaned by them.",
+      "question": "Write the V3 (past participle) form of 'write'!",
+      "answer": "written",
       "input_type": "text",
-      "time_limit": 60
+      "time_limit": 45,
+      "explanation": "Write -> Wrote -> Written."
+    },
+    {
+      "id": "S-ES-02",
+      "question": "Write the English term for a story containing a moral lesson!",
+      "answer": "Fable",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Fables are animal stories with morals."
+    },
+    {
+      "id": "S-ES-03",
+      "question": "What preposition is used before years (e.g., ___ 2026)?",
+      "answer": "in",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Years take the preposition 'in'."
+    },
+    {
+      "id": "S-ES-04",
+      "question": "Write the opposite of the word 'always'!",
+      "answer": "never",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Never is the antonym of always."
+    },
+    {
+      "id": "S-ES-05",
+      "question": "Write the comparative form of the adjective 'good'!",
+      "answer": "better",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Good -> Better -> Best."
     }
   ]
 }

@@ -65,14 +65,16 @@ const difficultyWeights = {
   hard: { easy: 0.1, standard: 0.2, hard: 0.4, mystery: 0.3 }
 };
 
-// Pemilihan Kelas (Phase 5)
+// Pemilihan Kelas (Phase 5 - Single Selection)
 const selectGameClass = (classId) => {
   if (!DATASET_CATALOG[classId]) return;
   selectedClass = classId;
   console.log("Memilih Kelas:", classId);
 
-  // Toggle active styling pada tombol kelas
-  document.querySelectorAll(".classBox").forEach((btn) => btn.classList.remove("selected"));
+  // Toggle active styling pada tombol kelas (Pastikan HANYA 1 yang selected)
+  document.querySelectorAll(".class-selection .selectBox, .classBox").forEach((btn) => {
+    btn.classList.remove("selected");
+  });
   const activeClassBtn = document.getElementById(`class-${classId}`);
   if (activeClassBtn) activeClassBtn.classList.add("selected");
 
@@ -121,7 +123,7 @@ const selectGameSubject = (subjectId) => {
   if (activeSubjBtn) activeSubjBtn.classList.add("selected");
 };
 
-// Fungsi untuk memilih tingkat kesulitan (Easy, Standard, Hard)
+// Fungsi untuk memilih tingkat kesulitan (Easy, Standard, Hard - Single Selection)
 const setGameDifficulty = (level) => {
   const validLevels = ["easy", "standard", "hard"];
   if (!validLevels.includes(level)) {
@@ -132,13 +134,9 @@ const setGameDifficulty = (level) => {
   globalGameDifficulty = level;
   console.log("Memilih kesulitan:", level);
 
-  const easyBtn = document.getElementById("diff-easy");
-  const stdBtn = document.getElementById("diff-standard");
-  const hardBtn = document.getElementById("diff-hard");
-
-  if (easyBtn) easyBtn.classList.remove("selected");
-  if (stdBtn) stdBtn.classList.remove("selected");
-  if (hardBtn) hardBtn.classList.remove("selected");
+  document.querySelectorAll(".difficulty-selection .selectBox, .difficultyBox").forEach((btn) => {
+    btn.classList.remove("selected");
+  });
 
   const currentBtn = document.getElementById(`diff-${level}`);
   if (currentBtn) {
@@ -2199,14 +2197,15 @@ const specialMoveSnake = (idx, playerNumber) => {
 
 // ===== Player screens =====
 const selectPlayers = (value) => {
-  const selectBoxes = document.getElementsByClassName("selectBox");
-  for (let i = 0; i < selectBoxes.length; i++) {
-    selectBoxes[i].className = "selectBox";
-  }
-  if (selectBoxes[value - 2]) {
-    selectBoxes[value - 2].className = "selectBox selected";
-  }
   playersCount = value;
+  const playerBoxes = document.querySelectorAll("#screen1 .playerBox, #screen1 .choose .selectBox");
+  playerBoxes.forEach((box, idx) => {
+    if (idx === value - 2) {
+      box.classList.add("selected");
+    } else {
+      box.classList.remove("selected");
+    }
+  });
 };
 
 const start = () => {

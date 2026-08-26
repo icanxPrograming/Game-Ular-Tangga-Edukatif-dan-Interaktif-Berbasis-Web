@@ -3,33 +3,202 @@
   "multiple_choice": [
     {
       "id": "M-MC-01",
-      "question": "What does the idiom 'break a leg' mean?",
+      "question": "In critical discourse analysis, an author's implicit bias is detected through...",
       "options": [
-        "Get injured",
-        "Good luck",
-        "Stop working"
+        "Word choice & framing",
+        "Font size",
+        "Page count"
       ],
-      "answer": 1,
-      "explanation": "'Break a leg' means good luck in theatrical context.",
-      "time_limit": 25
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Diction and framing reveal underlying perspective."
+    },
+    {
+      "id": "M-MC-02",
+      "question": "Which sentence contains a dangling modifier?",
+      "options": [
+        "Walking down the street, the trees were beautiful",
+        "Walking down the street, I saw beautiful trees",
+        "I saw trees while walking"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "The modifier lacks a clear logical subject."
+    },
+    {
+      "id": "M-MC-03",
+      "question": "What does the phrase 'burning the midnight oil' signify?",
+      "options": [
+        "Studying or working late into the night",
+        "Causing a fire",
+        "Wasting fuel"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "It means working late at night."
+    },
+    {
+      "id": "M-MC-04",
+      "question": "Which option illustrates an oxymoron?",
+      "options": [
+        "Deafening silence",
+        "Fast car",
+        "Bright sun"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Oxymoron combines contradictory terms."
+    },
+    {
+      "id": "M-MC-05",
+      "question": "In persuasive writing, Ethos refers to an appeal to...",
+      "options": [
+        "Credibility & ethics",
+        "Emotion",
+        "Logic"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Ethos establishes trust and credibility."
+    },
+    {
+      "id": "M-MC-06",
+      "question": "What is the function of an Oxford comma?",
+      "options": [
+        "Clarifying list items before the conjunction",
+        "Replacing periods",
+        "Separating titles"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Oxford comma precedes the final 'and/or' in a list."
+    },
+    {
+      "id": "M-MC-07",
+      "question": "Which sentence uses the subjunctive correctly?",
+      "options": [
+        "The board recommended that he resign",
+        "The board recommended that he resigns",
+        "The board recommended he is resigning"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Subjunctive clause uses base verb form regardless of subject."
+    },
+    {
+      "id": "M-MC-08",
+      "question": "What is an anaphora in literary devices?",
+      "options": [
+        "Repetition of words at the start of clauses",
+        "Comparison using like/as",
+        "Exaggeration"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Anaphora repeats initial words for emphasis."
+    },
+    {
+      "id": "M-MC-09",
+      "question": "Choose the correct phrasal verb: 'I look forward to ___ you.'",
+      "options": [
+        "meeting",
+        "meet",
+        "met"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "'Look forward to' is followed by a gerund (-ing)."
+    },
+    {
+      "id": "M-MC-10",
+      "question": "What is the primary objective of a Thesis Statement in an analytical text?",
+      "options": [
+        "Stating the main central argument",
+        "Listing references",
+        "Asking a question"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Thesis statement summarizes the central argument."
     }
   ],
   "true_false": [
     {
       "id": "M-TF-01",
-      "question": "The word 'metaphor' means comparing two things using 'like' or 'as'.",
+      "question": "'Look forward to' should be followed by verb base form.",
       "answer": false,
-      "explanation": "Comparing using 'like' or 'as' is a simile.",
-      "time_limit": 25
+      "time_limit": 20,
+      "explanation": "It is followed by a gerund (-ing)."
+    },
+    {
+      "id": "M-TF-02",
+      "question": "Ethos, Pathos, and Logos are classical rhetorical appeals.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Formulated by Aristotle for persuasive speech."
+    },
+    {
+      "id": "M-TF-03",
+      "question": "An oxymoron joins two contrasting concepts.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Example: Deafening silence, living dead."
+    },
+    {
+      "id": "M-TF-04",
+      "question": "Thesis statement belongs in the conclusion paragraph.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "Thesis statement belongs in the introductory paragraph."
+    },
+    {
+      "id": "M-TF-05",
+      "question": "Irony occurs when the outcome differs from expectations.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Situational irony involves unexpected outcomes."
     }
   ],
   "essay": [
     {
       "id": "M-ES-01",
-      "question": "What is the synonym of the word 'abundant'?",
-      "answer": "plentiful",
+      "question": "Write the term for Aristotle's rhetorical appeal to emotion!",
+      "answer": "Pathos",
       "input_type": "text",
-      "time_limit": 35
+      "time_limit": 45,
+      "explanation": "Pathos appeals to emotion."
+    },
+    {
+      "id": "M-ES-02",
+      "question": "Write the term for Aristotle's appeal to logic!",
+      "answer": "Logos",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Logos appeals to logic and reason."
+    },
+    {
+      "id": "M-ES-03",
+      "question": "Write the literary term for repeating initial words in successive sentences!",
+      "answer": "Anaphora",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Anaphora is initial word repetition."
+    },
+    {
+      "id": "M-ES-04",
+      "question": "Write the gerund form of the verb 'run'!",
+      "answer": "running",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Run becomes running."
+    },
+    {
+      "id": "M-ES-05",
+      "question": "Write the term for a figure of speech joining opposite terms (e.g. deafening silence)!",
+      "answer": "Oxymoron",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Oxymoron combines contradictory words."
     }
   ]
 }

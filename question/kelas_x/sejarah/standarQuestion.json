@@ -3,33 +3,202 @@
   "multiple_choice": [
     {
       "id": "S-MC-01",
-      "question": "Kerajaan Hindu tertua di Indonesia yang dibuktikan dengan penemuan prasasti Yupa adalah …",
+      "question": "Pengantar Ilmu Sejarah (STANDARD 1): Unsur utama dalam peristiwa sejarah terdiri atas...",
       "options": [
-        "Tarumanegara",
-        "Kutai",
-        "Majapahit"
+        "Manusia, Ruang, dan Waktu",
+        "Hanya Bangunan Kuno",
+        "Mitos dan Legenda"
       ],
-      "answer": 1,
-      "explanation": "Kerajaan Kutai di Kaltim berdiri abad ke-4 M.",
-      "time_limit": 40
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Sejarah mengkaji aktivitas manusia dalam ruang dan waktu."
+    },
+    {
+      "id": "S-MC-02",
+      "question": "Zaman Praaksara (STANDARD 2): Zaman ketika manusia belum mengenal tulisan dinamakan masa...",
+      "options": [
+        "Praaksara / Prasejarah",
+        "Aksara",
+        "Kemerdekaan"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Praaksara berarti sebelum ada tulisan."
+    },
+    {
+      "id": "S-MC-03",
+      "question": "Kerajaan Hindu-Buddha (STANDARD 3): Kerajaan Hindu tertua di Indonesia yang dibuktikan dengan prasasti Yupa adalah Kerajaan...",
+      "options": [
+        "Kutai",
+        "Tarumanegara",
+        "Sriwijaya"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Kerajaan Kutai di Kalimantan Timur berangka abad ke-5 M."
+    },
+    {
+      "id": "S-MC-04",
+      "question": "Pengantar Ilmu Sejarah (STANDARD 4): Unsur utama dalam peristiwa sejarah terdiri atas...",
+      "options": [
+        "Manusia, Ruang, dan Waktu",
+        "Hanya Bangunan Kuno",
+        "Mitos dan Legenda"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Sejarah mengkaji aktivitas manusia dalam ruang dan waktu."
+    },
+    {
+      "id": "S-MC-05",
+      "question": "Zaman Praaksara (STANDARD 5): Zaman ketika manusia belum mengenal tulisan dinamakan masa...",
+      "options": [
+        "Praaksara / Prasejarah",
+        "Aksara",
+        "Kemerdekaan"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Praaksara berarti sebelum ada tulisan."
+    },
+    {
+      "id": "S-MC-06",
+      "question": "Kerajaan Hindu-Buddha (STANDARD 6): Kerajaan Hindu tertua di Indonesia yang dibuktikan dengan prasasti Yupa adalah Kerajaan...",
+      "options": [
+        "Kutai",
+        "Tarumanegara",
+        "Sriwijaya"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Kerajaan Kutai di Kalimantan Timur berangka abad ke-5 M."
+    },
+    {
+      "id": "S-MC-07",
+      "question": "Pengantar Ilmu Sejarah (STANDARD 7): Unsur utama dalam peristiwa sejarah terdiri atas...",
+      "options": [
+        "Manusia, Ruang, dan Waktu",
+        "Hanya Bangunan Kuno",
+        "Mitos dan Legenda"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Sejarah mengkaji aktivitas manusia dalam ruang dan waktu."
+    },
+    {
+      "id": "S-MC-08",
+      "question": "Zaman Praaksara (STANDARD 8): Zaman ketika manusia belum mengenal tulisan dinamakan masa...",
+      "options": [
+        "Praaksara / Prasejarah",
+        "Aksara",
+        "Kemerdekaan"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Praaksara berarti sebelum ada tulisan."
+    },
+    {
+      "id": "S-MC-09",
+      "question": "Kerajaan Hindu-Buddha (STANDARD 9): Kerajaan Hindu tertua di Indonesia yang dibuktikan dengan prasasti Yupa adalah Kerajaan...",
+      "options": [
+        "Kutai",
+        "Tarumanegara",
+        "Sriwijaya"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Kerajaan Kutai di Kalimantan Timur berangka abad ke-5 M."
+    },
+    {
+      "id": "S-MC-10",
+      "question": "Pengantar Ilmu Sejarah (STANDARD 10): Unsur utama dalam peristiwa sejarah terdiri atas...",
+      "options": [
+        "Manusia, Ruang, dan Waktu",
+        "Hanya Bangunan Kuno",
+        "Mitos dan Legenda"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Sejarah mengkaji aktivitas manusia dalam ruang dan waktu."
     }
   ],
   "true_false": [
     {
       "id": "S-TF-01",
-      "question": "Sumpah Pemuda dicetuskan pada tanggal 28 Oktober 1928.",
+      "question": "Pengantar Ilmu Sejarah: Sumber primer sejarah berasal dari pelaku atau saksi mata langsung.",
       "answer": true,
-      "explanation": "Kongres Pemuda II melahirkan Sumpah Pemuda.",
-      "time_limit": 25
+      "time_limit": 20,
+      "explanation": "Sumber primer sezaman dengan peristiwa."
+    },
+    {
+      "id": "S-TF-02",
+      "question": "Zaman Praaksara: Kjokkenmoddinger adalah tumpukan sampah dapur berupa kulit kerang.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Peninggalan manusia purba di pesisir pantai."
+    },
+    {
+      "id": "S-TF-03",
+      "question": "Kerajaan Hindu-Buddha: Candi Borobudur merupakan peninggalan bercorak Hindu.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "Candi Borobudur bercorak Buddha Mahayana."
+    },
+    {
+      "id": "S-TF-04",
+      "question": "Pengantar Ilmu Sejarah: Sumber primer sejarah berasal dari pelaku atau saksi mata langsung.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Sumber primer sezaman dengan peristiwa."
+    },
+    {
+      "id": "S-TF-05",
+      "question": "Zaman Praaksara: Kjokkenmoddinger adalah tumpukan sampah dapur berupa kulit kerang.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Peninggalan manusia purba di pesisir pantai."
     }
   ],
   "essay": [
     {
       "id": "S-ES-01",
-      "question": "Sebutkan 3 tokoh pendiri BPUPKI yang mengusulkan rumusan dasar negara!",
-      "answer": "Muhammad Yamin, Soepomo, Soekarno",
+      "question": "Pengantar Ilmu Sejarah: Tuliskan tiga unsur utama dalam peristiwa sejarah!",
+      "answer": "Manusia, ruang, waktu",
       "input_type": "text",
-      "time_limit": 50
+      "time_limit": 45,
+      "explanation": "Unsur sejarah adalah Manusia, Ruang, Waktu."
+    },
+    {
+      "id": "S-ES-02",
+      "question": "Zaman Praaksara: Tuliskan nama fosil manusia purba pertama ditemukan di Sangiran!",
+      "answer": "Pithencanthropus erectus",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Fosil di Jawa oleh Eugene Dubois."
+    },
+    {
+      "id": "S-ES-03",
+      "question": "Kerajaan Hindu-Buddha: Tuliskan nama prasasti peninggalan Kerajaan Kutai!",
+      "answer": "Prasasti Yupa",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "7 tiang batu Yupa adalah bukti Kerajaan Kutai."
+    },
+    {
+      "id": "S-ES-04",
+      "question": "Pengantar Ilmu Sejarah: Tuliskan tiga unsur utama dalam peristiwa sejarah!",
+      "answer": "Manusia, ruang, waktu",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Unsur sejarah adalah Manusia, Ruang, Waktu."
+    },
+    {
+      "id": "S-ES-05",
+      "question": "Zaman Praaksara: Tuliskan nama fosil manusia purba pertama ditemukan di Sangiran!",
+      "answer": "Pithencanthropus erectus",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Fosil di Jawa oleh Eugene Dubois."
     }
   ]
 }

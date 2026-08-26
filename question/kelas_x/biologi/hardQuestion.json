@@ -3,33 +3,202 @@
   "multiple_choice": [
     {
       "id": "H-MC-01",
-      "question": "Enzim yang berperan memotong rantai DNA pada rekayasa genetika adalah …",
+      "question": "Dalam transkripsi sintesis protein, cetakan DNA (antisense) TAC-GGC menghasilkan kodon mRNA...",
       "options": [
-        "DNA Ligase",
-        "Endonuklease Restriksi",
-        "DNA Polimerase"
+        "AUG-CCG",
+        "ATG-CCG",
+        "UAC-GGC"
       ],
-      "answer": 1,
-      "explanation": "Enzim restriksi memotong pita DNA spesifik.",
-      "time_limit": 45
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "T->A, A->U, C->G, G->C."
+    },
+    {
+      "id": "H-MC-02",
+      "question": "Transpor pasif membran yang melawan perbedaan konsentrasi dengan energi ATP dinamakan...",
+      "options": [
+        "Transpor Aktif",
+        "Osmosis",
+        "Difusi Terfasilitasi"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Transpor aktif butuh energi ATP melawan gradien."
+    },
+    {
+      "id": "H-MC-03",
+      "question": "Pada reaksi terang fotosintesis, fotolisis air menghasilkan...",
+      "options": [
+        "Gas Oksigen, Elektron, H+",
+        "Glukosa",
+        "CO2"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "2H2O -> 4H+ + 4e- + O2."
+    },
+    {
+      "id": "H-MC-04",
+      "question": "Teknologi hibridoma dalam bioteknologi digunakan untuk menghasilkan...",
+      "options": [
+        "Antibodi Monoklonal",
+        "Hormon Insulin",
+        "Tanaman Transgenik"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Peleburan sel limfosit B dan sel karsinoma menghasilkan antibodi monoklonal."
+    },
+    {
+      "id": "H-MC-05",
+      "question": "Efek rumah kaca yang memicu pemanasan global disebabkan oleh akumulasi gas...",
+      "options": [
+        "Karbon Dioksida (CO2) & Metana",
+        "Oksigen",
+        "Nitrogen"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "CO2 dan CH4 memerangkap radiasi inframerah."
+    },
+    {
+      "id": "H-MC-06",
+      "question": "Perbedaan mitosis dan meiosis yang benar adalah...",
+      "options": [
+        "Meiosis menghasilkan 4 sel anak haploid",
+        "Mitosis mengurangi kromosom",
+        "Meiosis terjadi di sel tubuh"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Meiosis reduksi kromosom membentuk gamet (n)."
+    },
+    {
+      "id": "H-MC-07",
+      "question": "Hukum Mendel I dikenal juga sebagai Hukum...",
+      "options": [
+        "Segregasi Bebas",
+        "Asortasi Bebas",
+        "Dominansi Murni"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Hukum I Mendel adalah pemisahan gen secara bebas saat pembentukan gamet."
+    },
+    {
+      "id": "H-MC-08",
+      "question": "Kladogram digunakan dalam sistematika biologi untuk menggambarkan...",
+      "options": [
+        "Hubungan Kekerabatan Evolusioner",
+        "Jumlah Populasi",
+        "Habitat Organisme"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Kladogram merepresentasikan filogeni spesies."
+    },
+    {
+      "id": "H-MC-09",
+      "question": "Enzim katalase memecah hidrogen peroksida (H2O2) beracun menjadi...",
+      "options": [
+        "Air dan Oksigen",
+        "Glukosa",
+        "Asam Laktat"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "2H2O2 -> 2H2O + O2."
+    },
+    {
+      "id": "H-MC-10",
+      "question": "Kerusakan lapisan ozon di stratosfer dipicu oleh senyawa sintetis...",
+      "options": [
+        "CFC (Klorofluorokarbon)",
+        "Amonia",
+        "CO2"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Radikal klorin CFC merusak molekul O3."
     }
   ],
   "true_false": [
     {
       "id": "H-TF-01",
-      "question": "Siklus Krebs terjadi di dalam matriks mitokondria.",
+      "question": "Transpor aktif membutuhkan energi ATP.",
       "answer": true,
-      "explanation": "Tahap respirasi aerobik ini berlangsung di matriks.",
-      "time_limit": 30
+      "time_limit": 20,
+      "explanation": "Transpor aktif melawan gradien konsentrasi."
+    },
+    {
+      "id": "H-TF-02",
+      "question": "Reaksi gelap fotosintesis membutuhkan cahaya matahari secara langsung.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "Reaksi gelap (Siklus Calvin) menggunakan ATP/NADPH hasil reaksi terang."
+    },
+    {
+      "id": "H-TF-03",
+      "question": "Fotosintesis C4 lebih efisien di cuaca panas dibanding C3.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Tumbuhan C4 meminimalkan fotorespirasi."
+    },
+    {
+      "id": "H-TF-04",
+      "question": "Meiosis terjadi pada pembelahan sel somatis.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "Meiosis terjadi pada sel gamet (germinal)."
+    },
+    {
+      "id": "H-TF-05",
+      "question": "Enzim bekerja secara optimal pada suhu ekstrem tanpa denaturasi.",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "Suhu tinggi menyebabkan denaturasi enzim."
     }
   ],
   "essay": [
     {
       "id": "H-ES-01",
-      "question": "Jelaskan hukum Mendel I secara singkat!",
-      "answer": "Hukum pemisahan gen secara bebas pada pembentukan gamet.",
+      "question": "Tuliskan molekul energi utama yang dihasilkan mitokondria!",
+      "answer": "ATP",
       "input_type": "text",
-      "time_limit": 60
+      "time_limit": 45,
+      "explanation": "ATP adalah adenosin trifosfat molekul energi."
+    },
+    {
+      "id": "H-ES-02",
+      "question": "Tuliskan hasil pemecahan H2O2 oleh enzim katalase!",
+      "answer": "Air dan oksigen",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Katalase menghasilkan H2O dan O2."
+    },
+    {
+      "id": "H-ES-03",
+      "question": "Tuliskan nama pembelahan sel yang menghasilkan 4 sel anak haploid!",
+      "answer": "Meiosis",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Meiosis reduktif membentuk sel anak n."
+    },
+    {
+      "id": "H-ES-04",
+      "question": "Tuliskan senyawa gas perusak lapisan ozon stratosfer!",
+      "answer": "CFC",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "CFC merusak lapisan ozon."
+    },
+    {
+      "id": "H-ES-05",
+      "question": "Tuliskan Hukum Mendel I tentang pemisahan gen secara bebas!",
+      "answer": "Hukum Segregasi",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Hukum I Mendel adalah Segregasi Gen."
     }
   ]
 }

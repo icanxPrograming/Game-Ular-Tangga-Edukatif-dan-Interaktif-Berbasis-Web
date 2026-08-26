@@ -3,33 +3,202 @@
   "multiple_choice": [
     {
       "id": "S-MC-01",
-      "question": "Choose the correct relative pronoun: 'The book ___ I bought yesterday is very interesting.'",
+      "question": "Analytical Exposition (STANDARD 1): What is the main goal of an Analytical Exposition text?",
       "options": [
-        "who",
-        "which",
-        "where"
+        "To persuade readers that a topic is important",
+        "To tell a funny story",
+        "To describe a recipe"
       ],
-      "answer": 1,
-      "explanation": "'Which' is used for non-human objects like books.",
-      "time_limit": 40
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Analytical exposition argues a thesis about a phenomenon."
+    },
+    {
+      "id": "S-MC-02",
+      "question": "Passive Voice XI (STANDARD 2): Identify the passive form: 'Scientists analyze the data.'",
+      "options": [
+        "The data is analyzed by scientists",
+        "The data analyzed scientists",
+        "Scientists are analyzed"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Present simple passive: is/are + V3."
+    },
+    {
+      "id": "S-MC-03",
+      "question": "Hopes & Dreams (STANDARD 3): Which expression states a hope for the future?",
+      "options": [
+        "I hope you pass the exam",
+        "I am sorry for coming late",
+        "What a nice day"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Expressing hope uses 'I hope...'."
+    },
+    {
+      "id": "S-MC-04",
+      "question": "Analytical Exposition (STANDARD 4): What is the main goal of an Analytical Exposition text?",
+      "options": [
+        "To persuade readers that a topic is important",
+        "To tell a funny story",
+        "To describe a recipe"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Analytical exposition argues a thesis about a phenomenon."
+    },
+    {
+      "id": "S-MC-05",
+      "question": "Passive Voice XI (STANDARD 5): Identify the passive form: 'Scientists analyze the data.'",
+      "options": [
+        "The data is analyzed by scientists",
+        "The data analyzed scientists",
+        "Scientists are analyzed"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Present simple passive: is/are + V3."
+    },
+    {
+      "id": "S-MC-06",
+      "question": "Hopes & Dreams (STANDARD 6): Which expression states a hope for the future?",
+      "options": [
+        "I hope you pass the exam",
+        "I am sorry for coming late",
+        "What a nice day"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Expressing hope uses 'I hope...'."
+    },
+    {
+      "id": "S-MC-07",
+      "question": "Analytical Exposition (STANDARD 7): What is the main goal of an Analytical Exposition text?",
+      "options": [
+        "To persuade readers that a topic is important",
+        "To tell a funny story",
+        "To describe a recipe"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Analytical exposition argues a thesis about a phenomenon."
+    },
+    {
+      "id": "S-MC-08",
+      "question": "Passive Voice XI (STANDARD 8): Identify the passive form: 'Scientists analyze the data.'",
+      "options": [
+        "The data is analyzed by scientists",
+        "The data analyzed scientists",
+        "Scientists are analyzed"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Present simple passive: is/are + V3."
+    },
+    {
+      "id": "S-MC-09",
+      "question": "Hopes & Dreams (STANDARD 9): Which expression states a hope for the future?",
+      "options": [
+        "I hope you pass the exam",
+        "I am sorry for coming late",
+        "What a nice day"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Expressing hope uses 'I hope...'."
+    },
+    {
+      "id": "S-MC-10",
+      "question": "Analytical Exposition (STANDARD 10): What is the main goal of an Analytical Exposition text?",
+      "options": [
+        "To persuade readers that a topic is important",
+        "To tell a funny story",
+        "To describe a recipe"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Analytical exposition argues a thesis about a phenomenon."
     }
   ],
   "true_false": [
     {
       "id": "S-TF-01",
-      "question": "Passive voice focuses on the action or receiver rather than the doer.",
+      "question": "Analytical Exposition: Reiteration is the conclusion of an analytical exposition text.",
       "answer": true,
-      "explanation": "Passive voice emphasizes the object/action.",
-      "time_limit": 25
+      "time_limit": 20,
+      "explanation": "Reiteration restates the main thesis."
+    },
+    {
+      "id": "S-TF-02",
+      "question": "Passive Voice XI: Passive voice puts the object of the active sentence as the new subject.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Passive voice emphasizes the receiver of action."
+    },
+    {
+      "id": "S-TF-03",
+      "question": "Hopes & Dreams: 'I wish I could fly' expresses a hypothetical present desire.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Wish + past simple expresses unreal desire."
+    },
+    {
+      "id": "S-TF-04",
+      "question": "Analytical Exposition: Reiteration is the conclusion of an analytical exposition text.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Reiteration restates the main thesis."
+    },
+    {
+      "id": "S-TF-05",
+      "question": "Passive Voice XI: Passive voice puts the object of the active sentence as the new subject.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Passive voice emphasizes the receiver of action."
     }
   ],
   "essay": [
     {
       "id": "S-ES-01",
-      "question": "Change this sentence to passive voice: 'They clean the room.'",
-      "answer": "The room is cleaned by them.",
+      "question": "Analytical Exposition: Write the term for the thesis statement in exposition text!",
+      "answer": "Thesis",
       "input_type": "text",
-      "time_limit": 60
+      "time_limit": 45,
+      "explanation": "Thesis introduces the topic and stance."
+    },
+    {
+      "id": "S-ES-02",
+      "question": "Passive Voice XI: Write the V3 form of 'analyze'!",
+      "answer": "analyzed",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Regular verb takes -d/-ed."
+    },
+    {
+      "id": "S-ES-03",
+      "question": "Hopes & Dreams: Write the English word for 'harapan'!",
+      "answer": "hope",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Hope means harapan."
+    },
+    {
+      "id": "S-ES-04",
+      "question": "Analytical Exposition: Write the term for the thesis statement in exposition text!",
+      "answer": "Thesis",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Thesis introduces the topic and stance."
+    },
+    {
+      "id": "S-ES-05",
+      "question": "Passive Voice XI: Write the V3 form of 'analyze'!",
+      "answer": "analyzed",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Regular verb takes -d/-ed."
     }
   ]
 }

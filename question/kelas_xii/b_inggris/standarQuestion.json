@@ -3,33 +3,202 @@
   "multiple_choice": [
     {
       "id": "S-MC-01",
-      "question": "Choose the correct relative pronoun: 'The book ___ I bought yesterday is very interesting.'",
+      "question": "Job Application Letter (STANDARD 1): What document summarizes your work history and education when applying for a job?",
       "options": [
-        "who",
-        "which",
-        "where"
+        "Resume / CV",
+        "Cover Letter",
+        "Certificate"
       ],
-      "answer": 1,
-      "explanation": "'Which' is used for non-human objects like books.",
-      "time_limit": 40
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "CV presents credentials."
+    },
+    {
+      "id": "S-MC-02",
+      "question": "News Item Text (STANDARD 2): What is the main function of a News Item text?",
+      "options": [
+        "To inform readers about newsworthy events",
+        "To entertain kids",
+        "To describe a dream"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "News item delivers factual news events."
+    },
+    {
+      "id": "S-MC-03",
+      "question": "Job Application Letter (STANDARD 3): What document summarizes your work history and education when applying for a job?",
+      "options": [
+        "Resume / CV",
+        "Cover Letter",
+        "Certificate"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "CV presents credentials."
+    },
+    {
+      "id": "S-MC-04",
+      "question": "News Item Text (STANDARD 4): What is the main function of a News Item text?",
+      "options": [
+        "To inform readers about newsworthy events",
+        "To entertain kids",
+        "To describe a dream"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "News item delivers factual news events."
+    },
+    {
+      "id": "S-MC-05",
+      "question": "Job Application Letter (STANDARD 5): What document summarizes your work history and education when applying for a job?",
+      "options": [
+        "Resume / CV",
+        "Cover Letter",
+        "Certificate"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "CV presents credentials."
+    },
+    {
+      "id": "S-MC-06",
+      "question": "News Item Text (STANDARD 6): What is the main function of a News Item text?",
+      "options": [
+        "To inform readers about newsworthy events",
+        "To entertain kids",
+        "To describe a dream"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "News item delivers factual news events."
+    },
+    {
+      "id": "S-MC-07",
+      "question": "Job Application Letter (STANDARD 7): What document summarizes your work history and education when applying for a job?",
+      "options": [
+        "Resume / CV",
+        "Cover Letter",
+        "Certificate"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "CV presents credentials."
+    },
+    {
+      "id": "S-MC-08",
+      "question": "News Item Text (STANDARD 8): What is the main function of a News Item text?",
+      "options": [
+        "To inform readers about newsworthy events",
+        "To entertain kids",
+        "To describe a dream"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "News item delivers factual news events."
+    },
+    {
+      "id": "S-MC-09",
+      "question": "Job Application Letter (STANDARD 9): What document summarizes your work history and education when applying for a job?",
+      "options": [
+        "Resume / CV",
+        "Cover Letter",
+        "Certificate"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "CV presents credentials."
+    },
+    {
+      "id": "S-MC-10",
+      "question": "News Item Text (STANDARD 10): What is the main function of a News Item text?",
+      "options": [
+        "To inform readers about newsworthy events",
+        "To entertain kids",
+        "To describe a dream"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "News item delivers factual news events."
     }
   ],
   "true_false": [
     {
       "id": "S-TF-01",
-      "question": "Passive voice focuses on the action or receiver rather than the doer.",
+      "question": "Job Application Letter: 'Sincerely yours' is a formal complimentary close.",
       "answer": true,
-      "explanation": "Passive voice emphasizes the object/action.",
-      "time_limit": 25
+      "time_limit": 20,
+      "explanation": "Sincerely is standard formal close."
+    },
+    {
+      "id": "S-TF-02",
+      "question": "News Item Text: Headline is the title of a news article.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Headline summarizes the main news."
+    },
+    {
+      "id": "S-TF-03",
+      "question": "Job Application Letter: 'Sincerely yours' is a formal complimentary close.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Sincerely is standard formal close."
+    },
+    {
+      "id": "S-TF-04",
+      "question": "News Item Text: Headline is the title of a news article.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Headline summarizes the main news."
+    },
+    {
+      "id": "S-TF-05",
+      "question": "Job Application Letter: 'Sincerely yours' is a formal complimentary close.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Sincerely is standard formal close."
     }
   ],
   "essay": [
     {
       "id": "S-ES-01",
-      "question": "Change this sentence to passive voice: 'They clean the room.'",
-      "answer": "The room is cleaned by them.",
+      "question": "Job Application Letter: Write the abbreviation for Curriculum Vitae!",
+      "answer": "CV",
       "input_type": "text",
-      "time_limit": 60
+      "time_limit": 45,
+      "explanation": "CV stands for Curriculum Vitae."
+    },
+    {
+      "id": "S-ES-02",
+      "question": "News Item Text: Write the term for the title of a news story!",
+      "answer": "Headline",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Headline is the title."
+    },
+    {
+      "id": "S-ES-03",
+      "question": "Job Application Letter: Write the abbreviation for Curriculum Vitae!",
+      "answer": "CV",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "CV stands for Curriculum Vitae."
+    },
+    {
+      "id": "S-ES-04",
+      "question": "News Item Text: Write the term for the title of a news story!",
+      "answer": "Headline",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Headline is the title."
+    },
+    {
+      "id": "S-ES-05",
+      "question": "Job Application Letter: Write the abbreviation for Curriculum Vitae!",
+      "answer": "CV",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "CV stands for Curriculum Vitae."
     }
   ]
 }

@@ -3,33 +3,202 @@
   "multiple_choice": [
     {
       "id": "S-MC-01",
-      "question": "Lembaga negara yang berwenang menguji undang-undang terhadap UUD 1945 adalah …",
+      "question": "Pelanggaran Hak & Pengingkaran Kewajiban (STANDARD 1): Salah satu contoh pengingkaran kewajiban sebagai warga negara adalah...",
       "options": [
-        "Mahkamah Agung",
-        "Mahkamah Konstitusi",
-        "Komisi Yudisial"
+        "Membayar pajak terlambat / melanggar hukum",
+        "Mengikuti pemilu",
+        "Mendapatkan pendidikan"
       ],
-      "answer": 1,
-      "explanation": "MK berwenang menguji UU terhadap UUD 1945.",
-      "time_limit": 40
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Pengingkaran kewajiban mengabaikan tugas hukum."
+    },
+    {
+      "id": "S-MC-02",
+      "question": "Kemajuan IPTEK & NKRI (STANDARD 2): Sikap selektif terhadap pengaruh globalisasi IPTEK didasarkan pada nilai-nilai...",
+      "options": [
+        "Pancasila",
+        "Budaya Asing",
+        "Kapitalisme"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Pancasila menyaring dampak negatif IPTEK."
+    },
+    {
+      "id": "S-MC-03",
+      "question": "Pelanggaran Hak & Pengingkaran Kewajiban (STANDARD 3): Salah satu contoh pengingkaran kewajiban sebagai warga negara adalah...",
+      "options": [
+        "Membayar pajak terlambat / melanggar hukum",
+        "Mengikuti pemilu",
+        "Mendapatkan pendidikan"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Pengingkaran kewajiban mengabaikan tugas hukum."
+    },
+    {
+      "id": "S-MC-04",
+      "question": "Kemajuan IPTEK & NKRI (STANDARD 4): Sikap selektif terhadap pengaruh globalisasi IPTEK didasarkan pada nilai-nilai...",
+      "options": [
+        "Pancasila",
+        "Budaya Asing",
+        "Kapitalisme"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Pancasila menyaring dampak negatif IPTEK."
+    },
+    {
+      "id": "S-MC-05",
+      "question": "Pelanggaran Hak & Pengingkaran Kewajiban (STANDARD 5): Salah satu contoh pengingkaran kewajiban sebagai warga negara adalah...",
+      "options": [
+        "Membayar pajak terlambat / melanggar hukum",
+        "Mengikuti pemilu",
+        "Mendapatkan pendidikan"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Pengingkaran kewajiban mengabaikan tugas hukum."
+    },
+    {
+      "id": "S-MC-06",
+      "question": "Kemajuan IPTEK & NKRI (STANDARD 6): Sikap selektif terhadap pengaruh globalisasi IPTEK didasarkan pada nilai-nilai...",
+      "options": [
+        "Pancasila",
+        "Budaya Asing",
+        "Kapitalisme"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Pancasila menyaring dampak negatif IPTEK."
+    },
+    {
+      "id": "S-MC-07",
+      "question": "Pelanggaran Hak & Pengingkaran Kewajiban (STANDARD 7): Salah satu contoh pengingkaran kewajiban sebagai warga negara adalah...",
+      "options": [
+        "Membayar pajak terlambat / melanggar hukum",
+        "Mengikuti pemilu",
+        "Mendapatkan pendidikan"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Pengingkaran kewajiban mengabaikan tugas hukum."
+    },
+    {
+      "id": "S-MC-08",
+      "question": "Kemajuan IPTEK & NKRI (STANDARD 8): Sikap selektif terhadap pengaruh globalisasi IPTEK didasarkan pada nilai-nilai...",
+      "options": [
+        "Pancasila",
+        "Budaya Asing",
+        "Kapitalisme"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Pancasila menyaring dampak negatif IPTEK."
+    },
+    {
+      "id": "S-MC-09",
+      "question": "Pelanggaran Hak & Pengingkaran Kewajiban (STANDARD 9): Salah satu contoh pengingkaran kewajiban sebagai warga negara adalah...",
+      "options": [
+        "Membayar pajak terlambat / melanggar hukum",
+        "Mengikuti pemilu",
+        "Mendapatkan pendidikan"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Pengingkaran kewajiban mengabaikan tugas hukum."
+    },
+    {
+      "id": "S-MC-10",
+      "question": "Kemajuan IPTEK & NKRI (STANDARD 10): Sikap selektif terhadap pengaruh globalisasi IPTEK didasarkan pada nilai-nilai...",
+      "options": [
+        "Pancasila",
+        "Budaya Asing",
+        "Kapitalisme"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Pancasila menyaring dampak negatif IPTEK."
     }
   ],
   "true_false": [
     {
       "id": "S-TF-01",
-      "question": "Sistem pemerintahan Indonesia adalah Presidensial.",
+      "question": "Pelanggaran Hak & Pengingkaran Kewajiban: Setiap warga negara memiliki hak dan kewajiban yang seimbang.",
       "answer": true,
-      "explanation": "Presiden bertindak sebagai kepala negara sekaligus kepala pemerintahan.",
-      "time_limit": 25
+      "time_limit": 20,
+      "explanation": "Hak dan kewajiban berjalan selaras."
+    },
+    {
+      "id": "S-TF-02",
+      "question": "Kemajuan IPTEK & NKRI: IPTEK harus dimanfaatkan sebesar-besarnya untuk kemakmuran rakyat.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Pengembangan IPTEK berorientasi kesejahteraan nasional."
+    },
+    {
+      "id": "S-TF-03",
+      "question": "Pelanggaran Hak & Pengingkaran Kewajiban: Setiap warga negara memiliki hak dan kewajiban yang seimbang.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Hak dan kewajiban berjalan selaras."
+    },
+    {
+      "id": "S-TF-04",
+      "question": "Kemajuan IPTEK & NKRI: IPTEK harus dimanfaatkan sebesar-besarnya untuk kemakmuran rakyat.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Pengembangan IPTEK berorientasi kesejahteraan nasional."
+    },
+    {
+      "id": "S-TF-05",
+      "question": "Pelanggaran Hak & Pengingkaran Kewajiban: Setiap warga negara memiliki hak dan kewajiban yang seimbang.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Hak dan kewajiban berjalan selaras."
     }
   ],
   "essay": [
     {
       "id": "S-ES-01",
-      "question": "Sebutkan 3 lembaga ketatanegaraan dalam konsep Trias Politika!",
-      "answer": "Legislatif, Eksekutif, Yudikatif",
+      "question": "Pelanggaran Hak & Pengingkaran Kewajiban: Tuliskan kewajiban dasar warga negara menurut Pasal 27 ayat 3 UUD 1945!",
+      "answer": "Bela Negara",
       "input_type": "text",
-      "time_limit": 50
+      "time_limit": 45,
+      "explanation": "Wajib ikut serta dalam upaya bela negara."
+    },
+    {
+      "id": "S-ES-02",
+      "question": "Kemajuan IPTEK & NKRI: Tuliskan nama dasar negara yang menjadi penyaring pengaruh globalisasi!",
+      "answer": "Pancasila",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Pancasila adalah filter kebudayaan luar."
+    },
+    {
+      "id": "S-ES-03",
+      "question": "Pelanggaran Hak & Pengingkaran Kewajiban: Tuliskan kewajiban dasar warga negara menurut Pasal 27 ayat 3 UUD 1945!",
+      "answer": "Bela Negara",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Wajib ikut serta dalam upaya bela negara."
+    },
+    {
+      "id": "S-ES-04",
+      "question": "Kemajuan IPTEK & NKRI: Tuliskan nama dasar negara yang menjadi penyaring pengaruh globalisasi!",
+      "answer": "Pancasila",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Pancasila adalah filter kebudayaan luar."
+    },
+    {
+      "id": "S-ES-05",
+      "question": "Pelanggaran Hak & Pengingkaran Kewajiban: Tuliskan kewajiban dasar warga negara menurut Pasal 27 ayat 3 UUD 1945!",
+      "answer": "Bela Negara",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Wajib ikut serta dalam upaya bela negara."
     }
   ]
 }

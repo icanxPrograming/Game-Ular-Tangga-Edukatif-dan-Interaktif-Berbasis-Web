@@ -3,33 +3,202 @@
   "multiple_choice": [
     {
       "id": "M-MC-01",
-      "question": "Suatu perilaku yang tidak sesuai dengan norma dan nilai sosial dinamakan …",
+      "question": "Fungsi Sosiologi (MYSTERY 1): Sosiologi didefinisikan sebagai ilmu yang mempelajari...",
       "options": [
-        "Penyimpangan sosial",
-        "Pengendalian sosial",
-        "Tertib sosial"
+        "Masyarakat dan Interaksi Sosial",
+        "Struktur Organ Tubuh",
+        "Peta Geografis"
       ],
       "answer": 0,
-      "explanation": "Penyimpangan sosial melanggar norma kelompok.",
-      "time_limit": 30
+      "time_limit": 30,
+      "explanation": "Sosiologi mengkaji perilaku masyarakat."
+    },
+    {
+      "id": "M-MC-02",
+      "question": "Interaksi Sosial (MYSTERY 2): Syarat terjadinya interaksi sosial adalah adanya kontak sosial dan...",
+      "options": [
+        "Komunikasi",
+        "Uang",
+        "Kekerasan"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Interaksi butuh kontak dan komunikasi."
+    },
+    {
+      "id": "M-MC-03",
+      "question": "Nilai & Norma Sosial (MYSTERY 3): Norma sosial dengan sanksi terkuat dan bersifat mengikat secara adat dinamakan...",
+      "options": [
+        "Adat Istiadat / Mores",
+        "Cara (Usage)",
+        "Kebiasaan (Folkways)"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Mores / Adat memiliki sanksi adat tegas."
+    },
+    {
+      "id": "M-MC-04",
+      "question": "Fungsi Sosiologi (MYSTERY 4): Sosiologi didefinisikan sebagai ilmu yang mempelajari...",
+      "options": [
+        "Masyarakat dan Interaksi Sosial",
+        "Struktur Organ Tubuh",
+        "Peta Geografis"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Sosiologi mengkaji perilaku masyarakat."
+    },
+    {
+      "id": "M-MC-05",
+      "question": "Interaksi Sosial (MYSTERY 5): Syarat terjadinya interaksi sosial adalah adanya kontak sosial dan...",
+      "options": [
+        "Komunikasi",
+        "Uang",
+        "Kekerasan"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Interaksi butuh kontak dan komunikasi."
+    },
+    {
+      "id": "M-MC-06",
+      "question": "Nilai & Norma Sosial (MYSTERY 6): Norma sosial dengan sanksi terkuat dan bersifat mengikat secara adat dinamakan...",
+      "options": [
+        "Adat Istiadat / Mores",
+        "Cara (Usage)",
+        "Kebiasaan (Folkways)"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Mores / Adat memiliki sanksi adat tegas."
+    },
+    {
+      "id": "M-MC-07",
+      "question": "Fungsi Sosiologi (MYSTERY 7): Sosiologi didefinisikan sebagai ilmu yang mempelajari...",
+      "options": [
+        "Masyarakat dan Interaksi Sosial",
+        "Struktur Organ Tubuh",
+        "Peta Geografis"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Sosiologi mengkaji perilaku masyarakat."
+    },
+    {
+      "id": "M-MC-08",
+      "question": "Interaksi Sosial (MYSTERY 8): Syarat terjadinya interaksi sosial adalah adanya kontak sosial dan...",
+      "options": [
+        "Komunikasi",
+        "Uang",
+        "Kekerasan"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Interaksi butuh kontak dan komunikasi."
+    },
+    {
+      "id": "M-MC-09",
+      "question": "Nilai & Norma Sosial (MYSTERY 9): Norma sosial dengan sanksi terkuat dan bersifat mengikat secara adat dinamakan...",
+      "options": [
+        "Adat Istiadat / Mores",
+        "Cara (Usage)",
+        "Kebiasaan (Folkways)"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Mores / Adat memiliki sanksi adat tegas."
+    },
+    {
+      "id": "M-MC-10",
+      "question": "Fungsi Sosiologi (MYSTERY 10): Sosiologi didefinisikan sebagai ilmu yang mempelajari...",
+      "options": [
+        "Masyarakat dan Interaksi Sosial",
+        "Struktur Organ Tubuh",
+        "Peta Geografis"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Sosiologi mengkaji perilaku masyarakat."
     }
   ],
   "true_false": [
     {
       "id": "M-TF-01",
-      "question": "Norma hukum memiliki sanksi yang paling tegas dibanding norma lain.",
+      "question": "Fungsi Sosiologi: Sosiologi bersifat empiris dan non-etis.",
       "answer": true,
-      "explanation": "Norma hukum mengikat dan memiliki sanksi pidana/denda resmi.",
-      "time_limit": 20
+      "time_limit": 20,
+      "explanation": "Sosiologi tidak menghakimi baik-buruk fakta."
+    },
+    {
+      "id": "M-TF-02",
+      "question": "Interaksi Sosial: Asimilasi adalah pembauran dua kebudayaan menghasilkan budaya baru.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Asimilasi meleburkan budaya asal."
+    },
+    {
+      "id": "M-TF-03",
+      "question": "Nilai & Norma Sosial: Norma hukum dibuat oleh lembaga resmi negara.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Hukum dibuat pemerintah/DPR."
+    },
+    {
+      "id": "M-TF-04",
+      "question": "Fungsi Sosiologi: Sosiologi bersifat empiris dan non-etis.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Sosiologi tidak menghakimi baik-buruk fakta."
+    },
+    {
+      "id": "M-TF-05",
+      "question": "Interaksi Sosial: Asimilasi adalah pembauran dua kebudayaan menghasilkan budaya baru.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Asimilasi meleburkan budaya asal."
     }
   ],
   "essay": [
     {
       "id": "M-ES-01",
-      "question": "Sebutkan nama ilmuwan pencetus istilah Sosiologi!",
+      "question": "Fungsi Sosiologi: Tuliskan nama tokoh yang dijuluki Bapak Sosiologi Dunia!",
       "answer": "Auguste Comte",
       "input_type": "text",
-      "time_limit": 30
+      "time_limit": 45,
+      "explanation": "Auguste Comte mencetuskan istilah sosiologi."
+    },
+    {
+      "id": "M-ES-02",
+      "question": "Interaksi Sosial: Tuliskan istilah proses sosial yang mengarah pada perpecahan!",
+      "answer": "Disosiatif",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Proses disosiatif berupa konflik dan kompetisi."
+    },
+    {
+      "id": "M-ES-03",
+      "question": "Nilai & Norma Sosial: Tuliskan norma sosial berupa aturan perilaku sehari-hari!",
+      "answer": "Kebiasaan",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Folkways adalah norma kebiasaan."
+    },
+    {
+      "id": "M-ES-04",
+      "question": "Fungsi Sosiologi: Tuliskan nama tokoh yang dijuluki Bapak Sosiologi Dunia!",
+      "answer": "Auguste Comte",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Auguste Comte mencetuskan istilah sosiologi."
+    },
+    {
+      "id": "M-ES-05",
+      "question": "Interaksi Sosial: Tuliskan istilah proses sosial yang mengarah pada perpecahan!",
+      "answer": "Disosiatif",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Proses disosiatif berupa konflik dan kompetisi."
     }
   ]
 }

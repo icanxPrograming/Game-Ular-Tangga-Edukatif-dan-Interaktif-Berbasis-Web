@@ -3,33 +3,202 @@
   "multiple_choice": [
     {
       "id": "M-MC-01",
-      "question": "Partikel subatomik yang bermuatan negatif adalah …",
+      "question": "Struktur Atom (MYSTERY 1): Partikel penyusun inti atom yang bermuatan positif dinamakan...",
       "options": [
         "Proton",
-        "Elektron",
-        "Neutron"
+        "Neutron",
+        "Elektron"
       ],
-      "answer": 1,
-      "explanation": "Elektron bermuatan -1.",
-      "time_limit": 25
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Proton positif dan neutron netral di inti atom."
+    },
+    {
+      "id": "M-MC-02",
+      "question": "Sistem Periodik Unsur (MYSTERY 2): Baris horizontal dalam tabel periodik unsur dinamakan...",
+      "options": [
+        "Periode",
+        "Golongan",
+        "Blok"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Baris horizontal = Periode; Kolom vertikal = Golongan."
+    },
+    {
+      "id": "M-MC-03",
+      "question": "Ikatan Kimia (MYSTERY 3): Ikatan yang terbentuk akibat serah terima elektron antara logam dan non-logam dinamakan ikatan...",
+      "options": [
+        "Ion",
+        "Kovalen",
+        "Logam"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Ikatan ion terjadi karena gaya elektrostatik antaron."
+    },
+    {
+      "id": "M-MC-04",
+      "question": "Struktur Atom (MYSTERY 4): Partikel penyusun inti atom yang bermuatan positif dinamakan...",
+      "options": [
+        "Proton",
+        "Neutron",
+        "Elektron"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Proton positif dan neutron netral di inti atom."
+    },
+    {
+      "id": "M-MC-05",
+      "question": "Sistem Periodik Unsur (MYSTERY 5): Baris horizontal dalam tabel periodik unsur dinamakan...",
+      "options": [
+        "Periode",
+        "Golongan",
+        "Blok"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Baris horizontal = Periode; Kolom vertikal = Golongan."
+    },
+    {
+      "id": "M-MC-06",
+      "question": "Ikatan Kimia (MYSTERY 6): Ikatan yang terbentuk akibat serah terima elektron antara logam dan non-logam dinamakan ikatan...",
+      "options": [
+        "Ion",
+        "Kovalen",
+        "Logam"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Ikatan ion terjadi karena gaya elektrostatik antaron."
+    },
+    {
+      "id": "M-MC-07",
+      "question": "Struktur Atom (MYSTERY 7): Partikel penyusun inti atom yang bermuatan positif dinamakan...",
+      "options": [
+        "Proton",
+        "Neutron",
+        "Elektron"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Proton positif dan neutron netral di inti atom."
+    },
+    {
+      "id": "M-MC-08",
+      "question": "Sistem Periodik Unsur (MYSTERY 8): Baris horizontal dalam tabel periodik unsur dinamakan...",
+      "options": [
+        "Periode",
+        "Golongan",
+        "Blok"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Baris horizontal = Periode; Kolom vertikal = Golongan."
+    },
+    {
+      "id": "M-MC-09",
+      "question": "Ikatan Kimia (MYSTERY 9): Ikatan yang terbentuk akibat serah terima elektron antara logam dan non-logam dinamakan ikatan...",
+      "options": [
+        "Ion",
+        "Kovalen",
+        "Logam"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Ikatan ion terjadi karena gaya elektrostatik antaron."
+    },
+    {
+      "id": "M-MC-10",
+      "question": "Struktur Atom (MYSTERY 10): Partikel penyusun inti atom yang bermuatan positif dinamakan...",
+      "options": [
+        "Proton",
+        "Neutron",
+        "Elektron"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Proton positif dan neutron netral di inti atom."
     }
   ],
   "true_false": [
     {
       "id": "M-TF-01",
-      "question": "Nomor atom menunjukkan jumlah proton dalam inti atom.",
+      "question": "Struktur Atom: Elektron mengelilingi inti atom pada kulit elektron.",
       "answer": true,
-      "explanation": "Nomor atom Z = jumlah proton.",
-      "time_limit": 20
+      "time_limit": 20,
+      "explanation": "Elektron bermuatan negatif di kulit atom."
+    },
+    {
+      "id": "M-TF-02",
+      "question": "Sistem Periodik Unsur: Unsur golongan VIII A dikenal sebagai gas mulia.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Gas mulia stabil di Golongan VIII A."
+    },
+    {
+      "id": "M-TF-03",
+      "question": "Ikatan Kimia: Ikatan kovalen terjadi akibat pemakaian bersama pasangan elektron.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Kovalen terjadi antarnon-logam."
+    },
+    {
+      "id": "M-TF-04",
+      "question": "Struktur Atom: Elektron mengelilingi inti atom pada kulit elektron.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Elektron bermuatan negatif di kulit atom."
+    },
+    {
+      "id": "M-TF-05",
+      "question": "Sistem Periodik Unsur: Unsur golongan VIII A dikenal sebagai gas mulia.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Gas mulia stabil di Golongan VIII A."
     }
   ],
   "essay": [
     {
       "id": "M-ES-01",
-      "question": "Siapakah penemu tabel periodik unsur modern?",
-      "answer": "Dmitri Mendeleev",
+      "question": "Struktur Atom: Tuliskan nama partikel subatom ber-muatan negatif!",
+      "answer": "Elektron",
       "input_type": "text",
-      "time_limit": 30
+      "time_limit": 45,
+      "explanation": "Elektron bermuatan negatif."
+    },
+    {
+      "id": "M-ES-02",
+      "question": "Sistem Periodik Unsur: Tuliskan nama ilmiah kelompok unsur Golongan IA!",
+      "answer": "Logam Alkali",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Golongan IA dinamakan Logam Alkali."
+    },
+    {
+      "id": "M-ES-03",
+      "question": "Ikatan Kimia: Tuliskan jenis ikatan pada molekul air H2O!",
+      "answer": "Ikatan Kovalen",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "H2O berikatan kovalen polar."
+    },
+    {
+      "id": "M-ES-04",
+      "question": "Struktur Atom: Tuliskan nama partikel subatom ber-muatan negatif!",
+      "answer": "Elektron",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Elektron bermuatan negatif."
+    },
+    {
+      "id": "M-ES-05",
+      "question": "Sistem Periodik Unsur: Tuliskan nama ilmiah kelompok unsur Golongan IA!",
+      "answer": "Logam Alkali",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Golongan IA dinamakan Logam Alkali."
     }
   ]
 }

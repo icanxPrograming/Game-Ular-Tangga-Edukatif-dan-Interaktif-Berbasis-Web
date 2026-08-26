@@ -3,45 +3,202 @@
   "multiple_choice": [
     {
       "id": "E-MC-01",
-      "question": "Perangkat keras komputer yang berfungsi sebagai otak pemroses data utama adalah …",
+      "question": "Berpikir Komputasional (EASY 1): Empat pilar berpikir komputasional mencakup dekomposisi, pengenalan pola, abstraksi, dan...",
       "options": [
-        "RAM",
-        "CPU",
-        "Harddisk"
+        "Perancangan Algoritma",
+        "Pemrograman Java",
+        "Desain Grafis"
       ],
-      "answer": 1,
-      "explanation": "CPU (Central Processing Unit) adalah otak komputer.",
-      "time_limit": 30
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Algoritma menyusun langkah penyelesaian masalah."
     },
     {
       "id": "E-MC-02",
-      "question": "Sistem bilangan berbasis 2 yang hanya terdiri dari angka 0 dan 1 disebut sistem …",
+      "question": "Jaringan Komputer & Internet (EASY 2): Protokol standar utama yang menghubungkan komputer di seluruh dunia dalam jaringan internet adalah...",
       "options": [
-        "Desimal",
-        "Biner",
-        "Heksadesimal"
+        "TCP/IP",
+        "HTTP saja",
+        "FTP"
       ],
-      "answer": 1,
-      "explanation": "Biner berbasis 2 (0 dan 1).",
-      "time_limit": 30
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "TCP/IP mengatur komunikasi data global internet."
+    },
+    {
+      "id": "E-MC-03",
+      "question": "Sistem Komputer (EASY 3): Perangkat keras yang berfungsi sebagai otak utama pengolah data komputer dinamakan...",
+      "options": [
+        "CPU / Processor",
+        "RAM",
+        "Harddisk"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "CPU eksekusi instruksi program."
+    },
+    {
+      "id": "E-MC-04",
+      "question": "Berpikir Komputasional (EASY 4): Empat pilar berpikir komputasional mencakup dekomposisi, pengenalan pola, abstraksi, dan...",
+      "options": [
+        "Perancangan Algoritma",
+        "Pemrograman Java",
+        "Desain Grafis"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Algoritma menyusun langkah penyelesaian masalah."
+    },
+    {
+      "id": "E-MC-05",
+      "question": "Jaringan Komputer & Internet (EASY 5): Protokol standar utama yang menghubungkan komputer di seluruh dunia dalam jaringan internet adalah...",
+      "options": [
+        "TCP/IP",
+        "HTTP saja",
+        "FTP"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "TCP/IP mengatur komunikasi data global internet."
+    },
+    {
+      "id": "E-MC-06",
+      "question": "Sistem Komputer (EASY 6): Perangkat keras yang berfungsi sebagai otak utama pengolah data komputer dinamakan...",
+      "options": [
+        "CPU / Processor",
+        "RAM",
+        "Harddisk"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "CPU eksekusi instruksi program."
+    },
+    {
+      "id": "E-MC-07",
+      "question": "Berpikir Komputasional (EASY 7): Empat pilar berpikir komputasional mencakup dekomposisi, pengenalan pola, abstraksi, dan...",
+      "options": [
+        "Perancangan Algoritma",
+        "Pemrograman Java",
+        "Desain Grafis"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Algoritma menyusun langkah penyelesaian masalah."
+    },
+    {
+      "id": "E-MC-08",
+      "question": "Jaringan Komputer & Internet (EASY 8): Protokol standar utama yang menghubungkan komputer di seluruh dunia dalam jaringan internet adalah...",
+      "options": [
+        "TCP/IP",
+        "HTTP saja",
+        "FTP"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "TCP/IP mengatur komunikasi data global internet."
+    },
+    {
+      "id": "E-MC-09",
+      "question": "Sistem Komputer (EASY 9): Perangkat keras yang berfungsi sebagai otak utama pengolah data komputer dinamakan...",
+      "options": [
+        "CPU / Processor",
+        "RAM",
+        "Harddisk"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "CPU eksekusi instruksi program."
+    },
+    {
+      "id": "E-MC-10",
+      "question": "Berpikir Komputasional (EASY 10): Empat pilar berpikir komputasional mencakup dekomposisi, pengenalan pola, abstraksi, dan...",
+      "options": [
+        "Perancangan Algoritma",
+        "Pemrograman Java",
+        "Desain Grafis"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Algoritma menyusun langkah penyelesaian masalah."
     }
   ],
   "true_false": [
     {
       "id": "E-TF-01",
-      "question": "RAM bersifat volatile, artinya data hilang saat daya listrik mati.",
+      "question": "Berpikir Komputasional: Dekomposisi adalah memecah masalah besar menjadi bagian kecil.",
       "answer": true,
-      "explanation": "RAM menyimpan data secara sementara.",
-      "time_limit": 20
+      "time_limit": 20,
+      "explanation": "Dekomposisi mempermudah analisis masalah."
+    },
+    {
+      "id": "E-TF-02",
+      "question": "Jaringan Komputer & Internet: IP Address berfungsi sebagai alamat identitas perangkat di jaringan.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "IP address mengidentifikasi node jaringan."
+    },
+    {
+      "id": "E-TF-03",
+      "question": "Sistem Komputer: RAM bersifat non-volatile (data tetap ada saat listrik mati).",
+      "answer": false,
+      "time_limit": 20,
+      "explanation": "RAM bersifat volatile (data hilang saat mati listrik)."
+    },
+    {
+      "id": "E-TF-04",
+      "question": "Berpikir Komputasional: Dekomposisi adalah memecah masalah besar menjadi bagian kecil.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Dekomposisi mempermudah analisis masalah."
+    },
+    {
+      "id": "E-TF-05",
+      "question": "Jaringan Komputer & Internet: IP Address berfungsi sebagai alamat identitas perangkat di jaringan.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "IP address mengidentifikasi node jaringan."
     }
   ],
   "essay": [
     {
       "id": "E-ES-01",
-      "question": "Konversikan angka biner 1010 ke dalam bilangan desimal!",
-      "answer": "10",
-      "input_type": "math",
-      "time_limit": 45
+      "question": "Berpikir Komputasional: Tuliskan istilah menyembunyikan detail tidak penting untuk fokus pada inti!",
+      "answer": "Abstraksi",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Abstraksi menyaring aspek relevan."
+    },
+    {
+      "id": "E-ES-02",
+      "question": "Jaringan Komputer & Internet: Tuliskan kepanjangan dari URL!",
+      "answer": "Uniform Resource Locator",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "URL menunjukkan alamat web."
+    },
+    {
+      "id": "E-ES-03",
+      "question": "Sistem Komputer: Tuliskan perangkat penyimpanan tetap non-volatile komputer!",
+      "answer": "Harddisk",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Harddisk/SSD menyimpan data permanen."
+    },
+    {
+      "id": "E-ES-04",
+      "question": "Berpikir Komputasional: Tuliskan istilah menyembunyikan detail tidak penting untuk fokus pada inti!",
+      "answer": "Abstraksi",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Abstraksi menyaring aspek relevan."
+    },
+    {
+      "id": "E-ES-05",
+      "question": "Jaringan Komputer & Internet: Tuliskan kepanjangan dari URL!",
+      "answer": "Uniform Resource Locator",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "URL menunjukkan alamat web."
     }
   ]
 }

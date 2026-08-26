@@ -3,33 +3,202 @@
   "multiple_choice": [
     {
       "id": "S-MC-01",
-      "question": "Struktur data linier yang menerapkan prinsip LIFO (Last In First Out) adalah …",
+      "question": "Algoritma & Struktur Data (STANDARD 1): Struktur data LIFO (Last In First Out) diterapkan pada...",
       "options": [
-        "Queue",
-        "Stack",
-        "Array"
+        "Stack / Tumpukan",
+        "Queue / Antrean",
+        "Graph"
       ],
-      "answer": 1,
-      "explanation": "Stack menggunakan prinsip LIFO.",
-      "time_limit": 40
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Stack berprinsip LIFO."
+    },
+    {
+      "id": "S-MC-02",
+      "question": "Pemrograman XI (STANDARD 2): Tipe data untuk menyimpan nilai kebenaran Benar (true) atau Salah (false) adalah...",
+      "options": [
+        "Boolean",
+        "Integer",
+        "String"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Boolean berisikan nilai true/false."
+    },
+    {
+      "id": "S-MC-03",
+      "question": "Jaringan Komputer XI (STANDARD 3): Perangkat keras yang menghubungkan beberapa jaringan komputer berbeda dinamakan...",
+      "options": [
+        "Router",
+        "Switch",
+        "Kabel LAN"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Router menghubungkan subnet berlainan."
+    },
+    {
+      "id": "S-MC-04",
+      "question": "Algoritma & Struktur Data (STANDARD 4): Struktur data LIFO (Last In First Out) diterapkan pada...",
+      "options": [
+        "Stack / Tumpukan",
+        "Queue / Antrean",
+        "Graph"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Stack berprinsip LIFO."
+    },
+    {
+      "id": "S-MC-05",
+      "question": "Pemrograman XI (STANDARD 5): Tipe data untuk menyimpan nilai kebenaran Benar (true) atau Salah (false) adalah...",
+      "options": [
+        "Boolean",
+        "Integer",
+        "String"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Boolean berisikan nilai true/false."
+    },
+    {
+      "id": "S-MC-06",
+      "question": "Jaringan Komputer XI (STANDARD 6): Perangkat keras yang menghubungkan beberapa jaringan komputer berbeda dinamakan...",
+      "options": [
+        "Router",
+        "Switch",
+        "Kabel LAN"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Router menghubungkan subnet berlainan."
+    },
+    {
+      "id": "S-MC-07",
+      "question": "Algoritma & Struktur Data (STANDARD 7): Struktur data LIFO (Last In First Out) diterapkan pada...",
+      "options": [
+        "Stack / Tumpukan",
+        "Queue / Antrean",
+        "Graph"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Stack berprinsip LIFO."
+    },
+    {
+      "id": "S-MC-08",
+      "question": "Pemrograman XI (STANDARD 8): Tipe data untuk menyimpan nilai kebenaran Benar (true) atau Salah (false) adalah...",
+      "options": [
+        "Boolean",
+        "Integer",
+        "String"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Boolean berisikan nilai true/false."
+    },
+    {
+      "id": "S-MC-09",
+      "question": "Jaringan Komputer XI (STANDARD 9): Perangkat keras yang menghubungkan beberapa jaringan komputer berbeda dinamakan...",
+      "options": [
+        "Router",
+        "Switch",
+        "Kabel LAN"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Router menghubungkan subnet berlainan."
+    },
+    {
+      "id": "S-MC-10",
+      "question": "Algoritma & Struktur Data (STANDARD 10): Struktur data LIFO (Last In First Out) diterapkan pada...",
+      "options": [
+        "Stack / Tumpukan",
+        "Queue / Antrean",
+        "Graph"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "Stack berprinsip LIFO."
     }
   ],
   "true_false": [
     {
       "id": "S-TF-01",
-      "question": "Algoritma pencarian Binary Search memerlukan data yang sudah terurut.",
+      "question": "Algoritma & Struktur Data: Queue menerapkan prinsip FIFO (First In First Out).",
       "answer": true,
-      "explanation": "Binary search memerlukan array yang sudah tersortir.",
-      "time_limit": 25
+      "time_limit": 20,
+      "explanation": "Antrean melayani elemen paling awal masuk."
+    },
+    {
+      "id": "S-TF-02",
+      "question": "Pemrograman XI: Perulangan 'for' digunakan saat jumlah iterasi sudah pasti.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Looping 'for' terhitung terstruktur."
+    },
+    {
+      "id": "S-TF-03",
+      "question": "Jaringan Komputer XI: Alamat IPv4 terdiri dari 32-bit angka biner.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "IPv4 32-bit terbagi 4 oktet."
+    },
+    {
+      "id": "S-TF-04",
+      "question": "Algoritma & Struktur Data: Queue menerapkan prinsip FIFO (First In First Out).",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Antrean melayani elemen paling awal masuk."
+    },
+    {
+      "id": "S-TF-05",
+      "question": "Pemrograman XI: Perulangan 'for' digunakan saat jumlah iterasi sudah pasti.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "Looping 'for' terhitung terstruktur."
     }
   ],
   "essay": [
     {
       "id": "S-ES-01",
-      "question": "Apakah kepanjangan dari istilah HTTP dalam protokol jaringan?",
-      "answer": "Hypertext Transfer Protocol",
+      "question": "Algoritma & Struktur Data: Tuliskan istilah struktur data antrean berprinsip FIFO!",
+      "answer": "Queue",
       "input_type": "text",
-      "time_limit": 45
+      "time_limit": 45,
+      "explanation": "Queue berprinsip FIFO."
+    },
+    {
+      "id": "S-ES-02",
+      "question": "Pemrograman XI: Tuliskan tipe data angka bulat dalam pemrograman!",
+      "answer": "Integer",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Integer menyimpan bilangan bulat."
+    },
+    {
+      "id": "S-ES-03",
+      "question": "Jaringan Komputer XI: Tuliskan nama perangkat penghubung antarjaringan!",
+      "answer": "Router",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Router merutekan paket antarjaringan."
+    },
+    {
+      "id": "S-ES-04",
+      "question": "Algoritma & Struktur Data: Tuliskan istilah struktur data antrean berprinsip FIFO!",
+      "answer": "Queue",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Queue berprinsip FIFO."
+    },
+    {
+      "id": "S-ES-05",
+      "question": "Pemrograman XI: Tuliskan tipe data angka bulat dalam pemrograman!",
+      "answer": "Integer",
+      "input_type": "text",
+      "time_limit": 45,
+      "explanation": "Integer menyimpan bilangan bulat."
     }
   ]
 }
