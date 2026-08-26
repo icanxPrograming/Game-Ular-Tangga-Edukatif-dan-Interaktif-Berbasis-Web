@@ -1,0 +1,35 @@
+{
+  "difficulty": "easy",
+  "multiple_choice": [
+    {
+      "id": "E-MC-01",
+      "question": "Teks Proklamasi Kemerdekaan Indonesia dibacakan pada tanggal …",
+      "options": [
+        "17 Agustus 1945",
+        "18 Agustus 1945",
+        "20 Agustus 1945"
+      ],
+      "answer": 0,
+      "explanation": "Proklamasi dibacakan Sukarno-Hatta pada 17 Agustus 1945.",
+      "time_limit": 30
+    }
+  ],
+  "true_false": [
+    {
+      "id": "E-TF-01",
+      "question": "Naskah proklamasi dirumuskan di rumah Laksamana Maeda.",
+      "answer": true,
+      "explanation": "Laksamana Maeda mengizinkan rumahnya dipakai untuk merumuskan naskah.",
+      "time_limit": 20
+    }
+  ],
+  "essay": [
+    {
+      "id": "E-ES-01",
+      "question": "Sebutkan nama presiden pertama Republik Indonesia!",
+      "answer": "Ir. Soekarno",
+      "input_type": "text",
+      "time_limit": 30
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "difficulty": "standard",
+  "multiple_choice": [
+    {
+      "id": "S-MC-01",
+      "question": "Lembaga negara yang berwenang menguji undang-undang terhadap UUD 1945 adalah …",
+      "options": [
+        "Mahkamah Agung",
+        "Mahkamah Konstitusi",
+        "Komisi Yudisial"
+      ],
+      "answer": 1,
+      "explanation": "MK berwenang menguji UU terhadap UUD 1945.",
+      "time_limit": 40
+    }
+  ],
+  "true_false": [
+    {
+      "id": "S-TF-01",
+      "question": "Sistem pemerintahan Indonesia adalah Presidensial.",
+      "answer": true,
+      "explanation": "Presiden bertindak sebagai kepala negara sekaligus kepala pemerintahan.",
+      "time_limit": 25
+    }
+  ],
+  "essay": [
+    {
+      "id": "S-ES-01",
+      "question": "Sebutkan 3 lembaga ketatanegaraan dalam konsep Trias Politika!",
+      "answer": "Legislatif, Eksekutif, Yudikatif",
+      "input_type": "text",
+      "time_limit": 50
+    }
+  ]
+}

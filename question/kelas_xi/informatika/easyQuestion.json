@@ -1,0 +1,47 @@
+{
+  "difficulty": "easy",
+  "multiple_choice": [
+    {
+      "id": "E-MC-01",
+      "question": "Perangkat keras komputer yang berfungsi sebagai otak pemroses data utama adalah …",
+      "options": [
+        "RAM",
+        "CPU",
+        "Harddisk"
+      ],
+      "answer": 1,
+      "explanation": "CPU (Central Processing Unit) adalah otak komputer.",
+      "time_limit": 30
+    },
+    {
+      "id": "E-MC-02",
+      "question": "Sistem bilangan berbasis 2 yang hanya terdiri dari angka 0 dan 1 disebut sistem …",
+      "options": [
+        "Desimal",
+        "Biner",
+        "Heksadesimal"
+      ],
+      "answer": 1,
+      "explanation": "Biner berbasis 2 (0 dan 1).",
+      "time_limit": 30
+    }
+  ],
+  "true_false": [
+    {
+      "id": "E-TF-01",
+      "question": "RAM bersifat volatile, artinya data hilang saat daya listrik mati.",
+      "answer": true,
+      "explanation": "RAM menyimpan data secara sementara.",
+      "time_limit": 20
+    }
+  ],
+  "essay": [
+    {
+      "id": "E-ES-01",
+      "question": "Konversikan angka biner 1010 ke dalam bilangan desimal!",
+      "answer": "10",
+      "input_type": "math",
+      "time_limit": 45
+    }
+  ]
+}

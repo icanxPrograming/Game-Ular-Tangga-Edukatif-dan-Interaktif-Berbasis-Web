@@ -1,0 +1,36 @@
+{
+  "difficulty": "mystery",
+  "multiple_choice": [
+    {
+      "id": "M-MC-01",
+      "question": "Matriks A=[1 2; 3 4]. Determinant det(A) adalah...",
+      "options": [
+        "-2",
+        "2",
+        "0"
+      ],
+      "answer": 0,
+      "time_limit": 45,
+      "explanation": "1*4 - 2*3 = 4 - 6 = -2"
+    }
+  ],
+  "true_false": [
+    {
+      "id": "M-TF-01",
+      "question": "Jika det(A) = 0 maka matriks A tidak memiliki invers.",
+      "answer": true,
+      "time_limit": 30,
+      "explanation": "Matriks singular tidak ber-invers"
+    }
+  ],
+  "essay": [
+    {
+      "id": "M-ES-01",
+      "question": "Tentukan nilai determinan dari matriks 2x2 identitas!",
+      "answer": "1",
+      "input_type": "math",
+      "time_limit": 45,
+      "explanation": "det(I) = 1"
+    }
+  ]
+}

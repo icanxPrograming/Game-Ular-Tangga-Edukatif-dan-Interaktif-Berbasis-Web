@@ -1,0 +1,36 @@
+{
+  "difficulty": "standard",
+  "multiple_choice": [
+    {
+      "id": "S-MC-01",
+      "question": "Turunan pertama dari f(x) = x^2 adalah...",
+      "options": [
+        "2x",
+        "x",
+        "2"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "f'(x) = 2x"
+    }
+  ],
+  "true_false": [
+    {
+      "id": "S-TF-01",
+      "question": "Integral dari 2x dx adalah x^2 + C.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "∫2x dx = x^2 + C"
+    }
+  ],
+  "essay": [
+    {
+      "id": "S-ES-01",
+      "question": "Hitunglah nilai dari lim x->2 (x + 3)!",
+      "answer": "5",
+      "input_type": "math",
+      "time_limit": 30,
+      "explanation": "2 + 3 = 5"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "difficulty": "easy",
+  "multiple_choice": [
+    {
+      "id": "E-MC-01",
+      "question": "Dasar negara Indonesia yang dirumuskan oleh para pendiri bangsa adalah …",
+      "options": [
+        "UUD 1945",
+        "Pancasila",
+        "Ketetapan MPR"
+      ],
+      "answer": 1,
+      "explanation": "Pancasila adalah dasar negara dan pandangan hidup bangsa.",
+      "time_limit": 30
+    },
+    {
+      "id": "E-MC-02",
+      "question": "Semboyan bangsa Indonesia 'Bhinneka Tunggal Ika' bermakna …",
+      "options": [
+        "Berbeda-beda tetapi tetap satu",
+        "Bersatu kita teguh",
+        "Pantang menyerah"
+      ],
+      "answer": 0,
+      "explanation": "Bhinneka Tunggal Ika berarti berbeda-beda tetapi tetap satu jua.",
+      "time_limit": 30
+    }
+  ],
+  "true_false": [
+    {
+      "id": "E-TF-01",
+      "question": "UUD 1945 merupakan hukum dasar tertulis tertinggi di Indonesia.",
+      "answer": true,
+      "explanation": "UUD 1945 berkedudukan sebagai konstitusi tertulis tertinggi.",
+      "time_limit": 20
+    }
+  ],
+  "essay": [
+    {
+      "id": "E-ES-01",
+      "question": "Tuliskan sila ketiga dari Pancasila!",
+      "answer": "Persatuan Indonesia",
+      "input_type": "text",
+      "time_limit": 40
+    }
+  ]
+}

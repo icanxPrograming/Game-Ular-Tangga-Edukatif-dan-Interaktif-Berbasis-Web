@@ -1,0 +1,35 @@
+{
+  "difficulty": "hard",
+  "multiple_choice": [
+    {
+      "id": "H-MC-01",
+      "question": "Pasal dalam UUD 1945 yang mengatur tentang Hak Asasi Manusia secara komprehensif adalah pasal …",
+      "options": [
+        "27",
+        "28A-28J",
+        "30"
+      ],
+      "answer": 1,
+      "explanation": "Pasal 28A sampai 28J memuat jaminan HAM.",
+      "time_limit": 45
+    }
+  ],
+  "true_false": [
+    {
+      "id": "H-TF-01",
+      "question": "Amandemen UUD 1945 telah dilakukan sebanyak 5 kali.",
+      "answer": false,
+      "explanation": "Amandemen UUD 1945 dilakukan sebanyak 4 kali (1999-2002).",
+      "time_limit": 30
+    }
+  ],
+  "essay": [
+    {
+      "id": "H-ES-01",
+      "question": "Jelaskan prinsip Otonomi Daerah menurut UUD 1945!",
+      "answer": "Penyerahan wewenang pemerintah pusat kepada daerah untuk mengurus rumah tangganya sendiri.",
+      "input_type": "text",
+      "time_limit": 60
+    }
+  ]
+}

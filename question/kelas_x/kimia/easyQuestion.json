@@ -1,0 +1,35 @@
+{
+  "difficulty": "easy",
+  "multiple_choice": [
+    {
+      "id": "E-MC-01",
+      "question": "Lambang unsur kimia untuk zat Besi adalah …",
+      "options": [
+        "Be",
+        "Fe",
+        "F"
+      ],
+      "answer": 1,
+      "explanation": "Besi berasal dari kata Ferrum (Fe).",
+      "time_limit": 30
+    }
+  ],
+  "true_false": [
+    {
+      "id": "E-TF-01",
+      "question": "Air (H2O) tergolong sebagai senyawa kimia.",
+      "answer": true,
+      "explanation": "H2O gabungan atom H dan O secara kimia.",
+      "time_limit": 20
+    }
+  ],
+  "essay": [
+    {
+      "id": "E-ES-01",
+      "question": "Tuliskan lambang unsur kimia untuk Oksigen!",
+      "answer": "O",
+      "input_type": "text",
+      "time_limit": 25
+    }
+  ]
+}

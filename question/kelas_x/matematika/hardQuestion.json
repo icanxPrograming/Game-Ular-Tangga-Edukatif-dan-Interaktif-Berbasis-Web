@@ -1,0 +1,69 @@
+{
+  "difficulty": "hard",
+  "multiple_choice": [
+    {
+      "id": "H-MC-01",
+      "question": "Dua dadu dilempar secara bersamaan. Peluang jumlah mata dadu sama dengan 9 adalah …",
+      "options": ["1/12", "1/9", "1/6", "1/3"],
+      "answer": 1,
+      "explanation": "Pasangan (3,6),(4,5),(5,4),(6,3) → 4/36 = 1/9",
+      "time_limit": 50
+    },
+    {
+      "id": "H-MC-02",
+      "question": "Dua koin dilempar bersamaan. Peluang muncul paling sedikit satu gambar adalah …",
+      "options": ["1/4", "1/2", "3/4"],
+      "answer": 2,
+      "explanation": "1 − peluang tidak ada gambar = 1 − 1/4 = 3/4",
+      "time_limit": 50
+    },
+    {
+      "id": "H-MC-03",
+      "question": "Sebuah dadu dilempar satu kali. A = muncul angka genap, B = muncul angka lebih dari 3. P(A ∩ B) adalah …",
+      "options": ["1/6", "1/3", "1/2"],
+      "answer": 1,
+      "explanation": "Irisan {4,6} → 2/6 = 1/3",
+      "time_limit": 50
+    },
+    {
+      "id": "H-MC-04",
+      "question": "Dari satu set kartu bernomor 1–10, diambil satu kartu. Peluang terambil kartu genap atau kelipatan 3 adalah …",
+      "options": ["1/5", "2/5", "3/5", "4/5"],
+      "answer": 2,
+      "explanation": "Genap {2,4,6,8,10}, kelipatan 3 {3,6,9} → gabungan 6/10 = 3/5",
+      "time_limit": 50
+    }
+  ],
+  "true_false": [
+    {
+      "id": "H-TF-01",
+      "question": "Pada dua dadu, kejadian jumlah mata dadu 7 dan 11 adalah kejadian saling lepas.",
+      "answer": true,
+      "explanation": "Tidak mungkin terjadi bersamaan",
+      "time_limit": 35
+    },
+    {
+      "id": "H-TF-02",
+      "question": "Peluang kejadian A ∪ B pada kejadian tidak saling lepas selalu lebih kecil dari P(A) + P(B).",
+      "answer": true,
+      "explanation": "Karena dikurangi irisan P(A ∩ B)",
+      "time_limit": 35
+    }
+  ],
+  "essay": [
+    {
+      "id": "H-ES-01",
+      "question": "Dua dadu dilempar bersamaan. Tentukan peluang jumlah mata dadu sama dengan 8!",
+      "answer": "P = \\frac{5}{36}",
+      "input_type": "math",
+      "time_limit": 70
+    },
+    {
+      "id": "H-ES-02",
+      "question": "Jelaskan mengapa kejadian muncul angka genap dan kelipatan 4 pada pelemparan dadu merupakan kejadian tidak saling lepas!",
+      "answer": "Karena angka 4 memenuhi kedua sifat tersebut (genap dan kelipatan 4).",
+      "input_type": "text",
+      "time_limit": 70
+    }
+  ]
+}

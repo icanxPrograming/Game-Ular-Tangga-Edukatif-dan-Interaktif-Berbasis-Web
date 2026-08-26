@@ -1,0 +1,35 @@
+{
+  "difficulty": "standard",
+  "multiple_choice": [
+    {
+      "id": "S-MC-01",
+      "question": "Skala peta 1 : 100.000 artinya 1 cm pada peta mewakili jarak sebenarnya …",
+      "options": [
+        "1 km",
+        "10 km",
+        "100 km"
+      ],
+      "answer": 0,
+      "explanation": "100.000 cm = 1.000 m = 1 km.",
+      "time_limit": 35
+    }
+  ],
+  "true_false": [
+    {
+      "id": "S-TF-01",
+      "question": "Angin laut bertiup dari darat ke laut pada malam hari.",
+      "answer": false,
+      "explanation": "Angin laut bertiup dari laut ke darat pada siang hari.",
+      "time_limit": 25
+    }
+  ],
+  "essay": [
+    {
+      "id": "S-ES-01",
+      "question": "Sebutkan 3 jenis batuan pembentuk litosfer!",
+      "answer": "Batuan beku, batuan sedimen, batuan metamorf",
+      "input_type": "text",
+      "time_limit": 45
+    }
+  ]
+}

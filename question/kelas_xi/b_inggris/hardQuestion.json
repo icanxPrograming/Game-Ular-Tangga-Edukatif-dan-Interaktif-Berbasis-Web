@@ -1,0 +1,35 @@
+{
+  "difficulty": "hard",
+  "multiple_choice": [
+    {
+      "id": "H-MC-01",
+      "question": "If I ___ higher marks, I would have studied at Harvard University.",
+      "options": [
+        "got",
+        "had gotten",
+        "have gotten"
+      ],
+      "answer": 1,
+      "explanation": "Third Conditional requires 'had + V3' in the if-clause.",
+      "time_limit": 45
+    }
+  ],
+  "true_false": [
+    {
+      "id": "H-TF-01",
+      "question": "Conditional type 2 expresses unreal or hypothetical situations in the present.",
+      "answer": true,
+      "explanation": "Type 2 represents imaginary present conditions.",
+      "time_limit": 30
+    }
+  ],
+  "essay": [
+    {
+      "id": "H-ES-01",
+      "question": "Complete the sentence: 'Hardly had he arrived ___ it started to rain.'",
+      "answer": "when",
+      "input_type": "text",
+      "time_limit": 50
+    }
+  ]
+}

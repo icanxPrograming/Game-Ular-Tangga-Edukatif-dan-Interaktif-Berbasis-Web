@@ -1,0 +1,35 @@
+{
+  "difficulty": "hard",
+  "multiple_choice": [
+    {
+      "id": "H-MC-01",
+      "question": "Teori struktur sosial yang membagi masyarakat berdasarkan tingkatan hierarki dinamakan …",
+      "options": [
+        "Diferensiasi Sosial",
+        "Stratifikasi Sosial",
+        "Mobilitas Sosial"
+      ],
+      "answer": 1,
+      "explanation": "Stratifikasi bertingkat (vertikal), diferensiasi sejajar (horisontal).",
+      "time_limit": 45
+    }
+  ],
+  "true_false": [
+    {
+      "id": "H-TF-01",
+      "question": "Auguste Comte dikenal sebagai Bapak Sosiologi Dunia.",
+      "answer": true,
+      "explanation": "Comte mencetuskan istilah sosiologi dan positivisme.",
+      "time_limit": 25
+    }
+  ],
+  "essay": [
+    {
+      "id": "H-ES-01",
+      "question": "Jelaskan perbedaan mobilitas sosial vertikal naik dan vertikal turun!",
+      "answer": "Vertikal naik mengalami peningkatan status, vertikal turun mengalami penurunan status.",
+      "input_type": "text",
+      "time_limit": 60
+    }
+  ]
+}

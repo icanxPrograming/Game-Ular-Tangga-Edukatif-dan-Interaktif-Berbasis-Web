@@ -1,0 +1,35 @@
+{
+  "difficulty": "easy",
+  "multiple_choice": [
+    {
+      "id": "E-MC-01",
+      "question": "Satuan Internasional (SI) untuk mengukur gaya adalah …",
+      "options": [
+        "Joule",
+        "Newton",
+        "Pascal"
+      ],
+      "answer": 1,
+      "explanation": "Gaya diukur dalam Newton (N).",
+      "time_limit": 30
+    }
+  ],
+  "true_false": [
+    {
+      "id": "E-TF-01",
+      "question": "Kecepatan merupakan besaran skalar.",
+      "answer": false,
+      "explanation": "Kecepatan adalah besaran vektor (memiliki arah).",
+      "time_limit": 20
+    }
+  ],
+  "essay": [
+    {
+      "id": "E-ES-01",
+      "question": "Tuliskan rumus Hukum II Newton!",
+      "answer": "F = m \\times a",
+      "input_type": "math",
+      "time_limit": 35
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "difficulty": "mystery",
+  "multiple_choice": [
+    {
+      "id": "M-MC-01",
+      "question": "Fenomena gunung api purba yang tenggelam di laut dinamakan …",
+      "options": [
+        "Guyot",
+        "Atol",
+        "Palung"
+      ],
+      "answer": 0,
+      "explanation": "Guyot adalah gunung api bawah laut yang puncaknya datar.",
+      "time_limit": 30
+    }
+  ],
+  "true_false": [
+    {
+      "id": "M-TF-01",
+      "question": "Pusat gempa bumi yang berada di bawah permukaan tanah disebut hiposentrum.",
+      "answer": true,
+      "explanation": "Hiposentrum di dalam bumi, episentrum di permukaan.",
+      "time_limit": 20
+    }
+  ],
+  "essay": [
+    {
+      "id": "M-ES-01",
+      "question": "Apa istilah geografis untuk batas wilayah pertemuan air sungai dan air laut?",
+      "answer": "Estuari",
+      "input_type": "text",
+      "time_limit": 30
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "difficulty": "easy",
+  "multiple_choice": [
+    {
+      "id": "E-MC-01",
+      "question": "Nilai dari sin(30°) adalah...",
+      "options": [
+        "1/2",
+        "1",
+        "0"
+      ],
+      "answer": 0,
+      "time_limit": 30,
+      "explanation": "sin(30°) = 1/2"
+    }
+  ],
+  "true_false": [
+    {
+      "id": "E-TF-01",
+      "question": "Cos(0°) bernilai 1.",
+      "answer": true,
+      "time_limit": 20,
+      "explanation": "cos(0°) = 1"
+    }
+  ],
+  "essay": [
+    {
+      "id": "E-ES-01",
+      "question": "Berapakah nilai dari tan(45°)?",
+      "answer": "1",
+      "input_type": "math",
+      "time_limit": 30,
+      "explanation": "tan(45°) = 1"
+    }
+  ]
+}

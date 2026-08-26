@@ -1,0 +1,35 @@
+{
+  "difficulty": "easy",
+  "multiple_choice": [
+    {
+      "id": "E-MC-01",
+      "question": "Inti masalah ekonomi yang dihadapi manusia adalah …",
+      "options": [
+        "Kebutuhan terbatas",
+        "Kelangkaan sumber daya",
+        "Uang melimpah"
+      ],
+      "answer": 1,
+      "explanation": "Kelangkaan (scarcity) terjadi saat kebutuhan > alat pemuas.",
+      "time_limit": 30
+    }
+  ],
+  "true_false": [
+    {
+      "id": "E-TF-01",
+      "question": "Hukum penawaran menyatakan jika harga naik maka jumlah barang yang ditawarkan naik.",
+      "answer": true,
+      "explanation": "Penawaran berbanding lurus dengan harga.",
+      "time_limit": 20
+    }
+  ],
+  "essay": [
+    {
+      "id": "E-ES-01",
+      "question": "Apa istilah ekonomi untuk biaya kesempatan yang dikorbankan?",
+      "answer": "Opportunity cost",
+      "input_type": "text",
+      "time_limit": 35
+    }
+  ]
+}

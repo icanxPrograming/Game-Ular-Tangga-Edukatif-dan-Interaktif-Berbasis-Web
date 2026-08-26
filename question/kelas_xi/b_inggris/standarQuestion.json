@@ -1,0 +1,35 @@
+{
+  "difficulty": "standard",
+  "multiple_choice": [
+    {
+      "id": "S-MC-01",
+      "question": "Choose the correct relative pronoun: 'The book ___ I bought yesterday is very interesting.'",
+      "options": [
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": 1,
+      "explanation": "'Which' is used for non-human objects like books.",
+      "time_limit": 40
+    }
+  ],
+  "true_false": [
+    {
+      "id": "S-TF-01",
+      "question": "Passive voice focuses on the action or receiver rather than the doer.",
+      "answer": true,
+      "explanation": "Passive voice emphasizes the object/action.",
+      "time_limit": 25
+    }
+  ],
+  "essay": [
+    {
+      "id": "S-ES-01",
+      "question": "Change this sentence to passive voice: 'They clean the room.'",
+      "answer": "The room is cleaned by them.",
+      "input_type": "text",
+      "time_limit": 60
+    }
+  ]
+}

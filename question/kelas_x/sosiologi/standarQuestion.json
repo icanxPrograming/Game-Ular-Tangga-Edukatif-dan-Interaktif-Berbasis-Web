@@ -1,0 +1,35 @@
+{
+  "difficulty": "standard",
+  "multiple_choice": [
+    {
+      "id": "S-MC-01",
+      "question": "Bentuk interaksi sosial yang bersifat mengarah pada persatuan dinamakan interaksi …",
+      "options": [
+        "Asosiatif",
+        "Disosiatif",
+        "Akulturasi"
+      ],
+      "answer": 0,
+      "explanation": "Asosiatif meliputi kerja sama, akomodasi, asimilasi.",
+      "time_limit": 35
+    }
+  ],
+  "true_false": [
+    {
+      "id": "S-TF-01",
+      "question": "Konflik sosial selalu berdampak negatif bagi perubahan masyarakat.",
+      "answer": false,
+      "explanation": "Konflik juga bisa mendorong integrasi dan perubahan positif.",
+      "time_limit": 25
+    }
+  ],
+  "essay": [
+    {
+      "id": "S-ES-01",
+      "question": "Apa istilah sosiologi untuk proses pembauran dua kebudayaan menjadi budaya baru?",
+      "answer": "Asimilasi",
+      "input_type": "text",
+      "time_limit": 35
+    }
+  ]
+}

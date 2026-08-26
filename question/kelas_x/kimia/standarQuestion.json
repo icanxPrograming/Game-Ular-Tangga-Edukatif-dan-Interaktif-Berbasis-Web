@@ -1,0 +1,35 @@
+{
+  "difficulty": "standard",
+  "multiple_choice": [
+    {
+      "id": "S-MC-01",
+      "question": "Nilai pH untuk larutan asam bersifat …",
+      "options": [
+        "Kurang dari 7",
+        "Sama dengan 7",
+        "Lebih dari 7"
+      ],
+      "answer": 0,
+      "explanation": "pH < 7 asam, pH = 7 netral, pH > 7 basa.",
+      "time_limit": 35
+    }
+  ],
+  "true_false": [
+    {
+      "id": "S-TF-01",
+      "question": "Reaksi eksoterm melipatgandakan dan menyerap kalor dari lingkungan.",
+      "answer": false,
+      "explanation": "Reaksi eksoterm melepaskan kalor ke lingkungan.",
+      "time_limit": 25
+    }
+  ],
+  "essay": [
+    {
+      "id": "S-ES-01",
+      "question": "Berapakah jumlah atom hidrogen dalam 1 molekul asam sulfat (H2SO4)?",
+      "answer": "2",
+      "input_type": "math",
+      "time_limit": 35
+    }
+  ]
+}

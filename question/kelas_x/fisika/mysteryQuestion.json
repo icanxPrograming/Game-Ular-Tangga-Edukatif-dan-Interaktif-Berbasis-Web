@@ -1,0 +1,35 @@
+{
+  "difficulty": "mystery",
+  "multiple_choice": [
+    {
+      "id": "M-MC-01",
+      "question": "Cahaya mengalami pembelokan saat melewati celah sempit. Fenomena ini disebut …",
+      "options": [
+        "Refraksi",
+        "Difraksi",
+        "Dispersi"
+      ],
+      "answer": 1,
+      "explanation": "Difraksi adalah pelengkungan gelombang di celah.",
+      "time_limit": 30
+    }
+  ],
+  "true_false": [
+    {
+      "id": "M-TF-01",
+      "question": "Kecepatan cahaya di ruang hampa adalah 3 x 10^8 m/s.",
+      "answer": true,
+      "explanation": "Nilai c konstan mendekati 3 x 10^8 m/s.",
+      "time_limit": 20
+    }
+  ],
+  "essay": [
+    {
+      "id": "M-ES-01",
+      "question": "Siapakah ilmuwan yang mengemukakan Teori Relativitas Khusus?",
+      "answer": "Albert Einstein",
+      "input_type": "text",
+      "time_limit": 30
+    }
+  ]
+}

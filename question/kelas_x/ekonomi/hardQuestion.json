@@ -1,0 +1,35 @@
+{
+  "difficulty": "hard",
+  "multiple_choice": [
+    {
+      "id": "H-MC-01",
+      "question": "Pasar dengan sedikit penjual yang menguasai pasar dinamakan pasar …",
+      "options": [
+        "Monopoli",
+        "Oligopoli",
+        "Monopsoni"
+      ],
+      "answer": 1,
+      "explanation": "Oligopoli dikuasai oleh beberapa produsen besar.",
+      "time_limit": 40
+    }
+  ],
+  "true_false": [
+    {
+      "id": "H-TF-01",
+      "question": "Kurva Indiferens menggambarkan kombinasi konsumsi dua barang yang memberikan kepuasan sama.",
+      "answer": true,
+      "explanation": "Indifference curve menunjukkan tingkat kepuasan konstan.",
+      "time_limit": 30
+    }
+  ],
+  "essay": [
+    {
+      "id": "H-ES-01",
+      "question": "Jelaskan perbedaan inflasi demand-pull dan cost-push!",
+      "answer": "Demand-pull dipicu kenaikan permintaan, cost-push dipicu kenaikan biaya produksi.",
+      "input_type": "text",
+      "time_limit": 60
+    }
+  ]
+}

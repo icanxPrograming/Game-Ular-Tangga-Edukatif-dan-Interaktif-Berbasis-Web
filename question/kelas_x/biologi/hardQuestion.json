@@ -1,0 +1,35 @@
+{
+  "difficulty": "hard",
+  "multiple_choice": [
+    {
+      "id": "H-MC-01",
+      "question": "Enzim yang berperan memotong rantai DNA pada rekayasa genetika adalah …",
+      "options": [
+        "DNA Ligase",
+        "Endonuklease Restriksi",
+        "DNA Polimerase"
+      ],
+      "answer": 1,
+      "explanation": "Enzim restriksi memotong pita DNA spesifik.",
+      "time_limit": 45
+    }
+  ],
+  "true_false": [
+    {
+      "id": "H-TF-01",
+      "question": "Siklus Krebs terjadi di dalam matriks mitokondria.",
+      "answer": true,
+      "explanation": "Tahap respirasi aerobik ini berlangsung di matriks.",
+      "time_limit": 30
+    }
+  ],
+  "essay": [
+    {
+      "id": "H-ES-01",
+      "question": "Jelaskan hukum Mendel I secara singkat!",
+      "answer": "Hukum pemisahan gen secara bebas pada pembentukan gamet.",
+      "input_type": "text",
+      "time_limit": 60
+    }
+  ]
+}

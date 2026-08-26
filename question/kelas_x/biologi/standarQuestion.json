@@ -1,0 +1,35 @@
+{
+  "difficulty": "standard",
+  "multiple_choice": [
+    {
+      "id": "S-MC-01",
+      "question": "Proses pembelahan sel yang menghasilkan 4 sel anakan haploid adalah …",
+      "options": [
+        "Mitosis",
+        "Meiosis",
+        "Amitosis"
+      ],
+      "answer": 1,
+      "explanation": "Meiosis menghasilkan sel gamet haploid.",
+      "time_limit": 35
+    }
+  ],
+  "true_false": [
+    {
+      "id": "S-TF-01",
+      "question": "Fotosintesis menghasilkan glukosa dan gas oksigen.",
+      "answer": true,
+      "explanation": "6CO2 + 6H2O -> C6H12O6 + 6O2.",
+      "time_limit": 20
+    }
+  ],
+  "essay": [
+    {
+      "id": "S-ES-01",
+      "question": "Tuliskan organ tubuh utama pencernaan protein pada manusia!",
+      "answer": "Lambung",
+      "input_type": "text",
+      "time_limit": 30
+    }
+  ]
+}

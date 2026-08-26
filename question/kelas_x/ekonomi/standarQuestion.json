@@ -1,0 +1,35 @@
+{
+  "difficulty": "standard",
+  "multiple_choice": [
+    {
+      "id": "S-MC-01",
+      "question": "Kebijakan pemerintah menurunkan suku bunga bank dinamakan kebijakan …",
+      "options": [
+        "Fiskal",
+        "Moneter",
+        "Perdagangan"
+      ],
+      "answer": 1,
+      "explanation": "Kebijakan moneter diatur oleh Bank Sentral.",
+      "time_limit": 40
+    }
+  ],
+  "true_false": [
+    {
+      "id": "S-TF-01",
+      "question": "Inflasi adalah penurunan harga barang secara terus-menerus.",
+      "answer": false,
+      "explanation": "Inflasi adalah kenaikan harga umum secara terus-menerus.",
+      "time_limit": 20
+    }
+  ],
+  "essay": [
+    {
+      "id": "S-ES-01",
+      "question": "Tuliskan rumus pendapatan nasional pendekatan pengeluaran!",
+      "answer": "Y = C + I + G + (X - M)",
+      "input_type": "math",
+      "time_limit": 50
+    }
+  ]
+}

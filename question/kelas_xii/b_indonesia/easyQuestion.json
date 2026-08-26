@@ -1,0 +1,47 @@
+{
+  "difficulty": "easy",
+  "multiple_choice": [
+    {
+      "id": "E-MC-01",
+      "question": "Teks yang berisi uraian tentang hasil pengamatan atau observasi disebut …",
+      "options": [
+        "Teks Eksposisi",
+        "Teks Laporan Hasil Observasi",
+        "Teks Narasi"
+      ],
+      "answer": 1,
+      "explanation": "LHO menyajikan fakta hasil pengamatan secara sistematis.",
+      "time_limit": 30
+    },
+    {
+      "id": "E-MC-02",
+      "question": "Kata yang bermakna sebenarnya atau tidak bermakna kiasan disebut makna …",
+      "options": [
+        "Denotatif",
+        "Konotatif",
+        "Kiasan"
+      ],
+      "answer": 0,
+      "explanation": "Makna denotatif adalah makna lugas/sebenarnya.",
+      "time_limit": 30
+    }
+  ],
+  "true_false": [
+    {
+      "id": "E-TF-01",
+      "question": "Kalimat fakta dapat dibuktikan kebenarannya secara objektif.",
+      "answer": true,
+      "explanation": "Fakta didasarkan pada data/kenyataan aktual.",
+      "time_limit": 20
+    }
+  ],
+  "essay": [
+    {
+      "id": "E-ES-01",
+      "question": "Jelaskan perbedaan antara fakta dan opini secara singkat!",
+      "answer": "Fakta dapat dibuktikan kebenarannya secara objektif, sedangkan opini merupakan pendapat pribadi.",
+      "input_type": "text",
+      "time_limit": 45
+    }
+  ]
+}

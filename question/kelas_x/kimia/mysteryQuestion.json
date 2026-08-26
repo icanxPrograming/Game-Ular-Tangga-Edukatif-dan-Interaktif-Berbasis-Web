@@ -1,0 +1,35 @@
+{
+  "difficulty": "mystery",
+  "multiple_choice": [
+    {
+      "id": "M-MC-01",
+      "question": "Partikel subatomik yang bermuatan negatif adalah …",
+      "options": [
+        "Proton",
+        "Elektron",
+        "Neutron"
+      ],
+      "answer": 1,
+      "explanation": "Elektron bermuatan -1.",
+      "time_limit": 25
+    }
+  ],
+  "true_false": [
+    {
+      "id": "M-TF-01",
+      "question": "Nomor atom menunjukkan jumlah proton dalam inti atom.",
+      "answer": true,
+      "explanation": "Nomor atom Z = jumlah proton.",
+      "time_limit": 20
+    }
+  ],
+  "essay": [
+    {
+      "id": "M-ES-01",
+      "question": "Siapakah penemu tabel periodik unsur modern?",
+      "answer": "Dmitri Mendeleev",
+      "input_type": "text",
+      "time_limit": 30
+    }
+  ]
+}

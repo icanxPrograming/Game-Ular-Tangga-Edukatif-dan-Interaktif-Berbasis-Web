@@ -1,0 +1,35 @@
+{
+  "difficulty": "standard",
+  "multiple_choice": [
+    {
+      "id": "S-MC-01",
+      "question": "Struktur teks Laporan Hasil Observasi yang berisi kalimat definisi umum terletak di bagian …",
+      "options": [
+        "Deskripsi Bagian",
+        "Pernyataan Umum / Definisi",
+        "Deskripsi Manfaat"
+      ],
+      "answer": 1,
+      "explanation": "Pernyataan umum berisi pengertian dasar objek.",
+      "time_limit": 40
+    }
+  ],
+  "true_false": [
+    {
+      "id": "S-TF-01",
+      "question": "Teks eksposisi bertujuan untuk membujuk pembaca membeli suatu produk.",
+      "answer": false,
+      "explanation": "Teks eksposisi bertujuan memberikan informasi/pengetahuan.",
+      "time_limit": 25
+    }
+  ],
+  "essay": [
+    {
+      "id": "S-ES-01",
+      "question": "Tuliskan 3 struktur utama dalam teks laporan hasil observasi!",
+      "answer": "Pernyataan umum, deskripsi bagian, deskripsi manfaat.",
+      "input_type": "text",
+      "time_limit": 60
+    }
+  ]
+}

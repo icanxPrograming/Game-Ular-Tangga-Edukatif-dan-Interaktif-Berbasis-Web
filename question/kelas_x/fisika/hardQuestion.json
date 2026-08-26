@@ -1,0 +1,35 @@
+{
+  "difficulty": "hard",
+  "multiple_choice": [
+    {
+      "id": "H-MC-01",
+      "question": "Proses termodinamika yang berlangsung pada volume konstan disebut …",
+      "options": [
+        "Isotermal",
+        "Isobarik",
+        "Isokhorik"
+      ],
+      "answer": 2,
+      "explanation": "Isokhorik terjadi pada volume konstan (dV=0).",
+      "time_limit": 45
+    }
+  ],
+  "true_false": [
+    {
+      "id": "H-TF-01",
+      "question": "Indeks bias medium selalu lebih besar atau sama dengan 1.",
+      "answer": true,
+      "explanation": "n = c/v, kecepatan cahaya v <= c.",
+      "time_limit": 30
+    }
+  ],
+  "essay": [
+    {
+      "id": "H-ES-01",
+      "question": "Tuliskan persamaan gelombang berdiri atau bunyi efek Doppler!",
+      "answer": "fp = \\frac{v \\pm vp}{v \\pm vs} \\times fs",
+      "input_type": "math",
+      "time_limit": 60
+    }
+  ]
+}

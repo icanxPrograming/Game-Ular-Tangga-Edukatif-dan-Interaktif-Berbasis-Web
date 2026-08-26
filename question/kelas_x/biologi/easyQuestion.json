@@ -1,0 +1,35 @@
+{
+  "difficulty": "easy",
+  "multiple_choice": [
+    {
+      "id": "E-MC-01",
+      "question": "Organel sel yang berfungsi sebagai tempat terjadinya respirasi sel adalah …",
+      "options": [
+        "Kloroplas",
+        "Mitokondria",
+        "Ribosom"
+      ],
+      "answer": 1,
+      "explanation": "Mitokondria pembentuk energi ATP.",
+      "time_limit": 30
+    }
+  ],
+  "true_false": [
+    {
+      "id": "E-TF-01",
+      "question": "Sel tumbuhan memiliki dinding sel sedangkan sel hewan tidak.",
+      "answer": true,
+      "explanation": "Dinding sel memberikan bentuk kaku pada sel tumbuhan.",
+      "time_limit": 20
+    }
+  ],
+  "essay": [
+    {
+      "id": "E-ES-01",
+      "question": "Sebutkan nama pigmen hijau pada daun!",
+      "answer": "Klorofil",
+      "input_type": "text",
+      "time_limit": 30
+    }
+  ]
+}

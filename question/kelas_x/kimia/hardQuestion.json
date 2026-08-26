@@ -1,0 +1,35 @@
+{
+  "difficulty": "hard",
+  "multiple_choice": [
+    {
+      "id": "H-MC-01",
+      "question": "Bentuk geometri molekul dari ikatan CH4 (Mekana) adalah …",
+      "options": [
+        "Tetrahedral",
+        "Trigonal Planar",
+        "Linear"
+      ],
+      "answer": 0,
+      "explanation": "CH4 memiliki hibridisasi sp3 berpola tetrahedral.",
+      "time_limit": 45
+    }
+  ],
+  "true_false": [
+    {
+      "id": "H-TF-01",
+      "question": "Sistem penyangga (buffer) mampu mempertahankan nilai pH larutan.",
+      "answer": true,
+      "explanation": "Buffer menahan perubahan pH saat ditambah sedikit asam/basa.",
+      "time_limit": 30
+    }
+  ],
+  "essay": [
+    {
+      "id": "H-ES-01",
+      "question": "Tuliskan konfigurasi elektron atom Karbon (nomor atom 6)!",
+      "answer": "1s2 2s2 2p2",
+      "input_type": "text",
+      "time_limit": 50
+    }
+  ]
+}

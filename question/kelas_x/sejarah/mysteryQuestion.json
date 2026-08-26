@@ -1,0 +1,35 @@
+{
+  "difficulty": "mystery",
+  "multiple_choice": [
+    {
+      "id": "M-MC-01",
+      "question": "Candi Borobudur dibangun pada masa kejayaan Dinasti …",
+      "options": [
+        "Sanjaya",
+        "Syailendra",
+        "Isyana"
+      ],
+      "answer": 1,
+      "explanation": "Dinasti Syailendra beragama Buddha Mahayana.",
+      "time_limit": 30
+    }
+  ],
+  "true_false": [
+    {
+      "id": "M-TF-01",
+      "question": "Patih Patih Gajah Mada terkenal dengan ikrar Sumpah Palapa.",
+      "answer": true,
+      "explanation": "Sumpah Palapa berikrar menyatukan Nusantara.",
+      "time_limit": 20
+    }
+  ],
+  "essay": [
+    {
+      "id": "M-ES-01",
+      "question": "Apa nama pertempuran besar di Surabaya yang diperingati sebagai Hari Pahlawan?",
+      "answer": "Pertempuran 10 November 1945",
+      "input_type": "text",
+      "time_limit": 35
+    }
+  ]
+}

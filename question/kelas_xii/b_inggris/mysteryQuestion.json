@@ -1,0 +1,35 @@
+{
+  "difficulty": "mystery",
+  "multiple_choice": [
+    {
+      "id": "M-MC-01",
+      "question": "What does the idiom 'break a leg' mean?",
+      "options": [
+        "Get injured",
+        "Good luck",
+        "Stop working"
+      ],
+      "answer": 1,
+      "explanation": "'Break a leg' means good luck in theatrical context.",
+      "time_limit": 25
+    }
+  ],
+  "true_false": [
+    {
+      "id": "M-TF-01",
+      "question": "The word 'metaphor' means comparing two things using 'like' or 'as'.",
+      "answer": false,
+      "explanation": "Comparing using 'like' or 'as' is a simile.",
+      "time_limit": 25
+    }
+  ],
+  "essay": [
+    {
+      "id": "M-ES-01",
+      "question": "What is the synonym of the word 'abundant'?",
+      "answer": "plentiful",
+      "input_type": "text",
+      "time_limit": 35
+    }
+  ]
+}

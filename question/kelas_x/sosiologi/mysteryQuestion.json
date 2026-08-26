@@ -1,0 +1,35 @@
+{
+  "difficulty": "mystery",
+  "multiple_choice": [
+    {
+      "id": "M-MC-01",
+      "question": "Suatu perilaku yang tidak sesuai dengan norma dan nilai sosial dinamakan …",
+      "options": [
+        "Penyimpangan sosial",
+        "Pengendalian sosial",
+        "Tertib sosial"
+      ],
+      "answer": 0,
+      "explanation": "Penyimpangan sosial melanggar norma kelompok.",
+      "time_limit": 30
+    }
+  ],
+  "true_false": [
+    {
+      "id": "M-TF-01",
+      "question": "Norma hukum memiliki sanksi yang paling tegas dibanding norma lain.",
+      "answer": true,
+      "explanation": "Norma hukum mengikat dan memiliki sanksi pidana/denda resmi.",
+      "time_limit": 20
+    }
+  ],
+  "essay": [
+    {
+      "id": "M-ES-01",
+      "question": "Sebutkan nama ilmuwan pencetus istilah Sosiologi!",
+      "answer": "Auguste Comte",
+      "input_type": "text",
+      "time_limit": 30
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "difficulty": "mystery",
+  "multiple_choice": [
+    {
+      "id": "M-MC-01",
+      "question": "Bapak ilmu ekonomi dunia adalah …",
+      "options": [
+        "Adam Smith",
+        "David Ricardo",
+        "J.M. Keynes"
+      ],
+      "answer": 0,
+      "explanation": "Adam Smith menulis The Wealth of Nations (1776).",
+      "time_limit": 30
+    }
+  ],
+  "true_false": [
+    {
+      "id": "M-TF-01",
+      "question": "Barang inferior adalah barang yang permintaannya naik saat pendapatan konsumen naik.",
+      "answer": false,
+      "explanation": "Permintaan barang inferior justru turun saat pendapatan naik.",
+      "time_limit": 25
+    }
+  ],
+  "essay": [
+    {
+      "id": "M-ES-01",
+      "question": "Sebutkan nama Bank Sentral Negara Republik Indonesia!",
+      "answer": "Bank Indonesia",
+      "input_type": "text",
+      "time_limit": 30
+    }
+  ]
+}

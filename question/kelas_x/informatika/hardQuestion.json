@@ -1,0 +1,35 @@
+{
+  "difficulty": "hard",
+  "multiple_choice": [
+    {
+      "id": "H-MC-01",
+      "question": "Kompleksitas waktu rata-rata dari algoritma Quicksort adalah …",
+      "options": [
+        "O(n)",
+        "O(n log n)",
+        "O(n^2)"
+      ],
+      "answer": 1,
+      "explanation": "Quicksort rata-rata berkinerja O(n log n).",
+      "time_limit": 45
+    }
+  ],
+  "true_false": [
+    {
+      "id": "H-TF-01",
+      "question": "Alamat IPv4 terdiri dari 128 bit angka biner.",
+      "answer": false,
+      "explanation": "IPv4 terdiri dari 32 bit, sedangkan IPv128 adalah 128 bit.",
+      "time_limit": 30
+    }
+  ],
+  "essay": [
+    {
+      "id": "H-ES-01",
+      "question": "Tuliskan urutan 5 lapisan pada model TCP/IP!",
+      "answer": "Application, Transport, Network, Data Link, Physical",
+      "input_type": "text",
+      "time_limit": 60
+    }
+  ]
+}

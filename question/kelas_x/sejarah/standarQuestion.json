@@ -1,0 +1,35 @@
+{
+  "difficulty": "standard",
+  "multiple_choice": [
+    {
+      "id": "S-MC-01",
+      "question": "Kerajaan Hindu tertua di Indonesia yang dibuktikan dengan penemuan prasasti Yupa adalah …",
+      "options": [
+        "Tarumanegara",
+        "Kutai",
+        "Majapahit"
+      ],
+      "answer": 1,
+      "explanation": "Kerajaan Kutai di Kaltim berdiri abad ke-4 M.",
+      "time_limit": 40
+    }
+  ],
+  "true_false": [
+    {
+      "id": "S-TF-01",
+      "question": "Sumpah Pemuda dicetuskan pada tanggal 28 Oktober 1928.",
+      "answer": true,
+      "explanation": "Kongres Pemuda II melahirkan Sumpah Pemuda.",
+      "time_limit": 25
+    }
+  ],
+  "essay": [
+    {
+      "id": "S-ES-01",
+      "question": "Sebutkan 3 tokoh pendiri BPUPKI yang mengusulkan rumusan dasar negara!",
+      "answer": "Muhammad Yamin, Soepomo, Soekarno",
+      "input_type": "text",
+      "time_limit": 50
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "difficulty": "mystery",
+  "multiple_choice": [
+    {
+      "id": "M-MC-01",
+      "question": "Konsep pemrograman berorientasi objek yang menyembunyikan detail detail implementasi disebut …",
+      "options": [
+        "Encapsulation",
+        "Polymorphism",
+        "Inheritance"
+      ],
+      "answer": 0,
+      "explanation": "Encapsulation membungkus data dan metode.",
+      "time_limit": 30
+    }
+  ],
+  "true_false": [
+    {
+      "id": "M-TF-01",
+      "question": "SQL merupakan bahasa pemrograman khusus untuk kecerdasan buatan.",
+      "answer": false,
+      "explanation": "SQL digunakan untuk pengelolaan basis data relasional.",
+      "time_limit": 25
+    }
+  ],
+  "essay": [
+    {
+      "id": "M-ES-01",
+      "question": "Sebutkan 3 pilar utama dalam keamanan informasi (CIA Triad)!",
+      "answer": "Confidentiality, Integrity, Availability",
+      "input_type": "text",
+      "time_limit": 45
+    }
+  ]
+}

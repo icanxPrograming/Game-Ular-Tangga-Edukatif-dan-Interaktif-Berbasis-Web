@@ -1,0 +1,35 @@
+{
+  "difficulty": "standard",
+  "multiple_choice": [
+    {
+      "id": "S-MC-01",
+      "question": "Energi yang dimiliki benda karena kedudukannya/ketinggiannya disebut energi …",
+      "options": [
+        "Kinetik",
+        "Potensial",
+        "Mekanik"
+      ],
+      "answer": 1,
+      "explanation": "Ep = m . g . h.",
+      "time_limit": 35
+    }
+  ],
+  "true_false": [
+    {
+      "id": "S-TF-01",
+      "question": "Hukum Kekekalan Energi menyatakan energi dapat diciptakan dan dimusnahkan.",
+      "answer": false,
+      "explanation": "Energi tidak dapat diciptakan atau dimusnahkan, hanya berubah bentuk.",
+      "time_limit": 25
+    }
+  ],
+  "essay": [
+    {
+      "id": "S-ES-01",
+      "question": "Sebuah benda bermassa 2 kg bergerak dengan kecepatan 4 m/s. Hitung energi kinetiknya!",
+      "answer": "Ek = \\frac{1}{2} \\times 2 \\times 4^2 = 16 Joule",
+      "input_type": "math",
+      "time_limit": 50
+    }
+  ]
+}

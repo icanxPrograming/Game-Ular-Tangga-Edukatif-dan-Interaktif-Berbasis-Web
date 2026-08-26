@@ -1,0 +1,35 @@
+{
+  "difficulty": "easy",
+  "multiple_choice": [
+    {
+      "id": "E-MC-01",
+      "question": "Hubungan timbal balik antara individu dengan individu atau kelompok dinamakan …",
+      "options": [
+        "Interaksi Sosial",
+        "Sosialisasi",
+        "Gejala Sosial"
+      ],
+      "answer": 0,
+      "explanation": "Interaksi sosial syarat utama kehidupan bermasyarakat.",
+      "time_limit": 30
+    }
+  ],
+  "true_false": [
+    {
+      "id": "E-TF-01",
+      "question": "Keluarga merupakan agen sosialisasi primer.",
+      "answer": true,
+      "explanation": "Sosialisasi primer pertama kali diterima di keluarga.",
+      "time_limit": 20
+    }
+  ],
+  "essay": [
+    {
+      "id": "E-ES-01",
+      "question": "Sebutkan 2 syarat terjadinya interaksi sosial!",
+      "answer": "Kontak sosial dan komunikasi",
+      "input_type": "text",
+      "time_limit": 40
+    }
+  ]
+}

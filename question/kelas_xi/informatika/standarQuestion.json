@@ -1,0 +1,35 @@
+{
+  "difficulty": "standard",
+  "multiple_choice": [
+    {
+      "id": "S-MC-01",
+      "question": "Struktur data linier yang menerapkan prinsip LIFO (Last In First Out) adalah …",
+      "options": [
+        "Queue",
+        "Stack",
+        "Array"
+      ],
+      "answer": 1,
+      "explanation": "Stack menggunakan prinsip LIFO.",
+      "time_limit": 40
+    }
+  ],
+  "true_false": [
+    {
+      "id": "S-TF-01",
+      "question": "Algoritma pencarian Binary Search memerlukan data yang sudah terurut.",
+      "answer": true,
+      "explanation": "Binary search memerlukan array yang sudah tersortir.",
+      "time_limit": 25
+    }
+  ],
+  "essay": [
+    {
+      "id": "S-ES-01",
+      "question": "Apakah kepanjangan dari istilah HTTP dalam protokol jaringan?",
+      "answer": "Hypertext Transfer Protocol",
+      "input_type": "text",
+      "time_limit": 45
+    }
+  ]
+}

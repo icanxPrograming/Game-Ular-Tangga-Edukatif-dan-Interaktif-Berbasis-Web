@@ -1,0 +1,35 @@
+{
+  "difficulty": "hard",
+  "multiple_choice": [
+    {
+      "id": "H-MC-01",
+      "question": "Perjanjian persetujuan pengakuan kedaulatan RI oleh Belanda dilakukan dalam konferensi …",
+      "options": [
+        "Renville",
+        "Linggarjati",
+        "Konferensi Meja Bundar (KMB)"
+      ],
+      "answer": 2,
+      "explanation": "KMB digelar di Den Haag pada akhir 1949.",
+      "time_limit": 45
+    }
+  ],
+  "true_false": [
+    {
+      "id": "H-TF-01",
+      "question": "Tanam Paksa (Cultuurstelsel) diberlakukan di bawah pimpinan Van den Bosch.",
+      "answer": true,
+      "explanation": "Van den Bosch mengenalkan sistem tanam paksa pada 1830.",
+      "time_limit": 30
+    }
+  ],
+  "essay": [
+    {
+      "id": "H-ES-01",
+      "question": "Jelaskan latar belakang terjadinya peristiwa Rengasdengklok!",
+      "answer": "Perbedaan pendapat antara golongan muda dan tua mengenai waktu proklamasi.",
+      "input_type": "text",
+      "time_limit": 60
+    }
+  ]
+}

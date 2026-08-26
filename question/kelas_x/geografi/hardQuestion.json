@@ -1,0 +1,35 @@
+{
+  "difficulty": "hard",
+  "multiple_choice": [
+    {
+      "id": "H-MC-01",
+      "question": "Tipe iklim Koppen dengan simbol 'Af' mewakili wilayah iklim …",
+      "options": [
+        "Hujan Tropis",
+        "Sabana Tropis",
+        "Gurun Kering"
+      ],
+      "answer": 0,
+      "explanation": "Af adalah iklim hutan hujan tropis basah.",
+      "time_limit": 40
+    }
+  ],
+  "true_false": [
+    {
+      "id": "H-TF-01",
+      "question": "Pertemuan dua lempeng tektonik yang saling menjauh disebut batas konvergen.",
+      "answer": false,
+      "explanation": "Saling menjauh disebut batas divergen.",
+      "time_limit": 30
+    }
+  ],
+  "essay": [
+    {
+      "id": "H-ES-01",
+      "question": "Jelaskan fenomena El Nino dan dampaknya bagi cuaca di Indonesia!",
+      "answer": "Pemanasan suhu permukaan laut Pasifik yang menyebabkan kekeringan di Indonesia.",
+      "input_type": "text",
+      "time_limit": 60
+    }
+  ]
+}

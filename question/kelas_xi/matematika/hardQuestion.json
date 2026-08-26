@@ -1,0 +1,36 @@
+{
+  "difficulty": "hard",
+  "multiple_choice": [
+    {
+      "id": "H-MC-01",
+      "question": "Hasil dari ∫ (3x^2) dx dari x=0 hingga x=2 adalah...",
+      "options": [
+        "8",
+        "6",
+        "4"
+      ],
+      "answer": 0,
+      "time_limit": 45,
+      "explanation": "[x^3] dari 0 ke 2 = 8"
+    }
+  ],
+  "true_false": [
+    {
+      "id": "H-TF-01",
+      "question": "Vektor (1,2) tegak lurus dengan (-2,1).",
+      "answer": true,
+      "time_limit": 30,
+      "explanation": "1(-2) + 2(1) = 0"
+    }
+  ],
+  "essay": [
+    {
+      "id": "H-ES-01",
+      "question": "Hitung turunan dari f(x) = 5x^3 pada x=1!",
+      "answer": "15",
+      "input_type": "math",
+      "time_limit": 45,
+      "explanation": "f'(x) = 15x^2 => 15(1) = 15"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "difficulty": "easy",
+  "multiple_choice": [
+    {
+      "id": "E-MC-01",
+      "question": "Which tense is used to express general truths or daily habits?",
+      "options": [
+        "Simple Present Tense",
+        "Simple Past Tense",
+        "Future Tense"
+      ],
+      "answer": 0,
+      "explanation": "Simple Present Tense describes habits and facts.",
+      "time_limit": 30
+    },
+    {
+      "id": "E-MC-02",
+      "question": "What is the past form (V2) of the verb 'go'?",
+      "options": [
+        "Gone",
+        "Went",
+        "Going"
+      ],
+      "answer": 1,
+      "explanation": "Go - Went - Gone.",
+      "time_limit": 30
+    }
+  ],
+  "true_false": [
+    {
+      "id": "E-TF-01",
+      "question": "'She write a letter every day' is a grammatically correct sentence.",
+      "answer": false,
+      "explanation": "Subject 'She' requires 'writes' in Simple Present Tense.",
+      "time_limit": 20
+    }
+  ],
+  "essay": [
+    {
+      "id": "E-ES-01",
+      "question": "Write the plural form of the noun 'child'!",
+      "answer": "children",
+      "input_type": "text",
+      "time_limit": 30
+    }
+  ]
+}

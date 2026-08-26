@@ -1,0 +1,35 @@
+{
+  "difficulty": "hard",
+  "multiple_choice": [
+    {
+      "id": "H-MC-01",
+      "question": "Ciri kebahasaan teks prosedur yang memuat kata kerja perintah disebut verba …",
+      "options": [
+        "Material",
+        "Imperatif",
+        "Relasional"
+      ],
+      "answer": 1,
+      "explanation": "Verba imperatif adalah kata kerja yang memberikan perintah.",
+      "time_limit": 45
+    }
+  ],
+  "true_false": [
+    {
+      "id": "H-TF-01",
+      "question": "Penggunaan konjungsi temporal berfungsi menunjukkan urutan waktu dalam teks.",
+      "answer": true,
+      "explanation": "Konjungsi temporal seperti 'kemudian', 'setelah itu' menandai urutan waktu.",
+      "time_limit": 30
+    }
+  ],
+  "essay": [
+    {
+      "id": "H-ES-01",
+      "question": "Jelaskan fungsi majas personifikasi dalam teks puisi!",
+      "answer": "Memberikan sifat-sifat manusia pada benda mati agar lebih hidup.",
+      "input_type": "text",
+      "time_limit": 60
+    }
+  ]
+}

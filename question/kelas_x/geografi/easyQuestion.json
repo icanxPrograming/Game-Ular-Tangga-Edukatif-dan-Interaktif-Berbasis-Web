@@ -1,0 +1,35 @@
+{
+  "difficulty": "easy",
+  "multiple_choice": [
+    {
+      "id": "E-MC-01",
+      "question": "Lapisan batuan penyusun kerak bumi dinamakan …",
+      "options": [
+        "Atmosfer",
+        "Litosfer",
+        "Hidrosfer"
+      ],
+      "answer": 1,
+      "explanation": "Litosfer adalah lapisan batuan pembentuk kulit bumi.",
+      "time_limit": 30
+    }
+  ],
+  "true_false": [
+    {
+      "id": "E-TF-01",
+      "question": "Garis khatulistiwa membagi bumi menjadi belahan utara dan selatan.",
+      "answer": true,
+      "explanation": "Khatulistiwa adalah garis lintang 0 derajat.",
+      "time_limit": 20
+    }
+  ],
+  "essay": [
+    {
+      "id": "E-ES-01",
+      "question": "Sebutkan nama galaksi tempat tata surya kita berada!",
+      "answer": "Bima Sakti",
+      "input_type": "text",
+      "time_limit": 30
+    }
+  ]
+}

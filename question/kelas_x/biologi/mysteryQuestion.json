@@ -1,0 +1,35 @@
+{
+  "difficulty": "mystery",
+  "multiple_choice": [
+    {
+      "id": "M-MC-01",
+      "question": "Hormon tumbuhan yang merangsang pematangan buah adalah …",
+      "options": [
+        "Auksin",
+        "Gas Etilen",
+        "Giberelin"
+      ],
+      "answer": 1,
+      "explanation": "Gas etilen memicu pematangan buah.",
+      "time_limit": 30
+    }
+  ],
+  "true_false": [
+    {
+      "id": "M-TF-01",
+      "question": "Virus tergolong makhluk hidup seluler sempurna.",
+      "answer": false,
+      "explanation": "Virus adalah aseluler (bukan sel).",
+      "time_limit": 20
+    }
+  ],
+  "essay": [
+    {
+      "id": "M-ES-01",
+      "question": "Sebutkan nama latin spesies manusia modern!",
+      "answer": "Homo sapiens",
+      "input_type": "text",
+      "time_limit": 30
+    }
+  ]
+}

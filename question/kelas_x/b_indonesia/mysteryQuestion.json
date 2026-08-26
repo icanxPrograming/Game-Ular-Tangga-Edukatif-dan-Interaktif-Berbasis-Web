@@ -1,0 +1,35 @@
+{
+  "difficulty": "mystery",
+  "multiple_choice": [
+    {
+      "id": "M-MC-01",
+      "question": "Inti permasalahan yang dibahas dalam sebuah paragraf disebut …",
+      "options": [
+        "Ide pokok",
+        "Kalimat penjelas",
+        "Kesimpulan"
+      ],
+      "answer": 0,
+      "explanation": "Gagasan utama/ide pokok menjadi fokus pembahasan.",
+      "time_limit": 30
+    }
+  ],
+  "true_false": [
+    {
+      "id": "M-TF-01",
+      "question": "Penggunaan ejaan dan tanda baca baku tidak mempengaruhi kejelasan makna kalimat.",
+      "answer": false,
+      "explanation": "Tanda baca mempengaruhi intonasi dan makna pesan.",
+      "time_limit": 25
+    }
+  ],
+  "essay": [
+    {
+      "id": "M-ES-01",
+      "question": "Apa nama kalimat yang mengandung ide pokok dalam sebuah paragraf?",
+      "answer": "Kalimat utama",
+      "input_type": "text",
+      "time_limit": 35
+    }
+  ]
+}

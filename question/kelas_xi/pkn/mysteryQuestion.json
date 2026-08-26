@@ -1,0 +1,35 @@
+{
+  "difficulty": "mystery",
+  "multiple_choice": [
+    {
+      "id": "M-MC-01",
+      "question": "Asas kewarganegaraan berdasarkan keturunan dinamakan …",
+      "options": [
+        "Ius Soli",
+        "Ius Sanguinis",
+        "Apatride"
+      ],
+      "answer": 1,
+      "explanation": "Ius Sanguinis berdasarkan pertalian darah/keturunan.",
+      "time_limit": 30
+    }
+  ],
+  "true_false": [
+    {
+      "id": "M-TF-01",
+      "question": "Indonesia menganut prinsip kedaulatan rakyat dan kedaulatan hukum.",
+      "answer": true,
+      "explanation": "Sesuai Pasal 1 Ayat 2 dan 3 UUD 1945.",
+      "time_limit": 25
+    }
+  ],
+  "essay": [
+    {
+      "id": "M-ES-01",
+      "question": "Apa sebutan untuk kondisi seseorang yang tidak memiliki kewarganegaraan?",
+      "answer": "Apatride",
+      "input_type": "text",
+      "time_limit": 30
+    }
+  ]
+}
