@@ -2620,60 +2620,65 @@ const processNextStormPlayer = () => {
 
   // RESET SEMUA STATE SEBELUM PLAYER MENJAWAB
   isProcessingAnswer = false;
-  document.getElementById("explanation").style.display = "none";
-  document.getElementById("explanationText").textContent = "";
+  const explanationDiv = document.getElementById("explanation");
+  if (explanationDiv) explanationDiv.style.display = "none";
+  const explanationText = document.getElementById("explanationText");
+  if (explanationText) explanationText.textContent = "";
 
-  const q = getRandomQuestion();
+  // 1. Ambil soal via QuestionEngine.Manager berdasarkan tingkat kesulitan aktif
+  const q = QuestionEngine.Manager.getRandomQuestionForTile(globalGameDifficulty);
+  if (!q) {
+    console.error(`[Storm] Gagal mendapatkan soal untuk tingkat kesulitan '${globalGameDifficulty}'!`);
+    finishStorm(false);
+    return;
+  }
+
   // Pastikan currentQuestion diupdate dengan tanda isStorm
   currentQuestion = { ...q, isStorm: true };
 
   const modal = document.querySelector("#questionModal");
   const badge = document.getElementById("difficultyBadge");
+  const questionText = document.getElementById("questionText");
 
-  badge.textContent = `STORM: ${truncateName(
-    players[currentPlayerID - 1].name,
-    10
-  )}`;
-  badge.className = `difficulty-badge mystery`;
-  document.getElementById("questionText").textContent = q.question;
+  // 2. Render UI terpusat via QuestionEngine.Renderer
+  QuestionEngine.Renderer.renderQuestionUI(currentQuestion, modal, badge, questionText);
+
+  // Kustomisasi Badge khusus untuk mode Storm
+  if (badge) {
+    const pName = players[currentPlayerID - 1] ? players[currentPlayerID - 1].name : `Player ${currentPlayerID}`;
+    badge.textContent = `STORM: ${truncateName(pName, 10)}`;
+    badge.className = `difficulty-badge mystery`;
+  }
+
+  if (questionText) {
+    questionText.textContent = currentQuestion.question || "Pertanyaan tidak tersedia";
+  }
 
   lowerBGM();
-  modal.classList.remove("hide");
-  setupQuestionByType(currentQuestion);
 
-  startStormQuestionTimer();
-};
-
-const startStormQuestionTimer = () => {
+  // 3. Jalankan Timer terpusat via QuestionEngine.TimerManager
   const timerEl = document.getElementById("timer");
-  let timeLeft = 30; // Waktu lebih singkat untuk storm
-  timerEl.textContent = timeLeft;
-
-  if (questionTimer) clearInterval(questionTimer);
-  questionTimer = setInterval(() => {
-    timeLeft--;
-    timerEl.textContent = timeLeft;
-    if (timeLeft <= 0) {
-      clearInterval(questionTimer);
-      handleStormTimeout();
-    }
-  }, 1000);
+  const timeLimit = currentQuestion.time_limit || 30;
+  QuestionEngine.TimerManager.start(timeLimit, timerEl, handleStormTimeout);
 };
 
 const handleStormTimeout = () => {
-  if (questionTimer) clearInterval(questionTimer);
+  QuestionEngine.TimerManager.stop();
+  if (isProcessingAnswer) return;
+  isProcessingAnswer = true;
 
-  document.querySelector("#questionModal").classList.add("hide");
-  showAnswerResult(
-    false,
-    `Waktu ${players[stormQueue[stormPlayerIndex] - 1].name} habis!`
-  );
+  const questionModal = document.querySelector("#questionModal");
+  if (questionModal) questionModal.classList.add("hide");
 
-  // Pastikan status dipulihkan agar pemain berikutnya bisa menjawab
-  isProcessingAnswer = false;
+  const pName = players[stormQueue[stormPlayerIndex] - 1]
+    ? players[stormQueue[stormPlayerIndex] - 1].name
+    : `Player ${stormQueue[stormPlayerIndex]}`;
+
+  showAnswerResult(false, `Waktu ${pName} habis!`);
 
   setTimeout(() => {
     closeResultModal();
+    isProcessingAnswer = false;
     stormPlayerIndex++;
     processNextStormPlayer();
   }, 2000);
@@ -2703,7 +2708,7 @@ const finishStorm = (isSuccess) => {
   isStormActive = false;
   isProcessingAnswer = false;
   isRolling = false;
-  if (questionTimer) clearInterval(questionTimer);
+  QuestionEngine.TimerManager.stop();
 
   // Jika badai berakhir karena waktu habis atau semua salah, baru ganti musik di sini
   if (!isSuccess) {
