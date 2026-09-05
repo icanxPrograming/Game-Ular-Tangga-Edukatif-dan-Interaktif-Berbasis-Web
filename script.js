@@ -717,6 +717,26 @@ QuestionEngine.Loader = {
 };
 
 QuestionEngine.Manager = {
+  usedQuestionIds: new Set(),
+
+  resetHistory: (tileType = null) => {
+    if (tileType) {
+      const pool = questionPool[tileType];
+      if (pool) {
+        Object.values(pool).forEach((arr) => {
+          if (Array.isArray(arr)) {
+            arr.forEach((q) => {
+              if (q && q.id) QuestionEngine.Manager.usedQuestionIds.delete(q.id);
+            });
+          }
+        });
+      }
+    } else {
+      QuestionEngine.Manager.usedQuestionIds.clear();
+    }
+    console.log(`[QuestionEngine] History question ${tileType ? `'${tileType}' ` : ''}telah di-reset.`);
+  },
+
   getRandomQuestionForTile: (tileType) => {
     const pool = questionPool[tileType];
     if (!pool) {
@@ -725,29 +745,51 @@ QuestionEngine.Manager = {
       return { ...fallback.multiple_choice[0], type: "multiple_choice", difficulty: tileType, tileType };
     }
 
-    const availableTypes = Object.keys(pool).filter(
-      (type) => Array.isArray(pool[type]) && pool[type].length > 0
-    );
+    // Kumpulkan semua soal valid dari seluruh jenis (MCQ, True/False, Essay) dalam pool tileType
+    let allQuestions = [];
+    Object.keys(pool).forEach((type) => {
+      if (Array.isArray(pool[type])) {
+        pool[type].forEach((q) => {
+          if (q && q.id) {
+            allQuestions.push({ ...q, type });
+          }
+        });
+      }
+    });
 
-    if (availableTypes.length === 0) {
+    if (allQuestions.length === 0) {
       console.warn(`[QuestionManager] Dataset '${tileType}' kosong. Menggunakan fallback.`);
       const fallback = getFallbackQuestions(tileType);
       return { ...fallback.multiple_choice[0], type: "multiple_choice", difficulty: tileType, tileType };
     }
 
-    const selectedType = availableTypes[Math.floor(Math.random() * availableTypes.length)];
-    const questions = pool[selectedType];
-    if (!questions || questions.length === 0) {
-      const fallback = getFallbackQuestions(tileType);
-      return { ...fallback.multiple_choice[0], type: "multiple_choice", difficulty: tileType, tileType };
+    // Filter soal yang belum pernah digunakan
+    let availableQuestions = allQuestions.filter(
+      (q) => !QuestionEngine.Manager.usedQuestionIds.has(q.id)
+    );
+
+    // KETIKA SEMUA SOAL SUDAH DIGUNAKAN: Reset cycle khusus untuk tileType ini
+    if (availableQuestions.length === 0) {
+      console.log(`[Question Engine] Question pool for '${tileType}' exhausted. Resetting question cycle.`);
+      QuestionEngine.Manager.resetHistory(tileType);
+      availableQuestions = allQuestions;
     }
 
-    const q = questions[Math.floor(Math.random() * questions.length)];
+    // Random selection dari soal yang belum digunakan
+    const selectedQ = availableQuestions[Math.floor(Math.random() * availableQuestions.length)];
+
+    // Catat ID soal terpilih
+    QuestionEngine.Manager.usedQuestionIds.add(selectedQ.id);
+
+    const usedCount = allQuestions.filter((q) => QuestionEngine.Manager.usedQuestionIds.has(q.id)).length;
+    console.log(
+      `[Question Engine] Context: Class=${selectedClass} Subject=${selectedSubject} TileType=${tileType} | Available=${availableQuestions.length} Used=${usedCount}/${allQuestions.length} | Selected=${selectedQ.id}`
+    );
+
     return {
-      ...q,
+      ...selectedQ,
       difficulty: tileType,
-      tileType: tileType,
-      type: selectedType
+      tileType: tileType
     };
   }
 };
@@ -855,6 +897,7 @@ let questionPool = {
 let questionsLoaded = false;
 
 const loadQuestions = async (classId = selectedClass, subjectId = selectedSubject, difficultyId = globalGameDifficulty) => {
+  QuestionEngine.Manager.resetHistory();
   questionsLoaded = false;
   const basePath = `question/${classId}/${subjectId}/`;
 
@@ -1031,55 +1074,7 @@ const getRandomQuestion = () => {
   else if (rand < 0.4) difficulty = "hard";
   else if (rand < 0.7) difficulty = "standard";
 
-  const pool = questionPool[difficulty];
-  if (!pool) {
-    console.error(`No pool for difficulty: ${difficulty}`);
-    const fallback = getFallbackQuestions("easy");
-    return {
-      ...fallback.multiple_choice[0],
-      type: "multiple_choice",
-      difficulty: "easy",
-    };
-  }
-
-  // Dapatkan semua tipe yang tersedia
-  const availableTypes = Object.keys(pool).filter(
-    (type) => pool[type] && pool[type].length > 0
-  );
-
-  if (availableTypes.length === 0) {
-    console.error(`No questions available for ${difficulty}`);
-    const fallback = getFallbackQuestions("easy");
-    return {
-      ...fallback.multiple_choice[0],
-      type: "multiple_choice",
-      difficulty: "easy",
-    };
-  }
-
-  // Pilih tipe acak
-  const selectedType =
-    availableTypes[Math.floor(Math.random() * availableTypes.length)];
-  const questions = pool[selectedType];
-
-  if (!questions || questions.length === 0) {
-    console.error(`No questions of type ${selectedType} for ${difficulty}`);
-    const fallback = getFallbackQuestions("easy");
-    return {
-      ...fallback.multiple_choice[0],
-      type: "multiple_choice",
-      difficulty: "easy",
-    };
-  }
-
-  // Pilih soal acak
-  const question = questions[Math.floor(Math.random() * questions.length)];
-
-  return {
-    ...question,
-    type: selectedType,
-    difficulty: difficulty,
-  };
+  return QuestionEngine.Manager.getRandomQuestionForTile(difficulty);
 };
 
 // ===== Variabel global untuk soal aktif =====
